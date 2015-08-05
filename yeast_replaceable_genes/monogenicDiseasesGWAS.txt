@@ -1,0 +1,83 @@
+Sickle cell anemia (severity), Electroencephalogram traits, Asparaginase hypersensitivity in acute lymphoblastic leukemia, GRIA1
+Common variable immunodeficiency, Red vs non-red hair color, MC1R
+Amyotrophic lateral sclerosis (interaction), Iris color, HERC2
+Endothelial function traits, OBFC1
+HIV (mother-to-child transmission), General cognitive ability, Blue vs. brown eyes, OCA2
+Depression (age of onset), Breast cancer (menopausal hormone therapy interaction), Pulmonary arterial hypertension (without BMPR2 mutations), CBLN2
+Lung adenocarcinoma (clinical stage), Idiopathic pulmonary fibrosis, TERT
+Neuroblastoma (high-risk), BARD1
+Nevus count, Moyamoya disease, RNF213
+LDL (oxidized), apoB
+Fracture-related traits, Non-small cell lung cancer (survival), Response to platinum-based chemotherapy in head and neck cancers, Haptoglobin levels, HP
+Hip bone size, PLCL1
+Platelet reactivity, Burning and freckling, ASIP
+Cholesterol and Triglycerides, SRGAP2
+Acute lung injury, Esophageal squamous cell cancer (length of survival), SLC39A6
+Neuranatomic and neurocognitive phenotypes, DISC1
+Malignant pleural mesothelioma, Attention deficit hyperactivity disorder (hyperactivity-impulsivity symptoms), Fluorouracil treatment response in colorectal cancer, Adverse response to aromatase inhibitors, TCL1A
+Age-related macular degeneration (wet), HTRA1
+Cystic fibrosis (meconium ileus) , Soluble E-selectin levels, ABO
+Memory (short-term), Antipsychotic drug-induced weight gain, MC4R
+Kidney stones, CLDN14
+Type 2 diabetes and gout, 334 SNPs
+Naphthyl-keratin adduct levels , Aortic stiffness, BCL11B
+Environmental confusion in the home, Epilepsy, CAMSAP1L1
+Social and non-social autistic-like traits, Aspartate aminotransferase , GOT1
+Sleep depth, Hemoglobin levels, Arsenic metabolism , Peripartum cardiomyopathy, Meningioma , MLLT10
+Gallstones, ABCG8
+Coronary spasm, Job-related exhaustion, UST
+Pericardial fat, TRIB2
+Ventricular fibrillation, Mitral annular calcification, Subclinical brain infarct, Aspirin exacerbated respiratory disease in asthmatics, HLA-DPB1
+Response to dabigatran etexilate treatment, CES1
+Response to cerivastatin, RYR2
+Postoperative ventricular dysfunction , Schizophrenia (cytomegalovirus infection interaction), CTNNA3
+Response to antiplatelet therapy, Alcohol withdrawal symptoms, Bone mineral density (interaction), Major CVD, Bipolar disorder (Negative mood delusions), Cystic fibrosis-related diabetes, SLC26A9
+Venous thromboembolism (gene x gene interaction), Otosclerosis, RELN
+Attention deficit hyperactivity disorder motor coordination, E-selectin levels, ABO
+Temporomandibular joint disorders, TSPAN9
+Response to iloperidone treatment (PANSS-T score), Amygdala reactivity, Response to temozolomide, MGMT
+Sex ratio at birth, Type 2 diabetes and 6 quantitative traits, CYP3A4 enzyme activity, Serum ceruloplasmin levels, Paclitaxel-induced neuropathy, Gamma gluatamyl transferase levels (interaction with age), Chemotherapeutic susceptibility, Cognitive ability, Thoracic aortic aneurysms and dissections, FBN1
+Aortic-valve calcification, LPA
+Osteonecrosis of the jaw, CYP2C8
+Lipid levels in hepatitis C treatment, IL28B
+Postoperative nausea and vomiting , Sick sinus syndrome, Lapatinib-induced hepatotoxicity, Beta-trace protein levels, PTGDS
+Serologic markers in systemic lupus erythematosus, Multiple myeloma (hyperdiploidy), Vitiligo (non-segmental), KIAA1005
+Glycemic control in type 1 diabetes (HbA1c), Attention deficit hyperactivity disorder (inattention symptoms), Circulating cell-free DNA, UGT1A1
+Obesity and osteoporosis, SOX6
+Lean body mass and age at menarche (combined), DARC
+Cortisol secretion, Aspirin hydrolysis (plasma), BCHE
+Diabetes (incident), TMEFF2
+Memory performance, Testicular dysgenesis syndrome , IFN-related cytopenia, ITPA
+Sasang constitutional medicine type, Hypertrophic cardiomyopathy, Migraine in bipolar disorder, Response to tamoxifen in breast cancer, C10orf11
+Anxiety, Fat intake, Crohn's disease and sarcoidosis (combined), C10orf67
+Bitter taste response, TAS2R38
+YKL-40 levels, CHI3L1
+Body mass in chronic obstructive pulmonary disease, FTO
+Acute graft versus host disease, Neural processing (facial expression), Attention deficit hyperactivity disorder (combined symptoms), Small-cell lung cancer, DYNC2H1
+HIV-1 replication, DYRK1A
+Maximal oxygen uptake response, Confectionary intake, Soluble leptin receptor levels, LEPR
+Prostate cancer mortality, Parkinson's disease (interaction with coffee consumption), Pseudoexfoliation syndrome, Chronic fatigue syndrome, Personality disorders, Bronchopulmonary dysplasia, CD4:CD8 lymphocyte ratio, HLA-B
+Substance dependence, PKNOX2
+Platelet function and related traits, F12
+Body mass index and fat mass, Mathematical ability, Response to platinum-based chemotherapy in small cell and non-small cell lung cancers, Asthma (aspirin-intolerant) , Episodic memory, Brain development, Mathematical ability in children with dyslexia, MYO18B
+Heroin addiction, Otitis media, End-stage renal disease (non-diabetic), MYH9
+Hypospadias, DGKK
+Age-related macular degeneration (smoking status interaction), Vaccine-related adverse events , Polyunsaturated fatty acid levels, Lumiracoxib-related liver injury, HLA-DRB1
+Stevens-Johnson syndrome, Frontotemporal lobar degeneration, Red vs. non-red hair color, ASIP
+Osteoporosis-related phenotypes, SCG2
+Cortical structure, GPCPD1
+Intelligence (childhood), Influenza (severity), Wrist bone mass, SOX6
+Podoconiosis, Myeloproliferative neoplasms, JAK2
+Interleukin-18 levels, BCO2
+Methotrexate clearance (acute lymphoblastic leukemia), SLCO1B1
+Glaucoma (exfoliation), LOXL1
+Vascular constriction, Iron deficiency, Oral cancers (chewing tobacco related), Sleep latency, Arterial stiffness, COL4A1
+Factor XI, Paraoxonase activity , PON-1
+Lipoprotein diameter, Major mood disorders, PBRM1
+Pemphigus vulgaris, Neuromyelitis optica, Response to platinum-based chemotherapy in small-cell lung cancer, Autism spectrum disorders (language delay), Male fertility, Response to lithium treatment in bipolar disorder, 5-HTT brain serotonin transporter levels, GALM
+HPV seropositivity, HLA-DQB1
+Lupus, IgA levels, TNFSF13
+Drug-induced liver injury , PPARG
+Asthma treatment response, Odorant perception, Reporting of stressful life event, Response to methylphenidate treatment, Glioblastoma, SSBP2
+Response to ximelagatran treatment, HLA-DRB1
+Pelvic organ prolapse, Handedness in dyslexia, PCSK6
