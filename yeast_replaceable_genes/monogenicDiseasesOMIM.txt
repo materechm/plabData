@@ -1,0 +1,1075 @@
+{Stature QTL 1} (2), STQTL1
+Optic atrophy 4 (2), OPA4
+Argininemia, ARG1
+{Inflammatory bowel disease 11} (2), IBD11
+Argininosuccinic aciduria, ASL
+Ehlers-Danlos syndrome, type VIIB, COL1A2
+[Bone mineral density QTL 5] (2), BMND5
+Insulin-like growth factor I, resistance to, IGF1R
+Myopia-3 (2), MYP3
+Gustavson syndrome (2), GUST
+Myotonia congenita, dominant, CLCN1
+Galactokinase deficiency with cataracts, GALK1
+Norum disease, LCAT
+{Psoriasis susceptibility 11} (2), PSORS11
+Parathyroid adenoma, MEN1
+[Thyroid-stimulating hormone level QTL 1] (2), TSHQTL1
+{Migraine, with or without aura, susceptibility to, MGR12
+{Stature QTL 2} (2), STQTL2
+Acropectoral syndrome (2), ACRPS
+Erythrocytosis, familial, 2, VHL
+Cervical carcinoma (2), ST3
+Rhabdomyolysis, CYP2C8
+{Panic disorder, susceptibility to}, COMT
+Progressive familial heart block, PFHB2
+Rickets, vitamin D-resistant, type IIA, VDR
+Developmental dysplasia of the hip 1 (2), DDH1
+Holoprosencephaly-1 (2), HPE1
+Corpus callosum, agenesis of, with mental retardation, ocular coloboma and micrognathia, IGBP1
+Myopia 9 (2), MYP9
+FG syndrome 5 (2), FGS5
+Cardiomyopathy, dilated, 1DD, RBM20
+46XX sex reversal 3 (4), SRXX3
+{Hypertension, essential, susceptibility to, 3}, HYT3
+Severe combined immunodeficiency due to ADA deficiency, ADA
+Glaucoma, primary open angle, juvenile-onset, JOAG2
+Harderoporphyria, CPOX
+Mean platelet volume QTL5 (2), MPVQTL5
+{Seasonal affective disorder, susceptibility to}, HTR2A
+Bleeding disorder, BDET
+Carpenter syndrome, RAB23
+Hemolytic anemia due to glutathione reductase deficiency (1), GSR
+Deafness, autosomal dominant 5, DFNA5
+Thyroxine-binding globulin deficiency (3), TBG
+{Inflammatory bowel disease 26} (2), IBD26
+N-acetylglutamate synthase deficiency, NAGS
+Carotid intimal medial thickness (2), CIMT
+Hashimoto thyroiditis (2), HT
+{T-cell acute lymphoblastic leukemia} (3), MYB
+Hypoparathyroidism, autosomal recessive, PTH
+{Strabismus, susceptibility to, STBMS1
+{Otosclerosis 4} (2), OTSC4
+Amyloidosis, Finnish type, GSN
+{Stature QTL 13} (2), STQTL13
+Sandhoff disease, infantile, juvenile, and adult forms, HEXB
+Optic atrophy 2, OPA2
+Apolipoprotein A-II deficiency (3), APOA2
+Epidermolysis bullosa of hands and feet, ITGB4
+Small cell cancer of the lung, somatic, RB1
+Bornholm eye disease (2), BED
+Metaphyseal chondrodysplasia, Schmid type, COL10A1
+[Longevity 1] (2), LGV1
+Rippling muscle disease-1 (2), RMD1
+Total anomalous pulmonary venous return (2), TAPVR1
+Spermatogenic failure, X-linked, SPGFX2
+Plasminogen deficiency, type I, PLG
+?Testicular microlithiasis, SLC34A2
+Ectodermal dysplasia/skin fragility syndrome, PKP1
+Amyloidosis, renal, LYZ
+Biotinidase deficiency, BTD
+Metachromatic leukodystrophy, ARSA
+?Laryngeal adductor paralysis (2), LAP
+Amyloidosis, 3 or more types, APOA1
+Gaucher disease, type II, GBA
+{Hypertension, essential, susceptibility to, 1}, HYT1
+{Malignant mesothelioma, MMS
+{Stature QTL 8} (2), STQTL8
+Schindler disease, type I, NAGA
+[Bone mineral density QTL 3] (2), BMND3
+Adrenocorticotropic hormone deficiency, TBX19
+Glaucoma 1C, GLC1C
+{Parkinson disease 12} (2), PARK12
+{Autism susceptibility 1} (2), AUTS1
+Orofacial cleft 13 (2), OFC13
+{Colonic adenoma recurrence, reduced risk of}, ODC1
+CDAGS syndrome (2), CDAGS
+Split-hand/foot malformation with long bone deficiency 2 (2), SHFLD2
+{Inflammatory bowel disease 20} (2), IBD20
+Nanophthalmos-1 (2), NNO1
+Hypophosphatemic rickets and hyperparathyroidism (2), HPRHP
+{Metabolic syndrome, protection against}, MTP
+Orofacial cleft 4 (2), OFC4
+{Rheumatoid arthritis, RA
+Histiocytoma, angiomatoid fibrous, somatic, CREB1
+Glutamate formiminotransferase deficiency, FTCD
+{Scoliosis, isolated, susceptibility to, IS3
+Vertigo, benign recurrent, BRV2
+Neurofibromatosis, type 2, NF2
+[Novelty seeking personality], DRD4
+{?Allergy and asthma susceptibility} (2), IGES
+Weill-Marchesani-like syndrome, ADAMTS17
+Renal cell carcinoma, papillary, 1, familial and somatic, MET
+Anosmia, ANIC
+{Malignant hyperthermia susceptibility 4} (2), MHS4
+{Hypospadias 4, X-linked, HYSP4
+Obesity, autosomal dominant, MC4R
+Dopamine receptor D2, ANKK1
+Atrial septal defect 1 (2), ASD1
+DNA ligase I deficiency (3), LIG1
+Colorectal cancer with chromosomal instability, BUB1
+Cavitary optic disc anomalies (2), CODA
+[Anhaptoglobinemia], HP
+ApoA-I and apoC-III deficiency, APOA1
+{Glioma susceptibility 4} (2), GLM4
+{Osteoporosis, postmenopausal}, COL1A2
+Cholestasis, VIL1
+Thalassemia, HBD
+Weyers acrodental dysostosis, EVC
+[High density lipoprotein cholesterol level QTL 2] (2), HDLCQ2
+Epilepsy, childhood absence, ECA1
+Vesicoureteral reflux (2), VUR
+Arrhythmogenic right ventricular dysplasia 3 (2), ARVD3
+Lymphocytic leukemia, RAP1GDS1
+{Low renin hypertension, CYP11B2
+Emanuel syndrome (4), DER22t11-22
+Alopecia-mental retardation syndrome 1 (2), APMR1
+[Blood group GIL], AQP3
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis, SARS2
+Isobutyryl-CoA dehydrogenase deficiency, ACAD8
+{Inflammatory bowel disease 6} (2), IBD6
+[?Hyperproglucagonemia] (1), GCG
+{Hypertension, essential, salt-sensitive}, ADD1
+Mental retardation, severe, MRST
+Stargardt disease 4 (2), STGD4
+{Glioma, susceptibility to, somatic}, IDH1
+Bare lymphocyte syndrome, type II, complementation group C, RFX5
+Bare lymphocyte syndrome, type II, complementation group E, RFX5
+Bare lymphocyte syndrome, type II, complementation group D, RFXAP
+Thalassemia-beta, dominant inclusion-body, HBB
+{Stature QTL 16} (2), STQTL16
+{Age-related hearing impairment 1} (2), ARHI1
+{Asperger syndrome susceptibility 3} (2), ASPG3
+[Blood group, Kell], KEL
+Myotonia congenita, recessive, CLCN1
+[High density lipoprotein cholesterol level QTL 1] (2), HDLCQ1
+[Sex hormone-binding blobulin circulating level QTL 1] (2), SXGQTL1
+Hyperchlorhidrosis, isolated, CA12
+Dystonia 13, DYT13
+Senior-Loken syndrome 3 (2), SLSN3
+Ichthyosis, congenital, autosomal recessive 7, ARCI7
+Forsythe-Wakeling syndrome (2), FWS
+Wegener granulomatosis (2), WG
+{Spinal muscular atrophy, type III, modifier of}, SMN2
+[Visuospatial/perceptual abilities] (2), VSPA
+[Birth weight QTL4] (2), BWQTL4
+Pulmonary disease, chronic obstructive, COPD
+Hemosiderosis, systemic, due to aceruloplasminemia, CP
+Supernumerary der(22)t(8-22) syndrome (4), DER22t8-22
+Alpha/beta T-cell lymphopenia with gamma/delta T-cell expansion, severe cytomegalovirus infection, and autoimmunity, RAG1
+[Body mass index QTL2] (2), BMIQ2
+{Lung cancer susceptibility 5} (2), LNCR5
+{Alzheimer disease 12} (2), AD12
+Pyridoxamine 5'-phosphate oxidase deficiency, PNPO
+[Mean platelet volume QTL3] (2), MPVQTL3
+Vesicoureteral reflux 5 (2), VUR5
+{Autism susceptibility 3} (2), AUTS3
+Canavan disease, ASPA
+Epilepsy, X-linked, with variable learning disabilities and behavior disorders, SYN1
+?{Amyotrophic lateral sclerosis, susceptibility to}, NEFH
+{Vitamin B6 plasma level QTL 1} (2), B6QTL1
+Transient erythroblastopenia of childhood (2), TEC
+CHILD syndrome, NSDHL
+{Leprosy, susceptiblity to, LPRS6
+Orofacial cleft 14 (2), OFC14
+Transaldolase deficiency, TALDO1
+Dermatopathia pigmentosa reticularis, KRT14
+Anisomastia (2), ANMA
+{Influenza, severe, susceptibility to}, IFITM3
+[Bone size quantitative trait locus 3] (2), BSZQTL3
+{Sarcoidosis, susceptibility to, SS3
+{Lung cancer susceptibility} (2), LNCR1
+?Hepatocellular carcinoma (1), LCO
+Spinal muscular atrophy, chronic distal, SMAR
+Hypospadias 3, HYSP3
+Panbronchiolitis, PBLT
+{Mental health wellness-2} (2), MHW2
+{Diabetes mellitus, IDDM1
+Gastrointestinal stromal tumor, somatic, PDGFRA
+Dopamine beta-hydroxylase deficiency, DBH
+Platelet PLC beta-2 deficiency (1), PLCB2
+Ehlers-Danlos syndrome, cardiac valvular form, COL1A2
+Robinow syndrome, autosomal dominant 1, WNT5A
+Xeroderma pigmentosum, group E, DDB-negative subtype, DDB2
+Congenital heart defects, multiple types, CHDT3
+{Restless legs syndrome, susceptibility to, RLS8
+Ciliary dyskinesia, primary, 14, CCDC39
+Ventricular tachycardia, catecholaminergic polymorphic, 2, CASQ2
+Male germ cell tumor (2), MGCT
+Hypoparathyroidism, autosomal dominant, PTH
+Hypoaldosteronism, congenital, due to CMO I deficiency, CYP11B2
+Otosclerosis 8 (2), OTSC8
+Synpolydactyly 3 (2), SPD3
+Aneurysmal bone cysts (2), ANBC
+Methylmalonic aciduria, vitamin B12-responsive, due to defect in synthesis of adenosylcobalamin, cblB complementation type, MMAB
+Hypotrichosis 9 (2), HYPT9
+Bothnia retinal dystrophy, RLBP1
+{Alzheimer disease-13} (2), AD13
+Muscular dystrophy with rimmed vacuoles (2), MDRV
+Ptosis, hereditary congenital, PTOS1
+?Retinal cone dystrophy-1 (2), RCD1
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency, GPI
+{Psoriasis susceptibility 6} (2), PSORS6
+Hypoparathyroidism, familial isolated, GCMB
+Epilepsy, partial, EPPS
+Hypodysfibrinogenemia, FGG
+Retinoblastoma, RB1
+{Cardiac conduction defect, susceptibility to}, AKAP10
+Cousin syndrome, TBX15
+Glycogen storage disease 0, liver, GYS2
+?Preauricular fistulae, PAFC
+{Restless legs syndrome 7} (2), RLS7
+Amyotrophic lateral sclerosis 7 (2), ALS7
+Cayler cardiofacial syndrome (2), ACF
+Oculomotor apraxia, congenital, COMA
+{Prostate cancer, susceptibility to, 4}, HPC4
+Orofacial cleft-2 (2), OFC2
+[Sprinting performance] (3), ACTN3
+Burkitt lymphoma, MYC
+[High density lipoprotein cholesterol level QTL 5] (2), HDLCQ5
+{Psoriasis susceptibility 8} (2), PSORS8
+Keratoderma, palmoplantar, PPKP1B
+Thalassemias, beta-, HBB
+Left ventricular noncompaction 2 (2), LVNC2
+Panic disorder 3 (2), PAND3
+Microcephaly, mental retardation, and distinctive facies, MMRFCGU
+Combined C6/C7 deficiency (3), C6
+Spondylocheirodysplasia, Ehlers-Danlos syndrome-like, SLC39A13
+[Bone mineral density QTL 2] (2), BMND2
+Goldberg-Shprintzen megacolon syndrome, KIAA1279
+?Antiphospholipid syndrome, ATPLS
+Miyoshi muscular dystrophy 2 (2), MMD2
+[Fasting plasma glucose level QTL 1] (2), FGQTL1
+[Fasting plasma glucose level QTL 4] (2), FGQTL4
+Eosinophilia, EOS
+[QT interval, QTV
+[Urate oxidase deficiency] (1), UOX
+HMG-CoA synthase-2 deficiency, HMGCS2
+{Glioma susceptibility 6} (2), GLM6
+SC phocomelia syndrome, ESCO2
+{Inflammatory bowel disease 15} (2), IBD15
+{Migraine, familial typical, susceptibility to, MGR2
+Mental retardation, X-linked, syndromic, MRXSMP
+Cystinosis, late-onset juvenile or adolescent nephropathic, CTNS
+Glycine N-methyltransferase deficiency, GNMT
+Rickets due to defect in vitamin D 25-hydroxylation, CYP2R1
+Photoparoxysmal response 2 (2), PPR2
+{Thromboembolism, susceptibility to}, MTHFR
+Fucosyltransferase 6 deficiency, FUT6
+McArdle disease, PYGM
+Optic atrophy 6 (2), OPA6
+Factor XI deficiency, autosomal dominant, F11
+{Endometriosis, susceptibility to, ENDO1
+{Parkinson disease 3} (2), PARK3
+Spinocerebellar ataxia 25 (2), SCA25
+Keratoconus 2 (2), KTCN2
+Panic disorder syndrome 1 (2), PAND1
+Hypereosinophilic syndrome, idiopathic, resistant to imatinib, PDGFRA
+Microphthalmia with coloboma 2 (2), MCOPCB2
+Myasthenia gravis with thymus hyperplasia (2), MYAS1
+{Asperger syndrome susceptibility 1} (2), ASPG1
+Mammary-digital-nail syndrome (2), MDNS
+[Dopamine-beta-hydroxylase activity levels, DBH
+Myelodysplasia syndrome-1 (3), MDS1
+Xanthinuria, type I, XDH
+Fetal hemoglobin quantitative trait locus 4 (2), HBFQTL4
+Nystagmus 3, congenital, NYS3
+{Inflammatory bowel disease 18} (2), IBD18
+Meningioma, NF2-related, somatic, NF2
+Growth retardation with deafness and mental retardation due to IGF1 deficiency, IGF1
+Phobia, PHOBS
+Osteoarthritis with mild chondrodysplasia, COL2A1
+[AMP deaminase deficiency, erythrocytic], AMPD3
+CD8 deficiency, familial, CD8A
+Alzheimer disease-11 (2), AD11
+Complex I, mitochondrial respiratory chain, deficiency of, NDUFS6
+Dystonia, dopa-responsive, due to sepiapterin reductase deficiency, SPR
+{Stature QTL 4} (2), STQTL4
+Spinocerebellar ataxia, autosomal recessive with axonal neuropathy, TDP1
+Corneal clouding, APOA1
+?ACAT2 deficiency, ACAT2
+Synesthesia (2), SYNSTH
+Friedreich ataxia 2 (2), FRDA2
+Retinoblastoma, trilateral, RB1
+Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis, COX4I2
+Wood neuroimmunologic syndrome (2), INDX
+?Hyperimmunoglobulin G1 syndrome (2), IGHR
+Cushing syndrome, ACTH-independent adrenal, somatic, PRKACA
+Lymphoma/leukemia, B-cell, FVT1
+Alopecia-mental retardation syndrome 2 (2), APMR2
+Deafness, autosomal recessive 36, ESPN
+CPT deficiency, hepatic, type IA, CPT1A
+Holt-Oram syndrome, TBX5
+Otosclerosis 7 (2), OTSC7
+Diphenylhydantoin toxicity (1), EPHX1
+{Smoking as a quantitative trait locus 1} (2), SQTL1
+Porphyria cutanea tarda, UROD
+{Stature QTL 23} (2), STQTL23
+Myopia 13 (2), MYP13
+Macrothrombocytopenia, autosomal dominant, TUBB1-related, TUBB1
+Li-Fraumeni syndrome 3 (2), LFS3
+Acromegaloid features, overgrowth, cleft palate, AOCH
+Hereditary persistence of fetal hemoglobin, HBB
+Myopia 20, MYP20
+{Leukemia, acute lymphocytic, susceptibility to, ALL1
+Joubert syndrome-3, AHI1
+{Ischemic stroke, susceptibility to}, NOS3
+Alopecia areata 2 (2), AA2
+{Opioid dependence, susceptibility to, ODS1
+Alzheimer disease 8, AD8
+Alzheimer disease 6, AD6
+Episodic muscle weakness, EMWX
+Retinitis pigmentosa 24 (2), RP24
+Myopia-2 (2), MYP2
+{Age-related hearing impairment 2} (2), ARHI2
+Cystinosis, nephropathic, CTNS
+Trichorhinophalangeal syndrome, type III, TRPS1
+Telangiectasia, HBT
+{Alzheimer disease-14} (2), AD14
+Aural atresia, CAA
+Myoglobinuria, acute recurrent, autosomal recessive, LPIN1
+Muscle strength quantitative trait locus 1 (2), MUSTQTL1
+{Psoriasis susceptibility 3} (2), PSORS3
+Cone-rod dystrophy 8 (2), CORD8
+{High density lipoprotein cholesterol, low serum, HDLC3
+Moyamoya disease 3 (2), MYMY3
+Glomerulopathy with fibronectin deposits 1 (2), GFND1
+Zygodactyly 1 (2), ZD1
+Chromosome 2q31.2 deletion syndrome (4), DEL2q31
+Cone-rod dystrophy 17 (2), CORD17
+Glaucoma 3, primary congenital, GLC3C
+[Hypohaptoglobinemia], HP
+Beta-2-adrenoreceptor agonist, ADRB2
+Camptodactyly 1 (2), CAMPD1
+Bartter syndrome, type 3, CLCNKB
+{Atrial fibrillation, familial, ATFB5
+Jacobsen syndrome (4), JBS
+Spastic paraplegia 19, SPG19
+Spastic paraplegia 14, SPG14
+Pierre Robin syndrome (2), PRBNS
+{Osteoarthritis susceptibility 6} (2), OS6
+Nephropathy, progressive, NEDE
+Vohwinkel syndrome with ichthyosis, LOR
+Otosclerosis 5 (2), OTSC5
+{Anorexia nervosa, susceptibility to, ANON1
+{Malignant hyperthermia susceptibility 2} (2), MHS2
+Vitreoretinopathy with phalangeal epiphyseal dysplasia (3), COL2A1
+{Leber optic atrophy, LOAS
+Legg-Calve-Perthes disease, COL2A1
+Ectodermal dysplasia 5, ECTD5
+Ectodermal dysplasia 8, ECTD8
+Arthrogryposis, distal, DA10
+?Sertoli-cell-only syndrome (1), DAZ
+Kyphoscoliosis 1 (2), KYPSC1
+Hypothyroidism, congenital, due to thyroid dysgenesis or hypoplasia, PAX8
+{Systemic lupus erthematosus, susceptibility to, SLEB15
+Leukoencephalopathy with metaphyseal chondrodysplasia (2), LKMCD
+Myopia 18 (2), MYP18
+[Erythrocytosis, familial, 1], EPOR
+Periodontitis, aggressive, PDON2
+?Tibial hemimelia (2), THM
+Nystagmus 5, congenital, NYS5
+Warfarin sensitivity, CYP2C9
+{Systemic lupus erythematosus with hemolytic anemia} (2), SLEH1
+{Lewy body dementia, susceptibility to}, GBA
+Myopia 11 (2), MYP11
+Delta-beta thalassemia, HBB
+Nystagmus 4, congenital, NYS4
+{Pulmonary function} (2), PLF
+Aplasia of lacrimal and salivary glands, FGF10
+?Retinitis pigmentosa, X-linked recessive, RP6
+Myopia 7 (2), MYP7
+{Myocardial infarction, susceptibility to, MCI2
+Myopia 19 (2), MYP19
+[Fasting plasma glucose level QTL 3] (2), FGQTL3
+{Obsessive-compulsive disorder, susceptibility to}, HTR2A
+Spastic paraplegia 38, SPG38
+Spastic paraplegia 32, SPG32
+Spastic paraplegia 37, SPG37
+Spastic paraplegia 36, SPG36
+Spastic paraplegia 34, SPG34
+Radial ray deficiency (2), RRDX
+Methylmalonic aciduria and homocystinuria, cblC type, MMACHC
+Amyotrophic lateral sclerosis 3 (2), ALS3
+Larsen-like syndrome (2), LRSL
+Angio serpiginosum (2), AGSPX
+Chondrocalcinosis with early-onset osteoarthritis (2), CCAL1
+Adenosine deaminase deficiency, partial, ADA
+Aldosterone to renin ratio raised (3), CYP11B2
+{Stature QTL 5} (2), STQTL5
+Sensorineural deafness with mild renal dysfunction, BSND
+{Follicular lymphoma, susceptibility to, FL1
+Keratoconus 7 (2), KTCN7
+{Restless legs syndrome 4} (2), RLS4
+Ehlers-Danlos syndrome, type IV, COL3A1
+?Zimmermann-Laband syndrome (2), ZLS
+{Inflammatory bowel disease 3} (2), IBD3
+Saccharopinuria, AASS
+{Lung cancer susceptibility 3} (2), LNCR3
+{Autism susceptibility 12} (2), AUTS12
+Potocki-Lupski syndrome (4), PTLS
+Erythrocytosis due to bisphosphoglycerate mutase deficiency, BPGM
+Ulnar-mammary syndrome, TBX3
+{Psoriasis susceptibility 5} (2), PSORS5
+[Glutaric aciduria III], C7orf10
+Osteopetrosis, autosomal recessive 3, with renal tubular acidosis, CA2
+Pelviureteric junction obstruction (2), PUJO
+C6 deficiency, C6
+Muscle glycogenosis, PHKA1
+?Hairy ears, HEY
+Pseudovaginal perineoscrotal hypospadias, SRD5A2
+{Psoriasis susceptibility 12} (2), PSORS12
+Alcohol sensitivity, acute, ALDH2
+Dystonia-7, DYT7
+?Thrombophilia due to decreased release of tissue plasminogen (1), THPH9
+Alzheimer disease-7 (2), AD7
+Otosclerosis 10 (2), OTSC10
+{Inflammatory bowel disease 16} (2), IBD16
+Microphthalmia with cataract 1 (2), MCOPCT1
+Abetalipoproteinemia, MTP
+Cleft palate, isolated, UBB
+Mental retardation, autosomal recessive 35, MRT35
+{Stature QTL 22} (2), STQTL22
+?EEC syndrome-1 (2), EEC1
+{Tuberculosis, MTBS1
+Somatostatin analog, SSTR5
+Obesity, adrenal insufficiency, and red hair due to POMC deficiency, POMC
+Fructose intolerance, ALDOB
+[Skin/hair/eye pigmentation 11, SHEP11
+?Paget disease of bone (2), PDB
+Sucrase-isomaltase deficiency, congenital, SI
+{Vitiligo-associated multiple autoimmune disease susceptiblity 6} (2), VAMAS6
+{Asthma, protection against}, MUC7
+Ulna and fibula, absence of, with severe limb deficiency, WNT7A
+[Hematocrit/hemoglobin quantitative trait locus 2] (2), HCHGQ2
+{Intelligence QTL1} (2), INTLQ1
+{Stature QTL 18} (2), STQTL18
+Chronic granulomatous disease, autosomal, due to deficiency of CYBA, CYBA
+?Melkersson-Rosenthal syndrome (2), MROS
+[Cinnamon odor, CINN
+Ocular albinism with sensorineural deafness (2), OASD
+{Inflammatory bowel disease 9} (2), IBD9
+{Nevus sebaceous, somatic}, HRAS
+Retinitis pigmentosa 32 (2), RP32
+?Thrombocytopenia, TCPT
+von Hippel-Lindau syndrome, VHL
+Wolf-Hirschhorn syndrome (4), WHS
+Glycogen storage disease II, GAA
+{Asperger syndrome susceptibility 4} (2), ASPG4
+X inactivation, familial skewed, SXI2
+[Bone mineral density QTL 10] (2), BMND10
+[Fasting insulin level quantitative trait locus 1] (2), FIQTL1
+Microtia with nasolacrimal duct imperforation and eye coloboma (1), MNDEC
+Spastic paraplegia 9, SPG9
+{Psoriasis susceptibility 4} (2), PSORS4
+MEHMO syndrome (2), MEHMO
+[Rh-negative blood type] (3), RHD
+Retinitis pigmentosa, RPY
+{Autism susceptibility 6} (2), AUTS6
+[Telomere length, TELM
+Amyotrophic lateral sclerosis 5, ALS5
+Charcot-Marie-Tooth disease, CMTDIA
+Hyperlipidemia, combined, HYPLIP2
+Acatalasemia, CAT
+{Inflammatory bowel disease 23} (2), IBD23
+{Stature QTL 21} (2), STQTL21
+[Musical aptitude QTL 1] (2), MUSQTL1
+{Osteoporosis, susceptibility to}, RIL
+{Esophageal cancer, alcohol-related, ALDH2
+Split-hand/foot malformation 5 (2), SHFM5
+Spinocerebellar ataxia 12, PPP2R2B
+Hypertensive nephropathy (2), HNP1
+Spastic paraplegia, optic atrophy, SPOAN
+Arthrogryposis, distal, type 2A, MYH3
+{Diabetes, type 2, susceptibility to}, GPD2
+DNA topoisomerase I, TOP1
+Muscular dystrophy, congenital, due to ITGA7 deficiency, ITGA7
+3-beta-hydroxysteroid dehydrogenase, type II, deficiency, HSD3B2
+?Coffin-Siris syndrome (2), CSS
+Orofacial cleft 9 (2), OFC9
+{Leukemia, acute lymphoblastic, susceptibility to, ALL2
+?Osteoporosis, involutional, VDR
+Cystinosis, ocular nonnephropathic, CTNS
+Cataract 29, CTRCT29
+Schindler disease, type III, NAGA
+Neurodegeneration due to cerebral folate transport deficiency, FOLR1
+Isovaleric acidemia, IVD
+{Human herpesvirus 8, HHV8S
+Gallbladder disease 3 (2), GBD3
+3-hydroxyisobutryl-CoA hydrolase deficiency, HIBCH
+C7 deficiency, C7
+C8 deficiency, type I, C8A
+Hyperuricemic nephropathy, familial juvenile, HNFJ3
+{Ovarian cancer, OVCAS1
+Epidermolysis bullosa, junctional, with pyloric atresia, ITGB4
+Narcolepsy 2 (2), NRCLP2
+Periventricular nodular heterotopia 5 (4), PVNH5
+Preeclampsia/eclampsia 2 (2), PEE2
+{Hypertension, essential, susceptibility to, 6}, HYT6
+Fuhrmann syndrome, WNT7A
+Arrhythmogenic right ventricular dysplasia 4 (2), ARVD4
+Testicular germ cell tumor (2), TGCT1
+Renal cell carcinoma, somatic, VHL
+Trichorhinophalangeal syndrome, type I, TRPS1
+Eosinophil peroxidase deficiency, EPX
+{Lumbar disc disease, susceptibility to}, CILP
+Kniest dysplasia, COL2A1
+Kondoh syndrome (2), KONDS
+Orofacial cleft 12 (2), OFC12
+Cerebral palsy, ataxic, ACP
+6-mercaptopurine sensitivity, TPMT
+Hyperparathyroidism 3 (2), HRPT3
+{Prostate cancer aggressiveness QTL}, HPCQTL19
+Megaloblastic anemia-1, Norwegian type, AMN
+Hypoaldosteronism, congenital, due to CMO II deficiency, CYP11B2
+[Body mass index QTL3] (2), BMIQ3
+Insulinoma (1), ITS
+Fabry disease, GLA
+3-methylglutaconic aciduria, type I, AUH
+Prolidase deficiency, PEPD
+Alpha-methylacetoacetic aciduria, ACAT1
+Aromatic L-amino acid decarboxylase deficiency, DDC
+{Major affective disorder 5} (2), MAFD5
+Endometrial carcinoma, MSH3
+Spinocerebellar ataxia 37 (2), SCA37
+[Mean platelet volume QTL2] (2), MPVQTL2
+Factor XIIIB deficiency, F13B
+Developmental dysplasia of the hip 2 (2), DDH2
+?Myosclerosis, congenital, COL6A2
+Hair, HRM2
+[Blood group, ABO system], ABO
+Leukemia, Philadelphia chromosome-positive, ABL1
+Neuropathy, hereditary sensory, HSN1B
+Galactosemia, GALT
+Dyskeratosis, DKBI
+Acne inversa, familial, 1, NCSTN
+Aspartylglucosaminuria, AGA
+{Psoriasis susceptibility 7} (2), PSORS7
+Exudative vitreoretinopathy 3 (2), EVR3
+Usher syndrome, type IIC, GPR98/PDZD7 digenic, PDZD7
+Porphyria, hepatoerythropoietic, UROD
+{Hypertension, essential, susceptibility to, 4}, HYT4
+{Leprosy, paucibacillary type, LPRS
+{Aneurysm, AAA3
+Keratoconus 8 (2), KTCN8
+Episodic kinesigenic dyskinesia 2 (2), EKD2
+Brunner syndrome, MAOA
+?Roifman-Chitayat syndrome (2), RCHTS
+{Obesity, early-onset, susceptibility to}, POMC
+Hyperlipoproteinemia, type Ib, APOC2
+SED congenita, COL2A1
+Cutis laxa, AD, ELN
+Hyperinsulinism-hyperammonemia syndrome, GLUD1
+Hepatocellular carcinoma, childhood type, MET
+Hyperbiliverdinemia, BLVRA
+{Autism susceptibility 5} (2), AUTS5
+Roifman syndrome (2), RFMN
+Leukemia, acute lymphoblastic, somatic, FLT3
+{Stature QTL 9} (2), STQTL9
+Gaucher disease, type I, GBA
+Leukemia-2, TAL2
+Cerebral-cerebellar-coloboma syndrome, CCCSX
+{Pulmonary hypertension, chronic thromboembolic, without deep vein thrombosis, CTEPH1
+{Obesity, severe, and type II diabetes}, UCP3
+{Mycobacerium tuberculosis, susceptibility, MTBSX
+Newfoundland rod-cone dystrophy, RLBP1
+Deafness, neurosensory, without vestibular involvement, ESPN
+Porphyria variegata, PPOX
+{Inflammatory bowel disease 7} (2), IBD7
+?Lysosomal acid phosphatase deficiency, ACP2
+Pallister-Killian syndrome (4), PKS
+{Malignant hyperthermia susceptibility 6} (2), MHS6
+[Bone mineral density QTL 11] (2), BMND11
+{Hypertension, essential, susceptibility to, 2}, HYT2
+{Hypertension, pregnancy-induced}, NOS3
+[Body mass index QTL13] (2), BMIQ13
+{Placental abruption} (3), NOS3
+Lipoma, MEN1
+{Restless legs syndrome 6} (2), RLS6
+Glycogen storage disease VI, PYGL
+Hemolytic anemia due to adenylate kinase deficiency, AK1
+T-cell acute lymphoblastic leukemia, somatic, BAX
+Occult macular dystrophy, RP1L1
+Myopia 5 (2), MYP5
+Fucosidosis, FUCA1
+Hematuria, COL4A4
+Platyspondylic skeletal dysplasia, Torrance type, COL2A1
+Angiofibroma, MEN1
+Photoparoxysmal response 1 (2), PPR1
+{Stature QTL 6} (2), STQTL6
+Glutaricaciduria, type I, GCDH
+Myoclonic epilepsy, juvenile, EJM4
+{Prostate cancer, susceptibility to, 3}, HPC3
+Bartter syndrome, type 4a, BSND
+FG syndrome 3 (2), FGS3
+Spastic paraplegia 16, X-linked, SPG16
+Corneal dystrophy, endothelial, XECD
+Hyperaldosteronism, familial, FHII
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovasuclar malformations, FADD
+{Alzheimer disease-15} (2), AD15
+Porokeratosis 7 (2), POROK7
+Mitochondrial complex II deficiency, SDHAF1
+Myopia 10 (2), MYP10
+Ventricular tachycardia, catecholaminergic polymorphic, CPVT3
+{Hepatic fibrosis susceptibility due to Schistosoma mansoni infection} (2), SM2
+Sebaceous tumors, LEF1
+Stickler syndrome, type I, COL2A1
+[Polyunsaturated fatty acids plasma level QTL1] (2), PURAQTL1
+[Hematocrit/hemoglobin quantitative trait locus 1] (2), HCHGQ1
+Vesicoureteral reflux 6 (2), VUR6
+{Alzheimer disease 16} (2), AD16
+Lipoma (3), LPP
+Adenylosuccinase deficiency, ADSL
+Polycystic kidney disease, infantile severe, PKDTS
+{Smoking as a quantitative trait locus 2} (2), SQTL2
+?Progesterone resistance, PGR
+{Inflammatory bowel disease 27} (2), IBD27
+Spondyloperipheral dysplasia, COL2A1
+Polycystic kidney disease 2, PKD2
+Postaxial polydactyly, PAPA2
+?Ragweed sensitivity (2), RWS
+[Gamma-glutamyltransferase, GGT2
+?Stomatocytosis I, EPB72
+{Hypertension, diastolic, resistance to}, KCNMB1
+Pigmented nodular adrenocortical disease, primary, PPNAD4
+Orofacial cleft-3 (2), OFC3
+Glycerol kinase deficiency, GK
+{Autism susceptibility 13} (2), AUTS13
+[Fetal hemoglobin QTL5] (2), HBFQTL5
+Hirschsprung disease, cardiac defects, and autonomic dysfunction, ECE1
+Mean platelet volume QTL6 (2), MPVQTL6
+{Otitis media, OMS
+{Rheumatoid arthritis, systemic juvenile, susceptibility to}, MIF
+Keutel syndrome, MGP
+HMG-CoA lyase deficiency, HMGCL
+Troyer syndrome, SPG20
+Tukel syndrome (2), TUKLS
+Abdominal obesity-metabolic syndrome (2), AOMS2
+Otosclerosis 3 (2), OTSC3
+{Inflammatory bowel disease 5} (2), IBD5
+{Hypersensitivity syndrome, carbamazepine-induced, susceptibility to}, HLA-A
+Multiple endocrine neoplasia 1, MEN1
+[Ezetimibe, NPC1L1
+MASP2 deficiency, MASP2
+Hyperchylomicronemia, late-onset, APOA5
+{Hangover, susceptibility to}, ALDH2
+Pycnodysostosis, CTSK
+Welander distal myopathy (2), WDM
+[High density lipoprotein cholesterol level QTL 4] (2), HDLCQ4
+{Coronary artery spasm 1, NOS3
+Gallbladder disease 2 (2), GBD2
+Cholangitis, PSC
+Acute insulin response (2), AIR
+Lymphedema, hereditary, LMPH1B
+Mean platelet volume QTL4 (2), MPVQTL4
+Brooks-Wisniewski-Brown syndrome (2), MRXSBWB
+Orthostatic hypotensive disorder of Streeten (2), OHDS
+Leukoencephalopathy with dystonia and motor neuropathy, SCP2
+Keratoconus 6 (2), KTCN6
+{Cancer progression/metastasis} (3), FGFR4
+[Superoxide dismutase, SOD3
+Macrostomia (2), MACST
+{Parkinson disease 16} (2), PARK16
+Hawkinsinuria, HPD
+Gaucher disease, perinatal lethal, GBA
+Vesicoureteral reflux 4 (2), VUR4
+Neutrophil immunodeficiency syndrome, RAC2
+Macular dystrophy, retinal, MCDR3
+Ceroid lipofuscinosis, neuronal, 5, CLN5
+Tyrosinemia, type III, HPD
+Factor VII deficiency, F7
+[Body mass index QTL6] (2), BMIQ6
+Gaucher disease, type IIIC, GBA
+Dyschromatosis universalis hereditaria 2 (2), DUH2
+Carcinoid tumor of lung (3), MEN1
+Bardet-Biedl syndrome 5, BBS5
+Bardet-Biedl syndrome 7, BBS7
+Bardet-Biedl syndrome 1, BBS1
+Bardet-Biedl syndrome 2, BBS2
+Turner syndrome-associated neurocognitive phenotype (2), VSPA
+{Kawasaki disease, susceptibility to}, ITPKC
+Gaucher disease, type III, GBA
+{Hypertriglyceridemia, HTGS
+Immunoglobulin A deficiency (2), IGAD1
+{Glioma susceptibility 5} (2), GLM5
+Levy-Shanske syndrome (4), LVSKS
+Homocysteine plasma level (2), NNMT
+Myeloperoxidase deficiency, MPO
+Thrombosis, hyperhomocysteinemic, CBS
+{Inflammatory bowel disease 12} (2), IBD12
+Spinocerebellar ataxia 32 (2), SCA32
+Breast cancer (1), BCPR
+{Psoraisis susceptibility 9} (2), PSORS9
+Exostoses, multiple, EXT3
+Microphthalmia with coloboma 1 (2), MCOPCB1
+{Asperger syndrome susceptibility 2} (2), ASPG2
+[Body mass index QTL 15] (2), BMIQ15
+[Lean body mass QTL 1] (2), LBMQTL1
+{Stature QTL 15} (2), STQTL15
+[Respiratory rhythmicity in sleep] (2), RRIS
+Medulloblastoma, PTCH2
+Dystonia, myoclonic, DRD2
+{Autism susceptibility 11} (2), AUTS11
+Homocystinuria due to MTHFR deficiency, MTHFR
+Ectodermal dysplasia-syndactyly syndrome 2 (2), EDSS2
+Combined malonic and methylmalonic aciduria, ACSF3
+{Autism susceptibility 8} (2), AUTS8
+Stickler sydrome, type I, nonsyndromic ocular, COL2A1
+Holoprosencephaly-8 (2), HPE8
+[Bone mineral density QTL 4] (2), BMND4
+?Heterotaxy, visceral, 3, HTX3
+{Inflammatory bowel disease 22} (2), IBD22
+Glaucoma 1D, GLC1D
+Retinitis pigmentosa 2, RP2
+Mucolipidosis III gamma, GNPTAG
+{Gilles de la Tourette syndrome, susceptibility to}, HDC
+OKT4 epitope deficiency, CD4
+Hyperphenylalaninemia, BH4-deficient, A, PTS
+Alpha-ketoglutarate dehydrogenase deficiency, OGDH
+{Drug addiction, susceptibility to}, FAAH
+Carnosinemia (2), CNSN
+[Blood group, OK], BSG
+{Stature QTL 20} (2), STQTL20
+?Mental retardation, X-linked, MRXS12
+Branchiootic syndrome 2 (2), BOS2
+{Epilepsy, idiopathic generalized, EIG4
+Ornithine transcarbamylase deficiency, OTC
+{Coronary heart disease, CHDS1
+Ehlers-Danlos syndrome, EDS8
+?Spinocerebellar ataxia 30 (2), SCA30
+Kanzaki disease, NAGA
+{Schizophrenia 10} (2), SCZD10
+Epidermolysis bullosa, junctional, with pyloric stenosis, ITGA6
+{Patent ductus arteriosus, PDA1
+[C-reactive protein QTL] (2), CPROTQ
+Congenital myopathy with excess of muscle spindles, HRAS
+[Handedness] (2), HSR
+Chromosome 18q deletion syndrome (4), DEL18q
+Retinitis pigmentosa 54, C2orf71
+Hematuria, benign familial, COL4A3
+{Narcolepsy 5} (2), NRCLP5
+{Glioma susceptibility 7} (2), GLM7
+Fish-eye disease, LCAT
+Trichilemmal cyst 1 (2), TRICY1
+?Diabetes mellitus, insulin-dependent, PBCA
+Optic atrophy 5 (2), OPA5
+?Craniofacioskeletal syndrome (2), CFSS
+Achondrogenesis, type II or hypochondrogenesis, COL2A1
+Myopia-1 (2), MYP1
+Periventricular nodular heterotopia 3 (2), PVNH3
+{Chordoma, CHDM
+Small-cell cancer of lung (2), SCLC1
+Spinocerebellar ataxia 4 (2), SCA4
+?Leigh syndrome, NDUFA10
+Pigment disorder, PDR
+Exostoses, multiple, type 2, EXT2
+Exostoses, multiple, type 1, EXT1
+{Alzheimer disease 9, late onset, susceptibility to}, AD9
+Avascular necrosis of the femoral head, COL2A1
+Heinz body anemias, beta-, HBB
+Spastic paraplegia 23 (2), SPG23
+Majeed syndrome, LPIN2
+{Prostate cancer, hereditary, 5}, HPC5
+Pulmonary alveolar microlithiasis, SLC34A2
+Leukoencephaly with vanishing white matter, EIF2B4
+[Tuberculin skin test reactivity QTL] (2), TST2
+{Inflammatory bowel disease 4} (2), IBD4
+Tetrasomy 18p (4), TET18P
+Anemia, hypochromic microcytic, NRAMP2
+Muscular dystrophy, limb-girdle, LGMD1H
+Alopecia-mental retardation syndrome 3 (2), APMR3
+Tyrosinemia, type I, FAH
+Severe combined immunodeficiency due to IL2 deficiency (1), IL2
+[Blood group, Rhesus], RHCE
+Neuronopathy, distal hereditary motor, DHMN1
+[LPA deficiency, LPA
+SMED Strudwick type, COL2A1
+Preauricular tag, isolated, autosomal dominant, PAURT1
+Temple syndrome (4), TEMPS
+Thyrotropin-releasing hormone resistance, TRHR
+Gastroesophageal reflux (2), GER
+Leukemia, acute myeloid, reduced survival in, FLT3
+Myopia 8 (2), MYP8
+Nystagmus 7, congenital, NYS7
+Mungan syndrome (2), MGS
+Macrocephaly with multiple epiphyseal dysplasia and distinctive facies (2), MMEDF
+[Inosine triphosphatase deficiency], ITPA
+Disordered steroidogenesis due to cytochrome P450 oxidoreductase, POR
+Homocystinuria, B6-responsive and nonresponsive types, CBS
+Dyserythropoietic anemia, congenital, type Ib, C15orf41
+Anemia, sideroblastic, pyridoxine-refractory, autosomal recessive, SLC25A38
+Macular dystrophy, butterfly-shaped pigmentary, MDBS2
+Fabry disease, cardiac variant, GLA
+Meier-Gorlin syndrome 4, CDT1
+Hemifacial microsomia (2), HFM
+Thalassemia due to Hb Lepore (3), HBD
+{Speech-sound disorder} (2), SSD
+{Stature QTL 7} (2), STQTL7
+Acropectorovertebral dysplasia (2), ACRPV
+Ehlers-Danlos syndrome, type III, COL3A1
+Cubitus valgus with mental retardation and unusual facies (2), CVMRF
+Bazex syndrome (2), BZX
+[Social cognition] (2), CGF1
+{Restless legs syndrome 2} (2), RLS2
+C8 deficiency, type II, C8B
+Cystathioninuria, CTH
+Mental retardation syndrome, X-linked, MRXSA
+{Schistosoma mansoni infection, SM1
+Radiation sensitivity/chromosome instability syndrome, RSCIS
+Photoparoxysmal response 3 (2), PPR3
+Methylmalonyl-CoA epimerase deficiency, MCEE
+Factor X deficiency, F10
+Spiegler-Brooke syndrome (2), SBS
+Bernard-Soulier syndrome, type C, GP9
+Alopecia areata 1 (2), AA1
+Amyloidosis, familial visceral, FGA
+[Bone mineral density QTL 6] (2), BMND6
+Chromosome 22q11.2 microduplication syndrome (4), DUP22q11.2
+Retinitis pigmentosa 22 (2), RP22
+Arrhythmogenic right ventricular dysplasia 6 (2), ARVD6
+Leigh syndrome due to mitochondrial COX4 deficiency, COX10
+Renal cell carcinoma, clear cell, somatic, OGG1
+?Anal canal carcinoma (2), ANC
+{Malaria, PFBI
+[Bone mineral density QTL 14] (2), BMND14
+Glaucoma 1B, primary open angle, adult onset, GLC1B
+Polycystic kidney disease, adult type I, PKD1
+Dupuytren contracture 1 (2), DUPC1
+Czech dysplasia, COL2A1
+Cardiomyopathy, familial restrictive, RCM2
+Hemolytic anemia due to phosphofructokinase deficiency (1), PFKL
+?Hypertrichosis universalis congenita, HTC1
+{?Hearing loss, cisplatin-induced, CIHL
+Chronic granulomatous disease due to deficiency of NCF-1, NCF1
+Small patella syndrome, TBX4
+{Nasopharyngeal carcinoma, susceptibility to, NPCA2
+IgG2 deficiency, IGHG2
+Microcephaly 1, primary, autosomal recessive, MCPH1
+{Sublingual nitroglycerin, ALDH2
+{Podoconiosis, PDCOS
+[Mean platelet volume QTL1] (2), MPVQTL1
+C1r/C1s deficiency, combined, C1R
+Hemangioblastoma, cerebellar, VHL
+Galactose epimerase deficiency, GALE
+Naegeli-Franceschetti-Jadassohn syndrome, KRT14
+Thrombocythemia, THCYTX
+[Bone mineral density QTL 9] (2), BMND9
+Keratoconus 5 (2), KTCN5
+Growth retardation, developmental delay, coarse facies, and early death, FTO
+Deafness, autosomal recessive 25, GRXCR1
+{Mental health wellness-1} (2), MHW1
+Holoprosencephaly-6 (2), HPE6
+{Glioma susceptibility 8} (2), GLM8
+?Hydrocephalus, HDCPH1
+{Preeclampsia, susceptibility to}, EPHX1
+{Thyroid carcinoma, follicular, somatic}, HRAS
+Epilepsy, nocturnal frontal lobe, ENFL2
+Hypotrichosis 10 (2), HYPT10
+Hermansky-Pudlak syndrome 4, HPS4
+Cystinosis, atypical nephropathic, CTNS
+Hermansky-Pudlak syndrome 3, HPS3
+Potocki-Shaffer syndrome (4), PSS
+[Fructosuria], KHK
+Leigh syndrome, due to COX deficiency, SURF1
+Epilepsy, rolandic, EPRPDC
+Preeclampsia/eclampsia 3 (2), PEE3
+Synpolydactyly, 3/3'4, associated with metacarpal and metatarsal synostoses, FBLN1
+Dowling-Degos disease 3 (2), DDD3
+Epilespy, generalized, with febrile seizures plus, GEFSP8
+Albinism, oculocutaneous, OCA5
+Hypodysfibrinogenemia, congenital, FGA
+{Inflammatory bowel disease 24} (2), IBD24
+{Nonsmall cell lung cancer} (2), TSG11
+Esophageal carcinoma, somatic, RNF6
+Retinitis pigmentosa 63 (2), RP63
+Leigh syndrome due to mitochondrial complex 1 deficiency, NDUFA12
+Major depressive disorder 1, MDD1
+Major depressive disorder 2, MDD2
+Paroxysmal nonkinesigenic dyskinesia 2 (2), PNKD2
+[Body mass index QTL1] (2), BMIQ1
+Costello syndrome, HRAS
+Dystonia-17, DYT17
+Dystonia-15, DYT15
+?Phosphoenolpyruvate carboxykinase-1, cytosolic, deficiency, PCK1
+{Vascular disease, MTHFR
+Tolbutamide poor metabolizer (3), CYP2C9
+[Bone mineral density QTL 13] (2), BMND13
+Keratoconus 3 (2), KTCN3
+Brugada syndrome 4, CACNB2
+{Hodgkin disease susceptibility, HDPA
+Microhydranencephaly (2), MHAC
+?Male infertility due to acrosin deficiency (2), ACR
+{Beryllium disease, chronic, HLA-DPB1
+[IgE, elevated level of], IL21R
+Fanconi anemia, complementation group F, FANCF
+Hypercalciuria, HCA1
+SED, COL2A1
+Cerebellar ataxia, CP
+{Restless legs syndrome 3} (2), RLS3
+Keratoconus 4 (2), KTCN4
+Creatinine clearance QTL (2), CRCL
+Myopia 16 (2), MYP16
+{Bladder cancer, somatic}, HRAS
+{Retinal disease in Usher syndrome type IIA, modifier of}, PDZD7
+Hemorrhagic destruction of the brain, subependymal calcification, and cataracts, JAM3
+{Restless legs syndrome 1} (2), RLS1
+Alzheimer disease-10, AD10
+{Stature QTL 17} (2), STQTL17
+Porphyria, congenital erythropoietic, UROS
+Hyperlysinemia, AASS
+Hypoproteinemia, hypercatabolic, B2M
+Arthrogryposis, renal dysfunction, and cholestasis 1, VPS33B
+Alzheimer disease-5, AD5
+Nanophthalmos 3 (2), NNO3
+Glucocorticoid deficiency, due to ACTH unresponsiveness, MC2R
+{Prostate cancer, progression of}, HIP1
+Retinitis pigmentosa 34 (2), RP34
+Dysplasminogenemia, PLG
+{Asthma, nocturnal, susceptibility to}, ADRB2
+Roberts syndrome, ESCO2
+Schwannomatosis, NF2
+Hermansky-Pudlak syndrome 1, HPS1
+?Spastic paraplegia 41, SPG41
+Lacticacidemia due to PDX1 deficiency, PDX1
+Trehalase deficiency, TREH
+Vestibulopathy, BPPV
+{Meconium ileus in cystic fibrosis, CFM1
+Growth hormone insensitivity with immunodeficiency, STAT5B
+GM2-gangliosidosis, AB variant, GM2A
+{Inflammatory bowel disease 8} (2), IBD8
+Chondrosarcoma, EXT1
+Spastic paraplegia 24, SPG24
+Spastic paraplegia 25, SPG25
+Spastic paraplegia 26, SPG26
+Spastic paraplegia 27, SPG27
+Myopia 12 (2), MYP12
+Spastic paraplegia 29, SPG29
+{Hypercholesterolemia, familial, due to LDLR defect, modifier of}, EPHX2
+{Plasmodium falciparum fever episodes QTL1} (2), PFFE1
+{Major depressive disorder, response to citalopram therapy in}, HTR2A
+Griscelli syndrome, type 3, MLPH
+Supravalvar aortic stenosis, ELN
+{Malignant hyperthermia susceptibility 3} (2), MHS3
+Homocystinuria-megaloblastic anemia, cbl E type, MTRR
+{Inflammatory bowel disease 21} (2), IBD21
+{Specific language impairment 4} (2), SLI4
+Sickle cell anemia, HBB
+Hypermethioninemia due to adenosine kinase deficiency, ADK
+Coproporphyria, CPOX
+Parasomnia, PSMNSW
+Glycosylphosphatidylinositol deficiency, PIGM
+{Autism susceptibility 4} (2), AUTS4
+Adrenal adenoma, MEN1
+Thyrotropin-releasing hormone deficiency, TRH
+Chromosome 8p11 myeloproliferative syndrome (4), SCLL
+{Diabetes mellitus, type 2, susceptiblity to}, MTNR1B
+Methylmalonic aciduria, vitamin B12-responsive, MMAA
+Bardet-Biedl syndrome 4, BBS4
+RIDDLE syndrome, RNF168
+?Neuroblastoma (1), TP73
+Rajab syndrome (2), RJBS
+CK syndrome, NSDHL
+Pseudohyperkalemia, familial, 2, PSHK2
+{Stature QTL 12} (2), STQTL12
+MHC class II deficiency, complementation group B, RFXANK
+Hereditary motor and sensory neuropathy V (2), HMSN5
+{Stature QTL 14} (2), STQTL14
+Hyperhidrosis palmaris et plantaris (2), HHPP
+Peripheral arterial occlusive disease 1 (2), PAOD1
+Lactase persistence/nonpersistence, MCM6
+Aicardi syndrome (2), AIC
+Retinitis pigmentosa 29 (2), RP29
+Thalassemia, Hispanic gamma-delta-beta, LCRB
+Renal hypodysplasia, nonsyndromic, RHDNS1
+Myopia 14 (2), MYP14
+{Chronic mountain sickness, CMTS
+{Stature QTL 24} (2), STQTL24
+Hypertension with brachydactyly (2), HTNB
+{?Schizophrenia}, SCZD2
+Krabbe disease, GALC
+[Birth weight QTL 2] (2), BWQTL2
+Epiphyseal dysplasia, multiple, with myopia and deafness, COL2A1
+{Stature QTL 11} (2), STQTL11
+Choroidal dystrophy, CACD1
+{Ovarian cancer, somatic}, OPCML
+?Fetal hydantoin syndrome (1), EPHX1
+Pyruvate carboxylase deficiency, PC
+Narcolepsy 3 (2), NRCLP3
+{Deafness, nonsyndromic, DFNM1
+?N syndrome, POLA1
+Alzheimer disease 17 (2), AD17
+Diamond-Blackfan anemia 2 (2), DBA2
+Mental retardation, X-linked, syndromic, Chudley-Schwartz type, MRXSCS
+Factor XI deficiency, autosomal recessive, F11
+Deafness, neurosensory, DFNB47
+Immunodeficiency, primary, autosomal recessive, IL21R-related, IL21R
+Glaucoma 3, primary infantile, GLC3B
+[Alpha-actinin-3 deficiency] (3), ACTN3
+{?Membranous nephropathy, MBNP
+C1s deficiency, C1S
+{Bulimia nervosa, BULN
+Reticular dysgenesis, AK2
+Panic disorder 2 (2), PAND2
+{Myocardial infarction, decreased susceptibility to}, F7
+Deafness, cataract, retinitis pigmentosa, DFCTRPS
+[Hypoceruloplasminemia, hereditary], CP
+{Narcolepsy 4} (2), NRCLP4
+Myopathy, MPD3
+Otosclerosis 2 (2), OTSC2
+{Major affective disorder-9, MAFD9
+{Major affective disorder-8, MAFD8
+Alport syndrome, autosomal dominant, COL4A3
+Neurofibrosarcoma (3), MXI1
+Rh-null disease, RHCE
+Phosphorylase kinase deficiency of liver and muscle, autosomal recessive, PHKB
+Myopia 15 (2), MYP15
+{Schizophrenia 12}, SCZD12
+[Body mass index QTL14] (2), BMIQ14
+[Tuberculin skin test reactivity, TST1
+Carney complex, CNC2
+Autonomic nervous system dysfunction (3), DRD4
+{Inflammatory bowel disease 2} (2), IBD2
+Syncope, VVS
+[Creatine kinase, brain type, CKBE
+Megaloblastic anemia due to dihydrofolate reductase deficiency, DHFR
+{Lung cancer, protection against, MPO
+Tourette syndrome (2), GTS
+Chronic granulomatous disease due to deficiency of NCF-2, NCF2
+?Keratoderma, palmoplantar, PPKP3
+Dystonia 21 (2), DYT21
+Dermoids of cornea (2), CND
+Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis, POR
+Basal ganglia calcification, idiopathic, IBGC2
+{Asthma, diminished response to antileukotriene treatment in}, ALOX5
+Cone dystrophy, progressive X-linked, COD2
+[Hematocrit/hemoglobin quantitative trait locus 3] (2), HCHGQ3
+Forebrain defects (3), TDGF1
+{Stature QTL 3} (2), STQTL3
+{Stature QTL 10} (2), STQTL10
+Lipoid adrenal hyperplasia, STAR
+Keratolytic winter erythema (2), KWE
+Sulfite oxidase deficiency, SUOX
+{Migraine, susceptibility to, MGR8
+Hypertelorism, preauricular sinus, punctal pits, HPPD
+{Lung cancer susceptibility 4} (2), LNCR4
+Tyrosinemia, type II, TAT
+Leukotriene C4 synthase deficiency, LTC4S
+{Psoriasis susceptibility 10} (2), PSORS10
+Hypoalphalipoproteinemia, APOA1
+Narcolepsy 6 (2), NRCLP6
+Cardiomyopathy, hypertrophic, CMH21
+Myotonia levior, CLCN1
+Vesicoureteral reflux 7 (2), VUR7
+[Longevity 2] (2), LGV2
+Fructose-1,6-bisphosphatase deficiency, FBP1
+{Autism susceptibility 7} (2), AUTS7
+[Body mass index QTL5] (2), BMIQ5
+Epilepsy, nocturnal frontal lobe, type 4, CHRNA2
+Aortic aneurysm, familial abdominal, AAA4
+{Epilepsy, juvenile myoclonic, susceptiblity to, EJM9
+Ectodermal dysplasia 6, ECTD6
+{Restless legs syndrome 5} (2), RLS5
+Homocysteine, total plasma, CTH
+Mitochondrial complex I deficiency due to ACAD9 deficiency, ACAD9
+[Cholesterol level QTL 2] (2), CLQTL2
+{Hypertension, essential, susceptibility to, 5}, HYT5
+{Stature QTL 19} (2), STQTL19
