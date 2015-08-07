@@ -7,6 +7,7 @@ from xlrd import open_workbook
 from xlwt import easyxf
 import math
 
+<<<<<<< HEAD
 humanSequence = "MQSLMQAPLLIALG--LLLA---APAQAHLKKPSQLSSFSWDNCDEGKDPAVIRSLTLEPDPIIVPGNVTLSVMGSTSVPLSSPLKVDLVLEKEVAGLWIKIPCTDYIGSCTFEHFCDVLDMLIPTGEPCPEPLRTYGLPCHCPFKEGTYSLPKSEFVVPDLELPSWLTTGNYRIESVLSSSGKRLGCIKIAASLKGI--"
 mouseSequence =  "---MHRLPLLLLLG--LLLAGSVAPARLVPKRLSQLGGFSWDNCDEGKDPAVIKSLTIQPDPIVVPGDVVVSLEGKTSVPLTAPQKVELTVEKEVAGFWVKIPCVEQLGSCSYENICDLIDEYIPPGESCPEPLHTYGLPCHCPFKEGTYSLPTSNFTVPDLELPSWLSTGNYRIQSILSSGGKRLGCIKIAASLKGR--"
 zebrafishSequence = "MKSCFSVLIALFVTSCFLLEGSSHLLGRKPSKLTKVLGFSWQNCGKPDDPANLKSLDISPDPIPIPGRLTADAKGTTSVELASPLSVNVTVEREVAGMWVKIPCLDEIGSCHYPNVCDLLNQLIPPPQDCPEPLHTYGLPCHCPFKAGDYALPSSEIDIPDVELPGWLTNGHYRVEGILGSTGKELGCLKISFSLHSSKN"
@@ -22,6 +23,23 @@ sumofpairsPath = "/Users/mtchavez/plabData/yeast_replaceable_genes/sequences/all
 pathogenic_mutations = "E54*,P55L,C138R,R169P"
 pathogenic_mutations = map(str, pathogenic_mutations.split(","))
 benign_mutations = "I59V,M69V"
+=======
+humanSequence = "----------------------------------------MFEIDYSRDSFLKDGQPFRYISGSIHYSRVPRFYWKDRLLKMKMAGLNAIQTYVPWNFHEPWPGQYQFSEDHDVEYFLRLA-HELGLLVILRPGPYICAEWEMGGLPAWLLEKESILLRSSDPDYLAAVDKWLGVLLPKMKPLLYQNGGPVITVQVENEYGSYFACDFDYLRFLQKRFRHHLGDDVVLFTTDGAHKTFLKCGALQGLYTTVDFG---TGSNITDAFLSQRKCEPKGPLINSEFYTGWLDHWGQPHSTIKT-EAVASSLYDILARGASVNLYMFIGGTNFAYWNGANSPYAAQPTSYDYDAPLSEAGDLTEKYFALRNIIQKFEKVPEGP--IPPSTPKFAYGKVTLEKLKTVGAALDILCPSGP---IKSLYPLTFIQVKQHYGFVLYRTTLPQDCSNPAP-LSSPLNGVHDRAYVAVDGIPQGVLERNNVITLNITGKAGATLDLLVENMGRVNYGAYINDFKGLVSNLTLSSNILTDWTIFPLDTEDAVRSHLGGWGHRDSGHHDEAWAHNSSNYTLPAFYMGNFSIPSGIPDLPQDTFIQFPGWTKGQVWINGFNLGRYWPARGPQLTLFVPQHILMTSAPNTITVLELEWAPCSSDDPELCAVTFVDRPVIGSSVTYDHPSKPVEKRLMPPPPQKNKDSWLDHV"
+mouseSequence =  "---------MLRVPLCTPLPLLALLQLLGAAHGIYNVTQRTFKLDYSRDRFLKDGQPFRYISGSIHYFRIPRFYWEDRLLKMKMAGLNAIQMYVPWNFHEPQPGQYEFSGDRDVEHFIQLA-HELGLLVILRPGPYICAEWDMGGLPAWLLEKQSIVLRSSDPDYLVAVDKWLAVLLPKMKPLLYQNGGPIITVQVENEYGSYFACDYDYLRFLVHRFRYHLGNDVILFTTDGASEKMLKCGTLQDLYATVDFG---TGNNITQAFLVQRKFEPKGPLINSEFYTGWLDHWGKPHSTVKT-KTLATSLYNLLARGANVNLYMFIGGTNFAYWNGANTPYEPQPTSYDYDAPLSEAGDLTKKYFALREVIQMFKEVPEGP--IPPSTPKFAYGKVALRKFKTVAEALGILCPNGP---VKSLYPLTFTQVKQYFGYVLYRTTLPQDCSNPKPIFSSPFNGVRDRAYVSVDGVPQGILDRNLMTALNIRGKAGATLDILVENMGRVNYGRFINDFKGLISNMTINSTVLTNWTVFPLNTEAMVRNHLWGREASDEGHLDGRSTSNSSDLILPTFYVGNFSIPSGIPDLPQDTFIQFPGWSKGQVWINGFNLGRYWPTMGPQKTLFVPRNILTTSAPNNITVLELEFAPCSEGTPELCTVEFVDTPVIS--------------------------------"
+zebrafishSequence = "--------------MAPVVGLVSVLLLIIPAT--TYATTPTFSVDYHRNCFLKDGEPFRYISGSIHYSRIPRVYWKDRLLKMYMAGLNAIQTYVPWNFHEAVPGQYDFSGDRDLEQFLQLC-QDIGLLVIMRPGPYICAEWDMGGLPAWLLKKKDIVLRSSDPDYLAAVDKWMGKLLPIIKRYLYQNGGPIITVQVENEYGSYFACDFNYMRHLSQLFRFYLGEEAVLFTTDGAGLGYLKCGSLQGLYATVDFG---PGANVTAAFEAQRHVEPRGPLVNSEFYPGWLDHWGEKHSVVPT-SAVVKTLNEILEIGANVNLYMFIGGTNFGYWNGANTPYGPQPTSYDYDSPLTEAGDLTEKYFAIREVIKMYKDVPEGI--LPPSTPKFAYGKVQMKKLKTVSETLDVLSFSGP---VKTLYPPTFIEMNQAFGFVLYQTVLPVNCVKPTP-LSSPLNGVHDRAYISIDGIAAGILERNKALSINITGKAGSHVDVLVENMGRINYGKGINDFKGLVFNLTLGADVLVNWTVYSLSVDEAVSKGLLSASGSSS---TSSTSTPPPALSPPTFYTGSFIIPDGIPDLPQDTYIQFPDWRKGQVWINGFNVGRYWPSRGPQITLFVPAHLLSTSVQNNITVLELEASPCSSGS---CMVEFTDTPILNGTVNSQYKRQLFNKQDLL--------------"
+drosophilaSequence = ""
+celegansSequence = "MELWKSCIFLFLNFCIQSEGIVRTSYGNWNIPKIGDRNIPSFLIDESKNQFLLDGLPFRYISGSIHYFRIPRDRWDERLGKVRALGFNAIQYYIPWNMHELEEGNHDFSGLLDFAEFSMMAFHKYGLWTILRVGPYICGELENGGLPWWLLNKNVTKQRSSDRVFTREVENWFEILLPRVKPLLRKNGGPVLMLQIENEYGSYDACDQQYLRFLRDLTRSLVGDDVLLFTTDGSAESLLKCGTVEGVFPTVDFGPTDDAKEIENNFKLQRKFAPNGPLVNSEYYPGWLVLWGQKKQNLPSPQTIINGSQTMYSLGASFNYYMIHGGTNFGFWNGAET-EAPCITSYDYDAPISESGDVTTKYLEIRKWIKGLTDWPTPPLDVPGNSPKGRFGKIKMRLVHSVEKLKTLTSLGDPGDCVETDKPISFETLKHPLGLVAYQAKINSCGNLTIPSFGDFVHVYLNGKYIDTLTRRYYNLTRNSVIIEGCLENEENRLFMLVENQGRKTFET-INDRKGILSDVFMNGQAIQFWTQCGIKLP--LQEDFYFRKAMRN-----NYRKNVKSNQKQGVFIGILSV-----DAPTDTWLDTTGWGKGIAIVNGRNFGRYWPTKGPQMTLYIPAEFLKIGE-NSVMMVELEGAEEACTSTSSCIADFIDHPVFDFQ------------------------------"
+yeastSequence = ""
+gene = "GLB1"
+file_path = "/Users/mtchavez/Documents/Plab/yeast_replaceable_genes/sequences/all_other_mendelian/mendelian_conservation_summary.xlsx"
+fileName = "/Users/mtchavez/Documents/Plab/yeast_replaceable_genes/sequences/all_other_mendelian/GLB1/GLB1mutationConservationData.xlsx"
+jsdivergencePath = "/Users/mtchavez/Documents/Plab/yeast_replaceable_genes/sequences/all_other_mendelian/GLB1/jsDivergenceGLB1.csv"
+sentropyPath = "/Users/mtchavez/Documents/Plab/yeast_replaceable_genes/sequences/all_other_mendelian/GLB1/sEntropyGLB1.csv"
+sumofpairsPath = "/Users/mtchavez/Documents/Plab/yeast_replaceable_genes/sequences/all_other_mendelian/GLB1/sumOfPairsGLB1.csv"
+pathogenic_mutations = "Y591C,Y591N,R590H,R590C,W509C,T500A,R482H,R482C,R457Q,R457*,G438E,N437I,Q408P,R351*,A335V,Y316C,F308L,A301T,W273L,Y270C,R208C,R201H,R201C,R148C,G123R,Y83H,T82M,R68Q,R68W,R59H,Y57*,I51T,M1L"
+pathogenic_mutations = map(str, pathogenic_mutations.split(","))
+benign_mutations = "S532G,C521R,L436F,R109W,P10L"
+>>>>>>> origin/master
 benign_mutations = map(str, benign_mutations.split(","))
 polarAA = ["N", "Q", "S", "T", "K", "R", "H", "D", "E"]
 nonPolarAA = ["A", "V", "L", "I", "P", "Y", "F", "M", "W", "C"]
@@ -78,7 +96,11 @@ def clean_sequences(humanSequence, mouseSequence, zebrafishSequence, drosophilaS
 
 humanSequence, mouseSequence, zebrafishSequence, drosophilaSequence, celegansSequence, yeastSequence = clean_sequences(humanSequence, mouseSequence, zebrafishSequence, drosophilaSequence, celegansSequence, yeastSequence, empty_positions)
 
+<<<<<<< HEAD
 print(str(len(humanSequence))) + " lenght human sequence"
+=======
+print(len(humanSequence))
+>>>>>>> origin/master
 
 #def process_mutations(path, pathogenic_mutations, benign_mutations, gene, aa_symbols):
   #read_file = open(path, 'rb')
@@ -115,7 +137,11 @@ print(str(len(humanSequence))) + " lenght human sequence"
   #return pathogenic_mutations, benign_mutations
   #read_file.close()
 
+<<<<<<< HEAD
 #pathogenic_mutations, benign_mutations = process_mutations("/Users/mtchavez/plabData/yeast_replaceable_genes/clinvar.tsv", pathogenic_mutations, benign_mutations, "ABCB7", aa_symbols)
+=======
+#pathogenic_mutations, benign_mutations = process_mutations("/Users/mtchavez/Documents/Plab/yeast_replaceable_genes/clinvar.tsv", pathogenic_mutations, benign_mutations, "ABCB7", aa_symbols)
+>>>>>>> origin/master
 
 def process_jsdivergence(jsdivergencePath, jsDivergenceScores, empty_positions):
   read_file = open(jsdivergencePath, 'rU')
@@ -906,6 +932,10 @@ def create_spreadsheet(humanSequence, mouseSequence, zebrafishSequence, drosophi
                         w_sheet.write(row_index, 31, p6, redFont)
             else:
                 w_sheet.write(row_index, 31, "-")
+<<<<<<< HEAD
    wb.save("/Users/mtchavez/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/test.xslx")
+=======
+   wb.save("/Users/mtchavez/Documents/Plab/yeast_replaceable_genes/sequences/all_other_mendelian/test.xslx")
+>>>>>>> origin/master
 
 create_spreadsheet(humanSequence, mouseSequence, zebrafishSequence, drosophilaSequence, celegansSequence, yeastSequence, pathogenic_mutations, benign_mutations, gene, fileName, polarAA, nonPolarAA, hBondingAA, sulfurContainingAA, acidicAA, basicAA, ionizableAA, aromaticAA, aliphaticAA, fullyConservedMutations, fullyConserved, fullyConservedMouse, fullyConservedZebrafish, fullyConservedDrosophila, fullyConservedCelegans, fullyConservedYeast, jsDivergenceScores, pathogenicJS, benignJS, mutationsJS, sEntropyScores, pathogenicSE, benignSE, mutationsSE, sumOfPairsScores, pathogenicSOP, benignSOP, mutationsSOP, file_path)
