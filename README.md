@@ -12,6 +12,8 @@ I am now in the process of performing this analysis in a set of 260 genes that c
 
 ##Screens 
 ####(folder: yeast) 
-The folder currently only contains images of the yeast were you can see the gene induction (because it is tagged to YFP). There are two folders, each for a different time point (2.5h, 23h). More information here: http://mtc.science/on-yeast-and-als-part-3
+The folder currently contains images of the yeast were you can see the gene induction (because it is tagged to YFP). There are two folders, each for a different time point (2.5h, 23h). There is a third folder that contains the plate reader data for the first screen at two time points (24h and 48h). We tested 7 different 384 well plates on 3 yeast trains with a duplicate of each (and an extra plate across the 3 strains but no duplicate). Plates labeled A and D are TDP43 WT, B and E are TDP43 M337V and C and F are FUS WT. 
+
+More information here: http://mtc.science/on-yeast-and-als-part-3
 
 
