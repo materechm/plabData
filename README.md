@@ -8,10 +8,12 @@ As a way to test the pipeline I tried to figure out if disease causing mutations
 
 Later I performed the analysis with the genes that were found to be replaceable and non replaceable to see if this was the case with these genes as well or not and if there was a difference between the two groups. Halfway through this I figured out a way to automate more of the process with a python script which you can see here: https://github.com/materechm/plabData/blob/master/yeast_replaceable_genes/test.py (note - on the script the red coloring based on the amino acid properties DOES NOT work) You can see results here: http://mtc.science/humanization-of-yeast-genes-part-2
 
-I am now in the process of performing this analysis in a set of 260 genes that cause mendelian diseases that involve all organelles. Specific gene data is under sequences, then that is divided into replaceable, non replaceable, and other mendelian. When you go to a specific gene you can see a summary of the mutation conservation for the gene, protein sequences, protein alignment, and the conservation scores. You can see the consolidation of the data here: https://github.com/materechm/plabData/blob/master/yeast_replaceable_genes/sequences/all_other_mendelian/mendelian_conservation_summary.xlsx
+I am now in the process of performing this analysis in a set of 260 genes that cause mendelian diseases that involve all organelles. Specific gene data is under sequences, then that is divided into replaceable, non replaceable, and other mendelian. When you go to a specific gene you can see a summary of the mutation conservation for the gene, protein sequences, protein alignment, and the conservation scores. You can see the consolidation of the data here: https://github.com/materechm/plabData/blob/master/yeast_replaceable_genes/sequences/all_other_mendelian/mendelian_conservation_summary.xlsx and a blog post sumarizing the data for the first 130 genes here: http://mtc.science/mutation-conservation-in-mendelian-genes 
 
 ##Screens 
 ####(folder: yeast) 
-The folder currently only contains images of the yeast were you can see the gene induction (because it is tagged to YFP). There are two folders, each for a different time point (2.5h, 23h). More information here: http://mtc.science/on-yeast-and-als-part-3
+The folder currently contains images of the yeast were you can see the gene induction (because it is tagged to YFP). There are two folders, each for a different time point (2.5h, 23h). There is a third folder that contains the plate reader data for the first screen at two time points (24h and 48h). We tested 7 different 384 well plates on 3 yeast trains with a duplicate of each (and an extra plate across the 3 strains but no duplicate). Plates labeled A and D are TDP43 WT, B and E are TDP43 M337V and C and F are FUS WT. 
+
+More information here: http://mtc.science/on-yeast-and-als-part-3
 
 
