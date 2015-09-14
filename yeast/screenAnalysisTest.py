@@ -60,7 +60,6 @@ def compare_data(fileName, finalFile):
     plateName = ""
     reader = csv.reader(read_file, delimiter=',')
     for row in reader:
-        print row
         if row[0] == "plate":
             plateName = row[1]
         if row[0] == "sig1":
@@ -124,39 +123,39 @@ def compare_data(fileName, finalFile):
             sig11 = tdp43wt[key][0][0]
             sig12 = tdp43wt[key][1][0]
             sig21 = tdp43wt[key][0][1]
-            sig22 = tdp43wt[key][0][1]
-            sig1 = set(sig11) & set(sig12)
-            sig2 = set(sig21) & set(sig22)
+            sig22 = tdp43wt[key][1][1]
+            sig1 = [x for x in sig11 if x in sig12]
+            sig2 = [x for x in sig21 if x in sig22]
             ts1[key] = sig1
             ts2[key] = sig2
             break
         except (IndexError):
-            pass
+            print tdp43wt[key]
     for key in tdp43m337v:
         try:
             sig11 = tdp43m337v[key][0][0]
             sig12 = tdp43m337v[key][1][0]
             sig21 = tdp43m337v[key][0][1]
-            sig22 = tdp43m337v[key][0][1]
-            sig1 = set(sig11) & set(sig12)
-            sig2 = set(sig21) & set(sig22)
+            sig22 = tdp43m337v[key][1][1]
+            sig1 = [x for x in sig11 if x in sig12]
+            sig2 = [x for x in sig21 if x in sig22]
             tms1[key] = sig1
             tms2[key] = sig2
             break
         except (IndexError):
-            pass
+            print tdp43m337v[key]
     for key in fuswt:
         try:
             sig11 = fuswt[key][0][0]
             sig12 = fuswt[key][1][0]
             sig21 = fuswt[key][0][1]
-            sig22 = fuswt[key][0][1]
-            sig1 = set(sig11) & set(sig12)
-            sig2 = set(sig21) & set(sig22)
+            sig22 = fuswt[key][1][1]
+            sig1 = [x for x in sig11 if x in sig12]
+            sig2 = [x for x in sig21 if x in sig22]
             fs1[key] = sig1
             fs2[key] = sig2
         except (IndexError):
-            pass
+            print fuswt[key]
     write_file.write("TDP43WT"+"\n")
     write_file.write("sig1"+"\n")
     for key in ts1:
@@ -187,16 +186,19 @@ def compare_data(fileName, finalFile):
     for key in fs1:
         write_file.write(key + ",")
         for x in fs1[key]:
+            print x + "fs1[key]"
             write_file.write('%s,' %x)
         write_file.write("\n")
     write_file.write("sig2"+"\n")
     for key in fs2:
         write_file.write(key + ",")
         for x in fs2[key]:
+            print x + "fs2[key]"
             write_file.write('%s,' %x)
         write_file.write("\n")
     write_file.close()
 
-finalFile = "/Users/mtchavez/plabData/yeast/1stScreenData/results.csv"
-compare_data(fileName23h, finalFile)
-compare_data(fileName48h, finalFile)
+finalFile23h = "/Users/mtchavez/plabData/yeast/1stScreenData/results23h.csv"
+finalFile48h = "/Users/mtchavez/plabData/yeast/1stScreenData/results48h.csv"
+compare_data(fileName23h, finalFile23h)
+compare_data(fileName48h, finalFile48h)
