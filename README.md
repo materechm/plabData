@@ -1,6 +1,17 @@
 #Mutation conservation across organisms and chemical modifier screens in ALS yeast 
 
 ##Mutation Conservation 
+
+####Summary of current data
+Genes: 143
+
+Throughout all methods pathogenic mutations are on average more conserved than the average amino acid in the protein (Jensen Shannon Divergence p: 2.94E-05, Shannon Entropy p: 4.03E-09, Sum of Pairs p: 2.95E-09), and more conserved than benign mutations (Jensen Shannon Divergence p: 3.42E-10, Shannon Entropy p: 9.22E-18, Sum of Pairs p: 1.40E-17)
+
+The average number of mutations per gene is 11.91549296, and 21% are benign. On average 5.431654676 mutations are fully conserved which make up about 3.7% of the fully conserved amino acids on the proteins.
+
+Notably, the difference in conservation between pathogenic mutations and the average amino acid seems to be more significant when we have more mutations, and the relationship appears to follow a power trend. 
+
+
 ####(folder: yeast_replaceable_genes)
 This project started as a follow up to a paper from the Marcotte lab in which they replaced 414 essential yeast genes with their human counterparts and found that in about half of these strains the genes were "replaceable", meaning that the yeast was able to survive with the human version of the gene. The idea was then to find which of these genes were associated with Mendelian diseases and/or Monogenic diseases and based on sequence alignments between yeast, worm, fly, zebrafish, mouse and human, figure out if disease-causing mutations affect conserved or variable amino acid positions (more background info here: http://mtc.science/humanization-of-yeast-genes) 
 
