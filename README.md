@@ -9,7 +9,7 @@ Throughout all methods pathogenic mutations are on average more conserved than t
 
 The average number of mutations per gene is 11.91549296, and 21% are benign. On average 5.431654676 mutations are fully conserved which make up about 3.7% of the fully conserved amino acids on the proteins.
 
-Notably, the difference in conservation between pathogenic mutations and the average amino acid seems to be more significant when we have more mutations, and the relationship appears to follow a power trend. 
+Notably, the difference in conservation between pathogenic mutations and the average amino acid seems to be more significant when we have more mutations (pearson correlation: -0.381922), and the relationship appears to follow a power trend. 
 
 
 ####(folder: yeast_replaceable_genes)
