@@ -26,6 +26,7 @@ I am now in the process of performing this analysis in a set of 260 genes that c
 - Oma Browser: http://omabrowser.org/oma/home/
 - ClustalW2 (retired): http://www.ebi.ac.uk/Tools/msa/clustalw2/
 - ClustalOmega: http://www.ebi.ac.uk/Tools/msa/clustalo/
+- ClinVar: http://www.ncbi.nlm.nih.gov/clinvar/
 - Conservation Scoring (developed by Mona Singh's group at Princeton) http://compbio.cs.princeton.edu/conservation/
 
 ##Screens 
