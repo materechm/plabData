@@ -7,21 +7,21 @@ from xlrd import open_workbook
 from xlwt import easyxf
 import math
 
-humanSequence = "--------------------------ML-ATRR-LLGWS-LPARVSVRF-------SGDTTAPKKTSFGSLKDEDRIFTNLYGRHDWRLKGSLSRGDWYKTKEILLKGPDWILGEIKTSGLRGRGGAGFPTGLKWSFMNKPSDGRPKYLVVNADEGEPGTCKDREILRHDPHKLLEGCLVGGRAMGARAAYIYIRGEFYNEASNLQVAIREAYEAGLIGKNACGSGYDFDVFVVRGAGAYICGEETALIESIEGKQGKPRLKPPFPADVGVFGCPTTVANVETVAVSPTICRRGGTWFAGFGRERNSGTKLFNISGHVNHPCTVEEEMSVPLKELIEKHAGGVTGGWDNLLAVIPGGSSTPLIPKSVCETVLMDFDALVQAQTGLGTAAVIVMDRSTDIVKAIARLIEFYKHESCGQCTPCREGVDWMNKVMARFVRGDARPAEIDSLWEISKQIEGHTICALGDGAAWPVQGLIRHFRPELEERMQRFAQQHQARQAAS----"
-mouseSequence =  "--------------------------ML-AARH-FLGGL-VPVRVSVRF-------SSGTTAPKKTSFGSLKDEDRIFTNLYGRHDWRLKGALRRGDWYKTKEILLKGPDWILGEMKTSGLRGRGGAGFPTGLKWSFMNKPSDGRPKYLVVNADEGEPGTCKDREIMRHDPHKLVEGCLVGGRAMGARAAYIYIRGEFYNEASNLQVAIREAYEAGLIGKNACGSDYDFDVFVVRGAGAYICGEETALIESIEGKQGKPRLKPPFPADVGVFGCPTTVANVETVAVSPTICRRGGTWFAGFGRERNSGTKLFNISGHVNHPCTVEEEMSVPLKELIEKHAGGVTGGWDNLLAVIPGGSSTPLIPKSVCETVLMDFDALVQAQTGLGTAAVIVMDRSTDIVKAIARLIEFYKHESCGQCTPCREGVDWMNKVMARFVKGDARPAEIDSLWEISKQIEGHTICALGDGAAWPVQGLIRHFRPELEDRMQRFAQQHRAWQAAS----"
-zebrafishSequence = "MLSCLGSPALSRVLSSGASRAPVAVAVAGASRTSVSSNSAPQCRTLLRY-----SSTAQQETPKKTKFGPLADQDRIFTNLYGRHDWRLKGALRRGDWYKTKEILDKGVDWILNEIKTSGLRGRGGAGFPTGMKWSFMNKPSDGRPKYLVVNADEGEPGTCKDREIMRNDPHKLIEGCLVAGRAMGARAAYIYIRGEFYNESSNLQVAINEAYAAGLIGKNACGSGYDFDVFVMRGAGAYICGEETALIESIEGKQGKPRLKPPFPADVGVFGCPTTVANVETVAVAPTICRRGGTWFAGFGRERNSGTKLFNISGHVNNPCTVEEEMSIPLKELIERHAGGVRGGWDNLLCVIPGGSSTPLIPQHVCDTVLMDFDALIQAQTGLGTAALIVMDKSTDVIRAIARLIEFYKHESCGQCTPCREGVDWMNKMMWRFVKGDARSAEIDMIWEISKQIEGHTICALGDGAAWPVQGLIRHFRPLMESRIADFQQKQQARA-------"
+humanSequence = ""
+mouseSequence = ""
+zebrafishSequence = ""
 drosophilaSequence = ""
 celegansSequence = ""
 yeastSequence = ""
-gene = "NDUFV1"
+gene = "SPG11"
 file_path = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/mendelian_conservation_summary.xlsx"
-fileName = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/NDUFV1/NDUFV1mutationConservationData.xlsx"
-jsdivergencePath = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/NDUFV1/jsDivergenceNDUFV1.csv"
-sentropyPath = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/NDUFV1/sEntropyNDUFV1.csv"
-sumofpairsPath = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/NDUFV1/sumOfPairsNDUFV1.csv"
-pathogenic_mutations = "D39G,A117T,P122L,A151T,G160E,C206Y,E214K,A341V,M357T,S378R,T423M,R452P"
+fileName = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/SPG11/SPG11mutationConservationData.xlsx"
+jsdivergencePath = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/SPG11/jsDivergenceSPG11.csv"
+sentropyPath = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/SPG11/sEntropySPG11.csv"
+sumofpairsPath = "/Users/jamie/plabData/yeast_replaceable_genes/sequences/all_other_mendelian/SPG11/sumOfPairsSPG11.csv"
+pathogenic_mutations = "L2372*,Y2341*,R2286*,V2053M,R2034*,R2031*,Q1993*,R1992*,Y1990*,S1957*,Q1875*,R1824*,Q1616*,Y1556*,F1349Y,C959*,R945G,W899*,I870V,R815M,L733*,Q716*,R651*,S560*,Q498*,K428*,S412*,Q198*,E117*,E90*,W89*,Q40*"
 pathogenic_mutations = map(str, pathogenic_mutations.split(","))
-benign_mutations = "D74N"
+benign_mutations = "R1563G,K1273R,K1013E,F463S,I450V,V270I"
 benign_mutations = map(str, benign_mutations.split(","))
 polarAA = ["N", "Q", "S", "T", "K", "R", "H", "D", "E"]
 nonPolarAA = ["A", "V", "L", "I", "P", "Y", "F", "M", "W", "C"]
@@ -174,7 +174,7 @@ sumOfPairsScores = process_sumofpairs(sumofpairsPath, sumOfPairsScores, empty_po
 
 def create_spreadsheet(humanSequence, mouseSequence, zebrafishSequence, drosophilaSequence, celegansSequence, yeastSequence, pathogenic_mutations, benign_mutations, gene, fileName, polarAA, nonPolarAA, hBondingAA, sulfurContainingAA, acidicAA, basicAA, ionizableAA, aromaticAA, aliphaticAA, fullyConservedMutations, fullyConserved, fullyConservedMouse, fullyConservedZebrafish, fullyConservedDrosophila, fullyConservedCelegans, fullyConservedYeast, jsDivergenceScores, pathogenicJS, benignJS, mutationsJS, sEntropyScores, pathogenicSE, benignSE, mutationsSE, sumOfPairsScores, pathogenicSOP, benignSOP, mutationsSOP, file_path):
    workbook = xlsxwriter.Workbook(fileName)
-   mutationData = workbook.add_worksheet(gene + "mutationConservationData")
+   mutationData = workbook.add_worksheet(gene)
    jsDivergence = workbook.add_worksheet("JS Divergence")
    sEntropy = workbook.add_worksheet("Shannon Entropy")
    sumOfPairs = workbook.add_worksheet("Sum of Pairs")
