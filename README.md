@@ -3,13 +3,13 @@
 ##Mutation Conservation 
 
 ####Summary of current data
-Genes: 143
+Genes: 260
 
-Throughout all methods pathogenic mutations are on average more conserved than the average amino acid in the protein (Jensen Shannon Divergence p: 2.94E-05, Shannon Entropy p: 4.03E-09, Sum of Pairs p: 2.95E-09), and more conserved than benign mutations (Jensen Shannon Divergence p: 3.42E-10, Shannon Entropy p: 9.22E-18, Sum of Pairs p: 1.40E-17)
+Throughout all methods pathogenic mutations are on average more conserved than the average amino acid in the protein (Jensen Shannon Divergence p: 7.78E-03, Shannon Entropy p: 1.73E-05, Sum of Pairs p: 1.68E-13), and more conserved than benign mutations (Jensen Shannon Divergence p: 1.05E-26, Shannon Entropy p: 1.55E-17, Sum of Pairs p: 2.98E-27)
 
-The average number of mutations per gene is 11.91549296, and 21% are benign. On average 5.431654676 mutations are fully conserved which make up about 3.7% of the fully conserved amino acids on the proteins.
+The average number of mutations per gene is 11.59459459, and 19% are benign. On average 5.24609375 mutations are fully conserved which make up about 3.4% of the fully conserved amino acids on the proteins.
 
-Notably, the difference in conservation between pathogenic mutations and the average amino acid seems to be more significant when we have more mutations (pearson correlation: -0.381922), and the relationship appears to follow a power trend. 
+Notably, the difference in conservation between pathogenic mutations and the average amino acid seems to be more significant when we have more mutations (pearson correlation: -0.381922), and the relationship appears to follow a power trend. [this figure is based on half the dataset, still need to update figure with the most recent data]
 
 
 ####(folder: yeast_replaceable_genes)
