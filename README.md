@@ -38,8 +38,8 @@ The folder currently contains images of the yeast were you can see the gene indu
 More information here: http://mtc.science/on-yeast-and-als-part-3
 
 ##Acknowledgements
-All of the work in this repository was performed in collaboration with Ethan Perlstein and Perlstein Lab, primarily while I was interning there. 
+All of the work in this repository was performed in collaboration with [Ethan Perlstein](http://www.ethanperlstein.com/) and [Perlstein Lab](http://www.plab.co/), primarily while I was interning there. 
 
-Special thanks to SciOpen Research Group for helping with acquiring some of the materials for the yeast screens and Professor Aaron Gitler (Stanford University) for letting us use his plasmids. 
+Special thanks to [SciOpen Research Group](http://www.sciopen.org) for helping with acquiring some of the materials for the yeast screens and Professor [Aaron Gitler](https://med.stanford.edu/profiles/aaron-gitler) (Stanford University) for letting us use his plasmids. 
 
 In memory of Giancarlo Ibarguen.
