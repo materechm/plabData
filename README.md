@@ -17,7 +17,7 @@ Notably, the difference in conservation between pathogenic mutations and the ave
 ####(folder: yeast_replaceable_genes)
 This project started as a follow up to a paper from the Marcotte lab in which they replaced 414 essential yeast genes with their human counterparts and found that in about half of these strains the genes were "replaceable", meaning that the yeast was able to survive with the human version of the gene. The idea was then to find which of these genes were associated with Mendelian diseases and/or Monogenic diseases and based on sequence alignments between yeast, worm, fly, zebrafish, mouse and human, figure out if disease-causing mutations affect conserved or variable amino acid positions. 
 
-More background information [here](  http://mtc.science/humanization-of-yeast-genes) )
+More background information [here](  http://mtc.science/humanization-of-yeast-genes) 
 
 As a way to test the pipeline I tried to figure out if disease causing mutations affect more conserved amino acids in NPC1, which is the gene that causes Niemann Pick Type C. I got the amino acid sequences from entrez protein and performed an alignment with CLUSTAL W2. Then I got a list of mutations in the NPC1 gene from ClinVar. I got a total of 51 amino acid changes, 6 of which were benign/likely benign. I then searched for the amino acid in which the mutations occur in the sequence alignment and saw whether the amino acid was conserved or not. To see if the amino acids were conserved I used 3 different methods: Jensen Shannon Distribution, Shannon Entropy and Sum of Pairs. 
 
