@@ -5,6 +5,8 @@
 ####Summary of current data
 Genes: 260
 
+For latest data and figure see the folder named conservation_latest_data
+
 Throughout all methods pathogenic mutations are on average more conserved than the average amino acid in the protein (Jensen Shannon Divergence p: 7.78E-03, Shannon Entropy p: 1.73E-05, Sum of Pairs p: 1.68E-13), and more conserved than benign mutations (Jensen Shannon Divergence p: 1.05E-26, Shannon Entropy p: 1.55E-17, Sum of Pairs p: 2.98E-27)
 
 The average number of mutations per gene is 11.59459459, and 19% are benign. On average 5.24609375 mutations are fully conserved which make up about 3.4% of the fully conserved amino acids on the proteins.
