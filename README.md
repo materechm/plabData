@@ -13,6 +13,47 @@ The average number of mutations per gene is 11.59459459, and 19% are benign. On 
 
 Notably, the difference in conservation between pathogenic mutations and the average amino acid seems to be more significant when we have more mutations (pearson correlation: -0.361300), and the relationship appears to follow a power trend. 
 
+####Understanding the data
+
+Currently the folders and spreadsheets are poorly organized but am working on making the data more presentable and easier to understand. On the current repository the folder conservation latest data includes a folder with images, plots.ipynb which is the ipython notebook used to generate the figures, a spreadhseet called plot data which is where the data for the figures comes from, and a spreadsheet called conservation_summary which is the data itself. 
+
+On the conservation_summary spreadsheet a lot of abreviations are used on the colums so am going to explain what every column contains 
+
+1. Gene: gene symbol. The ones that are coloured red are because some of the mutations listed on clinvar did not align with the protein sequence, the ones in grey are the ones that are listed more than once with different gene symbols and the ones that are green are genes that we found to be particularly good examples of the overall trend we're seeing with the data
+2. JSD A: average Jensen Shannon divergence score throughout the entire protein 
+3. JSDP A: average Jensen Shannon divergence score for pathogenic mutations
+4. JSDB A: average Jensen Shannon divergence score for benign mutations 
+5. SE A: average Shannon Entropy score throughout the entire protein
+6. SEP A: average Shannon Entropy score for pathogenic mutations
+7. SEB A: average Shannon Entropy score for benign mutations 
+8. SoP A: average Sum of Pairs score throughout the entire protein
+9. SOPP A: average Sum of Pairs score for pathogenic mutations
+10. SOPB A: average Sum of Pairs score for benign mutations
+11. #m: number of mutations, the ones that are labeled red are also because the number of mutations found on clinvar was not the same as the number of mutations that actually aligned with the protein sequence 
+12. #bm: number of benign mutations, these are also included on the mutation count on the column before
+13. %bm: percentage of mutations that are benign
+14. #fcm: number of mutations that are fully conserved
+15. %fcm: percentage of fully conserved mutations
+16. %fcm/faa: the percentage of fully conserved amino acids in the protein that contain mutations
+17. species: this column contains letters indicating the species in which the gene is found (h: human, m: mouse, z: zebrafish, d: drosophila, c: c. elegans, y: yeast)
+18. JSD SD: Jensen Shannon Divergence Standard Deviation
+19. JSDP SD: Jensen Shannon Divergence Pathogenic Standard Deviation
+20. JSDB SD: Jensen Shannon Divergence Benign Standard Deviation
+21. SE SD: Shannon Entropy Standard Deviation
+22. SEP SD: Shannon Entropy Pathogenic Standard Deviation
+23. SEB SD: Shannon Entropy Benign Standard Deviation
+24. SoP SD: Sum of Pairs Standard Deviation
+25. SoPP SD: Sum of Pairs Pathogenic Standard Deviation
+26. SOPB SD: Sum of Pairs Benign Standard Deviation
+27. JS & JSP p: p value for the difference between JSD A and JSDP A 
+28. JSP & JSB p: p value for the difference between JSP A and JSB A
+29. SE & SEP p: p value for the difference between SE A and SEP A
+30. SEP & SEB p: p value for the difference between SEP A and SEB A
+31. SoP & SoPP p: p value for the difference between SOP A and SOPP A
+32. SoPP & SoPB p: p value for the difference between SoPP A and SoPB A
+Note: rows that are coloured purple were processed using Clustal Omega, rows that are white were processed using Clustal W2
+
+On the iphyton notebook conservation is the same as %fcm on the spreadsheet
 
 ####(folder: yeast_replaceable_genes)
 This project started as a follow up to a paper from the Marcotte lab in which they replaced 414 essential yeast genes with their human counterparts and found that in about half of these strains the genes were "replaceable", meaning that the yeast was able to survive with the human version of the gene. The idea was then to find which of these genes were associated with Mendelian diseases and/or Monogenic diseases and based on sequence alignments between yeast, worm, fly, zebrafish, mouse and human, figure out if disease-causing mutations affect conserved or variable amino acid positions. 
