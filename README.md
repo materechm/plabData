@@ -51,6 +51,7 @@ On the conservation_summary spreadsheet a lot of abreviations are used on the co
 30. SEP & SEB p: p value for the difference between SEP A and SEB A
 31. SoP & SoPP p: p value for the difference between SOP A and SOPP A
 32. SoPP & SoPB p: p value for the difference between SoPP A and SoPB A
+
 Note: rows that are coloured purple were processed using Clustal Omega, rows that are white were processed using Clustal W2
 
 On the iphyton notebook conservation is the same as %fcm on the spreadsheet
