@@ -1,0 +1,6 @@
+ScoreS,TypeS,ScoreRSA,TypeRSA,ScoreJS,ScoreSE,ScoreSOP
+-0.0341,Stability Change Benign,0.56,Relative Surface Area Benign,0.69411,0.18814,1.50584
+-1.5176,Stability Change Pathogenic,0.25,Relative Surface Area Pathogenic,0.83402,0.81669,5.77752
+-0.9582,Stability Change Pathogenic,0.36,Relative Surface Area Pathogenic,0.67802,0.59243,1.57467
+-0.1729,Stability Change Pathogenic,0.38,Relative Surface Area Pathogenic,0.72585,0.56855,1.91001
+-2.6762,Stability Change Pathogenic,0.24,Relative Surface Area Pathogenic,0.69916,0.55233,2.05698
