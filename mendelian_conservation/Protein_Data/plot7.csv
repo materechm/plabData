@@ -1,72 +1,72 @@
-ScoreS,TypeS,ScoreRSA,TypeRSA,ScoreJS,ScoreSE,ScoreSOP
-0.0222,Benign Stability Score,0.62,Benign Relative Surface Area,0.55941,0.29998,1.52141
--0.598,Pathogenic Stability Score,0.19,Pathogenic Relative Surface Area,0.79609,0.79609,0.79609
--0.4196,Benign Stability Score,0.49,Benign Relative Surface Area,0.80599,0.88893,4.73446
--0.8183,Benign Stability Score,0.35,Benign Relative Surface Area,0.62415,0.34261,0.91137
--1.0312,Pathogenic Stability Score,0.06,Pathogenic Relative Surface Area,0.7854,0.79476,3.53515
--0.9582,Pathogenic Stability Score,0.36,Pathogenic Relative Surface Area,0.67802,0.59243,1.57467
--0.1729,Pathogenic Stability Score,0.38,Pathogenic Relative Surface Area,0.72585,0.56855,1.91001
--2.6762,Pathogenic Stability Score,0.24,Pathogenic Relative Surface Area,0.69916,0.55233,2.05698
--3.4352,Pathogenic Stability Score,0.12,Pathogenic Relative Surface Area,0.68357,0.56562,2.39818
--0.7747,Benign Stability Score,0.57,Benign Relative Surface Area,0.39253,0.22731,-1.2427
-0.5056,Pathogenic Stability Score,0.55,Pathogenic Relative Surface Area,0.60808,0.32507,-0.53321
--0.6126,Pathogenic Stability Score,0.26,Pathogenic Relative Surface Area,0.62573,0.41917,0.71754
-0.2187,Benign Stability Score,0.69,Benign Relative Surface Area,0.17755,0.14539,-0.23426
--1.1452,Pathogenic Stability Score,0.4,Pathogenic Relative Surface Area,0.58253,0.31031,-0.06377
--0.9986,Pathogenic Stability Score,0.26,Pathogenic Relative Surface Area,0.82972,0.95564,4.83674
--0.5036,Benign Stability Score,0.66,Benign Relative Surface Area,0.58907,0.2951,-0.9282
--0.8176,Pathogenic Stability Score,0.38,Pathogenic Relative Surface Area,0.72698,0.64683,2.95017
--1.9831,Pathogenic Stability Score,0.16,Pathogenic Relative Surface Area,0.83828,0.79516,6.21925
--0.0341,Benign Stability Score,0.56,Benign Relative Surface Area,0.69411,0.18814,1.50584
--1.5176,Pathogenic Stability Score,0.25,Pathogenic Relative Surface Area,0.83402,0.81669,5.77752
--0.5871,Benign Stability Score,0.65,Benign Relative Surface Area,0.54438,0.28548,-0.41023
--0.67,Pathogenic Stability Score,0.46,Pathogenic Relative Surface Area,0.69339,0.48404,2.35523
--2.5105,Pathogenic Stability Score,0.16,Pathogenic Relative Surface Area,0.81418,0.84924,4.95977
-0.7969,Benign Stability Score,0.21,Benign Relative Surface Area,0.65982,0.38211,1.00083
--0.054,Pathogenic Stability Score,0.34,Pathogenic Relative Surface Area,0.61987,0.44497,1.73298
-0.813,Pathogenic Stability Score,0.35,Pathogenic Relative Surface Area,0.6605,0.49971,3.01576
--0.7326,Pathogenic Stability Score,0.3,Pathogenic Relative Surface Area,0.85537,0.95441,4.87422
--0.4723,Pathogenic Stability Score,0.15,Pathogenic Relative Surface Area,0.85537,0.95441,4.87422
--0.5839,Pathogenic Stability Score,0.08,Pathogenic Relative Surface Area,0.57588,0.23313,0.7385
--0.4785,Pathogenic Stability Score,0.24,Pathogenic Relative Surface Area,0.62458,0.2885,1.09078
--0.3179,Benign Stability Score,0.04,Benign Relative Surface Area,0.70744,0.60215,2.97661
-0.2902,Pathogenic Stability Score,0.13,Pathogenic Relative Surface Area,0.73775,0.62331,3.10806
--0.7077,Benign Stability Score,0.35,Benign Relative Surface Area,0.63838,0.53156,1.15535
-0.1598,Pathogenic Stability Score,0.04,Pathogenic Relative Surface Area,0.63222,0.46714,-1.19231
--1.3679,Pathogenic Stability Score,0.13,Pathogenic Relative Surface Area,0.82266,0.90271,4.78048
--0.5636,Pathogenic Stability Score,0.27,Pathogenic Relative Surface Area,0.68368,0.45161,1.87865
--0.4072,Pathogenic Stability Score,0.22,Pathogenic Relative Surface Area,0.81417,0.79852,3.62643
--0.7315,Pathogenic Stability Score,0.08,Pathogenic Relative Surface Area,0.78044,0.85915,4.17583
--2.9735,Pathogenic Stability Score,0.1,Pathogenic Relative Surface Area,0.83239,0.77154,6.67634
--0.2869,Benign Stability Score,0.51,Benign Relative Surface Area,0.12657,0.10854,0
--0.6675,Pathogenic Stability Score,0.13,Pathogenic Relative Surface Area,0.83072,0.8432,5.415
-0.9836,Benign Stability Score,0.51,Benign Relative Surface Area,0.12657,0.10854,0
--0.6762,Pathogenic Stability Score,0.15,Pathogenic Relative Surface Area,0.58091,0.37334,0.69941
--0.9303,Pathogenic Stability Score,0.28,Pathogenic Relative Surface Area,0.70317,0.56947,3.02392
--3.5514,Pathogenic Stability Score,0.04,Pathogenic Relative Surface Area,0.65835,0.51808,2.90781
--3.1741,Pathogenic Stability Score,0.15,Pathogenic Relative Surface Area,0.8276,0.8588,5.84838
-0.3441,Benign Stability Score,0.49,Benign Relative Surface Area,0.60654,0.42653,1.59252
--3.4483,Pathogenic Stability Score,0.02,Pathogenic Relative Surface Area,0.66695,0.54717,2.6629
--0.6266,Pathogenic Stability Score,0.1,Pathogenic Relative Surface Area,0.85727,0.97923,5.6315
--1.5491,Pathogenic Stability Score,0.05,Pathogenic Relative Surface Area,0.7439,0.6362,1.88057
--1.1686,Benign Stability Score,0.01,Benign Relative Surface Area,0.76165,0.77705,3.38606
--1.0618,Pathogenic Stability Score,0.36,Pathogenic Relative Surface Area,0.65567,0.50915,1.42669
--0.6881,Pathogenic Stability Score,0.34,Pathogenic Relative Surface Area,0.82359,0.8922,4.44678
--0.812,Pathogenic Stability Score,0.36,Pathogenic Relative Surface Area,0.82159,0.95198,5.04342
--1.1139,Benign Stability Score,0.46,Benign Relative Surface Area,0.61947,0.41053,1.38132
-0.3653,Pathogenic Stability Score,0.08,Pathogenic Relative Surface Area,0.62737,0.56373,-0.64598
--1.0629,Pathogenic Stability Score,0.2,Pathogenic Relative Surface Area,0.83089,0.8595,4.98623
--0.0431,Benign Stability Score,0.47,Benign Relative Surface Area,0.68537,0.47545,2.50655
-0.0886,Benign Stability Score,0.71,Benign Relative Surface Area,0.55174,0.21396,-1.00544
--1.3758,Pathogenic Stability Score,0.09,Pathogenic Relative Surface Area,0.8314,0.94962,4.33014
--0.5989,Benign Stability Score,0.37,Benign Relative Surface Area,0.60921,0.24941,-0.08071
--0.7889,Pathogenic Stability Score,0.26,Pathogenic Relative Surface Area,0.71414,0.653,3.02306
--1.3474,Pathogenic Stability Score,0.32,Pathogenic Relative Surface Area,0.70096,0.46532,3.16788
--4.107,Pathogenic Stability Score,0.19,Pathogenic Relative Surface Area,0.78871,0.72853,6.47114
--1.053,Pathogenic Stability Score,0.27,Pathogenic Relative Surface Area,0.79085,0.75634,3.44045
--2.8772,Pathogenic Stability Score,0.19,Pathogenic Relative Surface Area,0.78871,0.72853,6.47114
--0.0874,Benign Stability Score,0.51,Benign Relative Surface Area,0.81036,0.87745,4.89193
--0.8619,Pathogenic Stability Score,0.08,Pathogenic Relative Surface Area,0.79672,0.93535,5.12233
--2.7664,Pathogenic Stability Score,0.09,Pathogenic Relative Surface Area,0.85748,0.91994,6.16097
-0.0651,Pathogenic Stability Score,0.24,Pathogenic Relative Surface Area,0.71678,0.62948,3.18592
--1.2301,Pathogenic Stability Score,0.17,Pathogenic Relative Surface Area,0.76628,0.83489,5.12165
+ScoreS,TypeS,ScoreRSA,TypeRSA,ScoreJS,TypeJS,ScoreSE,TypeSE,ScoreSOP,TypeSOP
+-0.598,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.79609,JS Pathogenic,0.79609,SE Pathogenic,0.79609,SOP Pathogenic
+0.0222,Benign Stability Change,0.62,Benign Relative Surface Area,0.55941,JS Benign,0.29998,SE Benign,1.52141,SOP Benign
+-0.4196,Benign Stability Change,0.49,Benign Relative Surface Area,0.80599,JS Benign,0.88893,SE Benign,4.73446,SOP Benign
+-0.8183,Benign Stability Change,0.35,Benign Relative Surface Area,0.62415,JS Benign,0.34261,SE Benign,0.91137,SOP Benign
+-1.0312,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.7854,JS Pathogenic,0.79476,SE Pathogenic,3.53515,SOP Pathogenic
+-0.9582,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.67802,JS Pathogenic,0.59243,SE Pathogenic,1.57467,SOP Pathogenic
+-0.1729,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.72585,JS Pathogenic,0.56855,SE Pathogenic,1.91001,SOP Pathogenic
+-2.6762,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.69916,JS Pathogenic,0.55233,SE Pathogenic,2.05698,SOP Pathogenic
+-3.4352,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.68357,JS Pathogenic,0.56562,SE Pathogenic,2.39818,SOP Pathogenic
+-0.7747,Benign Stability Change,0.57,Benign Relative Surface Area,0.39253,JS Benign,0.22731,SE Benign,-1.2427,SOP Benign
+0.5056,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.60808,JS Pathogenic,0.32507,SE Pathogenic,-0.53321,SOP Pathogenic
+-0.6126,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.62573,JS Pathogenic,0.41917,SE Pathogenic,0.71754,SOP Pathogenic
+0.2187,Benign Stability Change,0.69,Benign Relative Surface Area,0.17755,JS Benign,0.14539,SE Benign,-0.23426,SOP Benign
+-1.1452,Pathogenic Stability Change,0.4,Pathogenic Relative Surface Area,0.58253,JS Pathogenic,0.31031,SE Pathogenic,-0.06377,SOP Pathogenic
+-0.9986,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.82972,JS Pathogenic,0.95564,SE Pathogenic,4.83674,SOP Pathogenic
+-0.5036,Benign Stability Change,0.66,Benign Relative Surface Area,0.58907,JS Benign,0.2951,SE Benign,-0.9282,SOP Benign
+-0.8176,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.72698,JS Pathogenic,0.64683,SE Pathogenic,2.95017,SOP Pathogenic
+-1.9831,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.83828,JS Pathogenic,0.79516,SE Pathogenic,6.21925,SOP Pathogenic
+-0.0341,Benign Stability Change,0.56,Benign Relative Surface Area,0.69411,JS Benign,0.18814,SE Benign,1.50584,SOP Benign
+-1.5176,Pathogenic Stability Change,0.25,Pathogenic Relative Surface Area,0.83402,JS Pathogenic,0.81669,SE Pathogenic,5.77752,SOP Pathogenic
+-0.5871,Benign Stability Change,0.65,Benign Relative Surface Area,0.54438,JS Benign,0.28548,SE Benign,-0.41023,SOP Benign
+-0.67,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.69339,JS Pathogenic,0.48404,SE Pathogenic,2.35523,SOP Pathogenic
+-2.5105,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.81418,JS Pathogenic,0.84924,SE Pathogenic,4.95977,SOP Pathogenic
+0.7969,Benign Stability Change,0.21,Benign Relative Surface Area,0.65982,JS Benign,0.38211,SE Benign,1.00083,SOP Benign
+-0.054,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.61987,JS Pathogenic,0.44497,SE Pathogenic,1.73298,SOP Pathogenic
+0.813,Pathogenic Stability Change,0.35,Pathogenic Relative Surface Area,0.6605,JS Pathogenic,0.49971,SE Pathogenic,3.01576,SOP Pathogenic
+-0.7326,Pathogenic Stability Change,0.3,Pathogenic Relative Surface Area,0.85537,JS Pathogenic,0.95441,SE Pathogenic,4.87422,SOP Pathogenic
+-0.4723,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.85537,JS Pathogenic,0.95441,SE Pathogenic,4.87422,SOP Pathogenic
+-0.5839,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.57588,JS Pathogenic,0.23313,SE Pathogenic,0.7385,SOP Pathogenic
+-0.4785,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.62458,JS Pathogenic,0.2885,SE Pathogenic,1.09078,SOP Pathogenic
+-0.3179,Benign Stability Change,0.04,Benign Relative Surface Area,0.70744,JS Benign,0.60215,SE Benign,2.97661,SOP Benign
+0.2902,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.73775,JS Pathogenic,0.62331,SE Pathogenic,3.10806,SOP Pathogenic
+-0.7077,Benign Stability Change,0.35,Benign Relative Surface Area,0.63838,JS Benign,0.53156,SE Benign,1.15535,SOP Benign
+0.1598,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.63222,JS Pathogenic,0.46714,SE Pathogenic,-1.19231,SOP Pathogenic
+-1.3679,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.82266,JS Pathogenic,0.90271,SE Pathogenic,4.78048,SOP Pathogenic
+-0.5636,Pathogenic Stability Change,0.27,Pathogenic Relative Surface Area,0.68368,JS Pathogenic,0.45161,SE Pathogenic,1.87865,SOP Pathogenic
+-0.4072,Pathogenic Stability Change,0.22,Pathogenic Relative Surface Area,0.81417,JS Pathogenic,0.79852,SE Pathogenic,3.62643,SOP Pathogenic
+-0.7315,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.78044,JS Pathogenic,0.85915,SE Pathogenic,4.17583,SOP Pathogenic
+-2.9735,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.83239,JS Pathogenic,0.77154,SE Pathogenic,6.67634,SOP Pathogenic
+-0.2869,Benign Stability Change,0.51,Benign Relative Surface Area,0.12657,JS Benign,0.10854,SE Benign,0,SOP Benign
+-0.6675,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.83072,JS Pathogenic,0.8432,SE Pathogenic,5.415,SOP Pathogenic
+0.9836,Benign Stability Change,0.51,Benign Relative Surface Area,0.12657,JS Benign,0.10854,SE Benign,0,SOP Benign
+-0.6762,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.58091,JS Pathogenic,0.37334,SE Pathogenic,0.69941,SOP Pathogenic
+-0.9303,Pathogenic Stability Change,0.28,Pathogenic Relative Surface Area,0.70317,JS Pathogenic,0.56947,SE Pathogenic,3.02392,SOP Pathogenic
+-3.5514,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.65835,JS Pathogenic,0.51808,SE Pathogenic,2.90781,SOP Pathogenic
+-3.1741,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.8276,JS Pathogenic,0.8588,SE Pathogenic,5.84838,SOP Pathogenic
+0.3441,Benign Stability Change,0.49,Benign Relative Surface Area,0.60654,JS Benign,0.42653,SE Benign,1.59252,SOP Benign
+-3.4483,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.66695,JS Pathogenic,0.54717,SE Pathogenic,2.6629,SOP Pathogenic
+-0.6266,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.85727,JS Pathogenic,0.97923,SE Pathogenic,5.6315,SOP Pathogenic
+-1.5491,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.7439,JS Pathogenic,0.6362,SE Pathogenic,1.88057,SOP Pathogenic
+-1.1686,Benign Stability Change,0.01,Benign Relative Surface Area,0.76165,JS Benign,0.77705,SE Benign,3.38606,SOP Benign
+-1.0618,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.65567,JS Pathogenic,0.50915,SE Pathogenic,1.42669,SOP Pathogenic
+-0.6881,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.82359,JS Pathogenic,0.8922,SE Pathogenic,4.44678,SOP Pathogenic
+-0.812,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.82159,JS Pathogenic,0.95198,SE Pathogenic,5.04342,SOP Pathogenic
+-1.1139,Benign Stability Change,0.46,Benign Relative Surface Area,0.61947,JS Benign,0.41053,SE Benign,1.38132,SOP Benign
+0.3653,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.62737,JS Pathogenic,0.56373,SE Pathogenic,-0.64598,SOP Pathogenic
+-1.0629,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.83089,JS Pathogenic,0.8595,SE Pathogenic,4.98623,SOP Pathogenic
+-0.0431,Benign Stability Change,0.47,Benign Relative Surface Area,0.68537,JS Benign,0.47545,SE Benign,2.50655,SOP Benign
+0.0886,Benign Stability Change,0.71,Benign Relative Surface Area,0.55174,JS Benign,0.21396,SE Benign,-1.00544,SOP Benign
+-1.3758,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.8314,JS Pathogenic,0.94962,SE Pathogenic,4.33014,SOP Pathogenic
+-0.5989,Benign Stability Change,0.37,Benign Relative Surface Area,0.60921,JS Benign,0.24941,SE Benign,-0.08071,SOP Benign
+-0.7889,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.71414,JS Pathogenic,0.653,SE Pathogenic,3.02306,SOP Pathogenic
+-1.3474,Pathogenic Stability Change,0.32,Pathogenic Relative Surface Area,0.70096,JS Pathogenic,0.46532,SE Pathogenic,3.16788,SOP Pathogenic
+-4.107,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.78871,JS Pathogenic,0.72853,SE Pathogenic,6.47114,SOP Pathogenic
+-1.053,Pathogenic Stability Change,0.27,Pathogenic Relative Surface Area,0.79085,JS Pathogenic,0.75634,SE Pathogenic,3.44045,SOP Pathogenic
+-2.8772,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.78871,JS Pathogenic,0.72853,SE Pathogenic,6.47114,SOP Pathogenic
+-0.0874,Benign Stability Change,0.51,Benign Relative Surface Area,0.81036,JS Benign,0.87745,SE Benign,4.89193,SOP Benign
+-0.8619,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.79672,JS Pathogenic,0.93535,SE Pathogenic,5.12233,SOP Pathogenic
+-2.7664,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.85748,JS Pathogenic,0.91994,SE Pathogenic,6.16097,SOP Pathogenic
+0.0651,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.71678,JS Pathogenic,0.62948,SE Pathogenic,3.18592,SOP Pathogenic
+-1.2301,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.76628,JS Pathogenic,0.83489,SE Pathogenic,5.12165,SOP Pathogenic
