@@ -1,0 +1,16 @@
+ScoreS,TypeS,ScoreRSA,TypeRSA,ScoreJS,TypeJS,ScoreSE,TypeSE,ScoreSOP,TypeSOP
+0.598,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.79609,JS Pathogenic,0.79609,SE Pathogenic,0.79609,SOP Pathogenic
+0.0222,Benign Stability Change,0.62,Benign Relative Surface Area,0.55941,JS Benign,0.29998,SE Benign,1.52141,SOP Benign
+0.4196,Benign Stability Change,0.49,Benign Relative Surface Area,0.80599,JS Benign,0.88893,SE Benign,4.73446,SOP Benign
+0.8183,Benign Stability Change,0.35,Benign Relative Surface Area,0.62415,JS Benign,0.34261,SE Benign,0.91137,SOP Benign
+1.0312,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.7854,JS Pathogenic,0.79476,SE Pathogenic,3.53515,SOP Pathogenic
+3.4352,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.68357,JS Pathogenic,0.56562,SE Pathogenic,2.39818,SOP Pathogenic
+0.7747,Benign Stability Change,0.57,Benign Relative Surface Area,0.39253,JS Benign,0.22731,SE Benign,-1.2427,SOP Benign
+0.5056,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.60808,JS Pathogenic,0.32507,SE Pathogenic,-0.53321,SOP Pathogenic
+0.6126,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.62573,JS Pathogenic,0.41917,SE Pathogenic,0.71754,SOP Pathogenic
+0.2187,Benign Stability Change,0.69,Benign Relative Surface Area,0.17755,JS Benign,0.14539,SE Benign,-0.23426,SOP Benign
+1.1452,Pathogenic Stability Change,0.4,Pathogenic Relative Surface Area,0.58253,JS Pathogenic,0.31031,SE Pathogenic,-0.06377,SOP Pathogenic
+0.9986,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.82972,JS Pathogenic,0.95564,SE Pathogenic,4.83674,SOP Pathogenic
+0.5036,Benign Stability Change,0.66,Benign Relative Surface Area,0.58907,JS Benign,0.2951,SE Benign,-0.9282,SOP Benign
+0.8176,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.72698,JS Pathogenic,0.64683,SE Pathogenic,2.95017,SOP Pathogenic
+1.9831,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.83828,JS Pathogenic,0.79516,SE Pathogenic,6.21925,SOP Pathogenic
