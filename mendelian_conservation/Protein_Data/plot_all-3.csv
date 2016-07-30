@@ -1,0 +1,960 @@
+ScoreS,TypeS,ScoreRSA,TypeRSA,ScoreJS,TypeJS,ScoreSE,TypeSE,ScoreSOP,TypeSOP
+0.598,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.79609,JS Pathogenic,0.79609,SE Pathogenic,0.79609,SOP Pathogenic
+0.0222,Benign Stability Change,0.62,Benign Relative Surface Area,0.55941,JS Benign,0.29998,SE Benign,1.52141,SOP Benign
+0.4196,Benign Stability Change,0.49,Benign Relative Surface Area,0.80599,JS Benign,0.88893,SE Benign,4.73446,SOP Benign
+0.8183,Benign Stability Change,0.35,Benign Relative Surface Area,0.62415,JS Benign,0.34261,SE Benign,0.91137,SOP Benign
+1.0312,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.7854,JS Pathogenic,0.79476,SE Pathogenic,3.53515,SOP Pathogenic
+3.4352,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.68357,JS Pathogenic,0.56562,SE Pathogenic,2.39818,SOP Pathogenic
+0.7747,Benign Stability Change,0.57,Benign Relative Surface Area,0.39253,JS Benign,0.22731,SE Benign,-1.2427,SOP Benign
+0.5056,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.60808,JS Pathogenic,0.32507,SE Pathogenic,-0.53321,SOP Pathogenic
+0.6126,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.62573,JS Pathogenic,0.41917,SE Pathogenic,0.71754,SOP Pathogenic
+0.2187,Benign Stability Change,0.69,Benign Relative Surface Area,0.17755,JS Benign,0.14539,SE Benign,-0.23426,SOP Benign
+1.1452,Pathogenic Stability Change,0.4,Pathogenic Relative Surface Area,0.58253,JS Pathogenic,0.31031,SE Pathogenic,-0.06377,SOP Pathogenic
+0.9986,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.82972,JS Pathogenic,0.95564,SE Pathogenic,4.83674,SOP Pathogenic
+0.5036,Benign Stability Change,0.66,Benign Relative Surface Area,0.58907,JS Benign,0.2951,SE Benign,-0.9282,SOP Benign
+0.8176,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.72698,JS Pathogenic,0.64683,SE Pathogenic,2.95017,SOP Pathogenic
+1.9831,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.83828,JS Pathogenic,0.79516,SE Pathogenic,6.21925,SOP Pathogenic
+1.5176,Pathogenic Stability Change,0.25,Pathogenic Relative Surface Area,0.83402,JS Pathogenic,0.81669,SE Pathogenic,5.77752,SOP Pathogenic
+0.0341,Benign Stability Change,0.56,Benign Relative Surface Area,0.69411,JS Benign,0.18814,SE Benign,1.50584,SOP Benign
+0.9582,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.67802,JS Pathogenic,0.59243,SE Pathogenic,1.57467,SOP Pathogenic
+0.1729,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.72585,JS Pathogenic,0.56855,SE Pathogenic,1.91001,SOP Pathogenic
+2.6762,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.69916,JS Pathogenic,0.55233,SE Pathogenic,2.05698,SOP Pathogenic
+0.3563,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.71998,JS Pathogenic,0.44775,SE Pathogenic,2.51659,SOP Pathogenic
+0.5597,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.79026,JS Pathogenic,0.83408,SE Pathogenic,5.29658,SOP Pathogenic
+0.5303,Benign Stability Change,0.05,Benign Relative Surface Area,0.65771,JS Benign,0.34773,SE Benign,1.80414,SOP Benign
+3.2751,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.79853,JS Pathogenic,0.89901,SE Pathogenic,3.98367,SOP Pathogenic
+0.4983,Benign Stability Change,0.58,Benign Relative Surface Area,0.48232,JS Benign,0.06961,SE Benign,0.39775,SOP Benign
+0.4622,Benign Stability Change,0.2,Benign Relative Surface Area,0.69511,JS Benign,0.56794,SE Benign,2.26543,SOP Benign
+0.7454,Pathogenic Stability Change,0.67,Pathogenic Relative Surface Area,0.7129,JS Pathogenic,0.47077,SE Pathogenic,2.497,SOP Pathogenic
+2.1437,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.85788,JS Pathogenic,0.99998,SE Pathogenic,6.25,SOP Pathogenic
+2.1222,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.84586,JS Pathogenic,0.99998,SE Pathogenic,5.33333,SOP Pathogenic
+1.0804,Benign Stability Change,0.06,Benign Relative Surface Area,0.74939,JS Benign,0.72454,SE Benign,3.59505,SOP Benign
+1.0717,Pathogenic Stability Change,0.43,Pathogenic Relative Surface Area,0.83818,JS Pathogenic,0.88258,SE Pathogenic,5.19496,SOP Pathogenic
+2.6568,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.82814,JS Pathogenic,0.79543,SE Pathogenic,4.95667,SOP Pathogenic
+1.8148,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.7592,JS Pathogenic,0.76518,SE Pathogenic,3.67447,SOP Pathogenic
+0.0636,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.82304,JS Pathogenic,0.94932,SE Pathogenic,4.92766,SOP Pathogenic
+0.5274,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.8273,JS Pathogenic,0.90264,SE Pathogenic,4.63091,SOP Pathogenic
+0.2859,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.78917,JS Pathogenic,0.81583,SE Pathogenic,5.62447,SOP Pathogenic
+2.7326,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.84013,JS Pathogenic,0.88255,SE Pathogenic,7.23237,SOP Pathogenic
+0.5428,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.80555,JS Pathogenic,0.89867,SE Pathogenic,4.17606,SOP Pathogenic
+1.2957,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.84348,JS Pathogenic,0.76915,SE Pathogenic,4.12671,SOP Pathogenic
+0.9086,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.81464,JS Pathogenic,0.8519,SE Pathogenic,4.24031,SOP Pathogenic
+0.662,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.80655,JS Pathogenic,0.94932,SE Pathogenic,5.1305,SOP Pathogenic
+0.5252,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.85324,JS Pathogenic,0.99997,SE Pathogenic,5.33333,SOP Pathogenic
+1.0712,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.81464,JS Pathogenic,0.8519,SE Pathogenic,4.24031,SOP Pathogenic
+0.4609,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.85324,JS Pathogenic,0.99997,SE Pathogenic,5.33333,SOP Pathogenic
+1.4489,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.86531,JS Pathogenic,0.99997,SE Pathogenic,6.16667,SOP Pathogenic
+0.6287,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.85324,JS Pathogenic,0.99997,SE Pathogenic,5.33333,SOP Pathogenic
+0.9185,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.85197,JS Pathogenic,0.90653,SE Pathogenic,6.1619,SOP Pathogenic
+1.3088,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.88056,JS Pathogenic,0.94932,SE Pathogenic,7.1305,SOP Pathogenic
+1.2552,Pathogenic Stability Change,0.51,Pathogenic Relative Surface Area,0.83141,JS Pathogenic,0.89867,SE Pathogenic,4.66507,SOP Pathogenic
+3.0846,Pathogenic Stability Change,0.18,Pathogenic Relative Surface Area,0.85062,JS Pathogenic,0.90255,SE Pathogenic,5.39254,SOP Pathogenic
+0.2577,Pathogenic Stability Change,0.64,Pathogenic Relative Surface Area,0.61915,JS Pathogenic,0.28392,SE Pathogenic,1.20969,SOP Pathogenic
+0.4375,Pathogenic Stability Change,0.64,Pathogenic Relative Surface Area,0.61915,JS Pathogenic,0.28392,SE Pathogenic,1.20969,SOP Pathogenic
+1.6867,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.76828,JS Pathogenic,0.71453,SE Pathogenic,3.04893,SOP Pathogenic
+1.9412,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.80812,JS Pathogenic,0.76915,SE Pathogenic,4.04737,SOP Pathogenic
+2.7246,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.80812,JS Pathogenic,0.76915,SE Pathogenic,4.04737,SOP Pathogenic
+0.9308,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.79257,JS Pathogenic,0.94932,SE Pathogenic,4.03457,SOP Pathogenic
+0.0964,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.76499,JS Pathogenic,0.69606,SE Pathogenic,3.14929,SOP Pathogenic
+0.7201,Pathogenic Stability Change,0.27,Pathogenic Relative Surface Area,0.84367,JS Pathogenic,0.9532,SE Pathogenic,4.8218,SOP Pathogenic
+1.7523,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.83761,JS Pathogenic,0.89867,SE Pathogenic,4.78298,SOP Pathogenic
+3.0158,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.83761,JS Pathogenic,0.89867,SE Pathogenic,4.78298,SOP Pathogenic
+0.4326,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.82832,JS Pathogenic,0.89867,SE Pathogenic,5.21223,SOP Pathogenic
+0.8325,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.78836,JS Pathogenic,0.94932,SE Pathogenic,5.01099,SOP Pathogenic
+0.44,Benign Stability Change,0.45,Benign Relative Surface Area,0.71119,JS Benign,0.3188,SE Benign,-1.56595,SOP Benign
+2.739,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.88643,JS Pathogenic,0.94932,SE Pathogenic,8.04716,SOP Pathogenic
+0.0909,Benign Stability Change,0.53,Benign Relative Surface Area,0.57248,JS Benign,0.15881,SE Benign,1.89363,SOP Benign
+3.1034,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.89246,JS Pathogenic,0.99997,SE Pathogenic,8.16667,SOP Pathogenic
+0.4362,Pathogenic Stability Change,0.11,Pathogenic Relative Surface Area,0.76299,JS Pathogenic,0.71893,SE Pathogenic,3.85733,SOP Pathogenic
+0.3353,Benign Stability Change,0.5,Benign Relative Surface Area,0.73335,JS Benign,0.45199,SE Benign,-0.92545,SOP Benign
+0.4889,Benign Stability Change,0.42,Benign Relative Surface Area,0.69653,JS Benign,0.20325,SE Benign,-0.5794,SOP Benign
+0.9346,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.81725,JS Pathogenic,0.80178,SE Pathogenic,4.41221,SOP Pathogenic
+0.7758,Pathogenic Stability Change,0.41,Pathogenic Relative Surface Area,0.82519,JS Pathogenic,0.81955,SE Pathogenic,5.25016,SOP Pathogenic
+2.0905,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.90036,JS Pathogenic,0.99997,SE Pathogenic,8,SOP Pathogenic
+0.2249,Pathogenic Stability Change,0.28,Pathogenic Relative Surface Area,0.72041,JS Pathogenic,0.51356,SE Pathogenic,2.83681,SOP Pathogenic
+1.3523,Pathogenic Stability Change,0.28,Pathogenic Relative Surface Area,0.72041,JS Pathogenic,0.51356,SE Pathogenic,2.83681,SOP Pathogenic
+0.529,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.66049,JS Pathogenic,0.4048,SE Pathogenic,2.15927,SOP Pathogenic
+0.6328,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.66274,JS Pathogenic,0.39405,SE Pathogenic,1.86746,SOP Pathogenic
+2.4533,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.84149,JS Pathogenic,0.85582,SE Pathogenic,7.40447,SOP Pathogenic
+0.9868,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.77253,JS Pathogenic,0.76594,SE Pathogenic,3.88994,SOP Pathogenic
+0.9768,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.78707,JS Pathogenic,0.78362,SE Pathogenic,4.02643,SOP Pathogenic
+1.4284,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.78707,JS Pathogenic,0.78362,SE Pathogenic,4.02643,SOP Pathogenic
+1.0546,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.82464,JS Pathogenic,0.85872,SE Pathogenic,4.80896,SOP Pathogenic
+1.0012,Pathogenic Stability Change,0.11,Pathogenic Relative Surface Area,0.79526,JS Pathogenic,0.75756,SE Pathogenic,4.56958,SOP Pathogenic
+0.7477,Pathogenic Stability Change,0.47,Pathogenic Relative Surface Area,0.71983,JS Pathogenic,0.60349,SE Pathogenic,2.02685,SOP Pathogenic
+1.3057,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.78707,JS Pathogenic,0.78362,SE Pathogenic,4.02643,SOP Pathogenic
+0.3753,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.72124,JS Pathogenic,0.57443,SE Pathogenic,1.81562,SOP Pathogenic
+1.9811,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.79396,JS Pathogenic,0.76967,SE Pathogenic,5.07013,SOP Pathogenic
+0.246,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.72124,JS Pathogenic,0.57443,SE Pathogenic,1.81562,SOP Pathogenic
+0.1291,Benign Stability Change,0.65,Benign Relative Surface Area,0.5333,JS Benign,0.13438,SE Benign,1.0369,SOP Benign
+1.1419,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.69508,JS Pathogenic,0.62761,SE Pathogenic,3.1679,SOP Pathogenic
+2.4195,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.79117,JS Pathogenic,0.73851,SE Pathogenic,4.67621,SOP Pathogenic
+1.1242,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.78467,JS Pathogenic,0.89072,SE Pathogenic,5.58925,SOP Pathogenic
+0.007,Benign Stability Change,0.65,Benign Relative Surface Area,0.5333,JS Benign,0.13438,SE Benign,1.0369,SOP Benign
+2.1133,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.83457,JS Pathogenic,0.88598,SE Pathogenic,4.99673,SOP Pathogenic
+0.0709,Benign Stability Change,0.32,Benign Relative Surface Area,0.40405,JS Benign,0.21194,SE Benign,1.39929,SOP Benign
+0.6368,Pathogenic Stability Change,0.33,Pathogenic Relative Surface Area,0.86642,JS Pathogenic,0.94695,SE Pathogenic,6.1713,SOP Pathogenic
+2.2732,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.77516,JS Pathogenic,0.86198,SE Pathogenic,3.87799,SOP Pathogenic
+2.4166,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.8422,JS Pathogenic,0.89273,SE Pathogenic,5.87292,SOP Pathogenic
+0.272,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.80487,JS Pathogenic,0.85851,SE Pathogenic,4.34853,SOP Pathogenic
+0.521,Pathogenic Stability Change,0.58,Pathogenic Relative Surface Area,0.62254,JS Pathogenic,0.58596,SE Pathogenic,2.25701,SOP Pathogenic
+1.2594,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.82334,JS Pathogenic,0.88307,SE Pathogenic,5.39407,SOP Pathogenic
+0.9456,Pathogenic Stability Change,0.43,Pathogenic Relative Surface Area,0.75585,JS Pathogenic,0.76983,SE Pathogenic,4.76921,SOP Pathogenic
+2.5003,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.85515,JS Pathogenic,0.9189,SE Pathogenic,6.38029,SOP Pathogenic
+2.9284,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.78065,JS Pathogenic,0.64504,SE Pathogenic,4.04193,SOP Pathogenic
+3.6454,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.87543,JS Pathogenic,0.91529,SE Pathogenic,7.53514,SOP Pathogenic
+2.5024,Pathogenic Stability Change,0.14,Pathogenic Relative Surface Area,0.82094,JS Pathogenic,0.88085,SE Pathogenic,4.40815,SOP Pathogenic
+0.0262,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.7755,JS Pathogenic,0.67703,SE Pathogenic,3.81496,SOP Pathogenic
+0.8895,Pathogenic Stability Change,0.47,Pathogenic Relative Surface Area,0.63939,JS Pathogenic,0.41828,SE Pathogenic,1.47751,SOP Pathogenic
+0.7587,Pathogenic Stability Change,0.23,Pathogenic Relative Surface Area,0.8332,JS Pathogenic,0.99998,SE Pathogenic,6.41667,SOP Pathogenic
+0.191,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.7694,JS Pathogenic,0.79644,SE Pathogenic,3.4193,SOP Pathogenic
+0.2502,Benign Stability Change,0.39,Benign Relative Surface Area,0.73122,JS Benign,0.59737,SE Benign,3.11792,SOP Benign
+4.1042,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.69125,JS Pathogenic,0.54695,SE Pathogenic,2.81445,SOP Pathogenic
+1.2285,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.80808,JS Pathogenic,0.76485,SE Pathogenic,5.0884,SOP Pathogenic
+0.0166,Pathogenic Stability Change,0.75,Pathogenic Relative Surface Area,0.51396,JS Pathogenic,0.28078,SE Pathogenic,2.35364,SOP Pathogenic
+0.1232,Pathogenic Stability Change,0.75,Pathogenic Relative Surface Area,0.51396,JS Pathogenic,0.28078,SE Pathogenic,2.35364,SOP Pathogenic
+0.7661,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.79637,JS Pathogenic,0.83421,SE Pathogenic,3.96487,SOP Pathogenic
+0.6267,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.7894,JS Pathogenic,0.71825,SE Pathogenic,4.13281,SOP Pathogenic
+3.9016,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.83719,JS Pathogenic,0.88949,SE Pathogenic,5.1085,SOP Pathogenic
+0.6316,Pathogenic Stability Change,0.3,Pathogenic Relative Surface Area,0.81963,JS Pathogenic,0.89355,SE Pathogenic,4.62165,SOP Pathogenic
+1.2556,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.81574,JS Pathogenic,0.93834,SE Pathogenic,4.74506,SOP Pathogenic
+3.843,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.8386,JS Pathogenic,0.91615,SE Pathogenic,5.25387,SOP Pathogenic
+0.7486,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.75536,JS Pathogenic,0.68144,SE Pathogenic,3.33814,SOP Pathogenic
+0.026,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.81681,JS Pathogenic,0.97068,SE Pathogenic,5.79708,SOP Pathogenic
+0.4041,Pathogenic Stability Change,0.4,Pathogenic Relative Surface Area,0.78229,JS Pathogenic,0.88818,SE Pathogenic,5.02553,SOP Pathogenic
+0.3819,Pathogenic Stability Change,0.22,Pathogenic Relative Surface Area,0.75735,JS Pathogenic,0.6807,SE Pathogenic,3.58595,SOP Pathogenic
+0.7083,Pathogenic Stability Change,0.28,Pathogenic Relative Surface Area,0.82627,JS Pathogenic,0.90553,SE Pathogenic,5.58496,SOP Pathogenic
+0.8881,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.72303,JS Pathogenic,0.60871,SE Pathogenic,3.12729,SOP Pathogenic
+0.4888,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.72303,JS Pathogenic,0.60871,SE Pathogenic,3.12729,SOP Pathogenic
+2.8444,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.77107,JS Pathogenic,0.87835,SE Pathogenic,4.07129,SOP Pathogenic
+0.1367,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.70077,JS Pathogenic,0.52599,SE Pathogenic,3.71373,SOP Pathogenic
+3.2689,Pathogenic Stability Change,0.23,Pathogenic Relative Surface Area,0.82353,JS Pathogenic,0.88062,SE Pathogenic,4.50565,SOP Pathogenic
+2.559,Pathogenic Stability Change,0.23,Pathogenic Relative Surface Area,0.82353,JS Pathogenic,0.88062,SE Pathogenic,4.50565,SOP Pathogenic
+0.1733,Benign Stability Change,0.08,Benign Relative Surface Area,0.77411,JS Benign,0.81474,SE Benign,4.02273,SOP Benign
+0.3524,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.80901,JS Pathogenic,0.88411,SE Pathogenic,3.90567,SOP Pathogenic
+1.2891,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.8288,JS Pathogenic,0.84408,SE Pathogenic,5.32743,SOP Pathogenic
+0.6562,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.84972,JS Pathogenic,0.99998,SE Pathogenic,6.08333,SOP Pathogenic
+0.3485,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.84189,JS Pathogenic,0.9134,SE Pathogenic,5.55657,SOP Pathogenic
+0.488,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.72648,JS Pathogenic,0.70804,SE Pathogenic,3.14683,SOP Pathogenic
+3.5619,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.72648,JS Pathogenic,0.70804,SE Pathogenic,3.14683,SOP Pathogenic
+0.3668,Benign Stability Change,0.42,Benign Relative Surface Area,0.6482,JS Benign,0.41156,SE Benign,1.87518,SOP Benign
+2.2332,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.79049,JS Pathogenic,0.73763,SE Pathogenic,3.02372,SOP Pathogenic
+1.0049,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.81114,JS Pathogenic,0.94677,SE Pathogenic,5.50044,SOP Pathogenic
+2.2512,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.83489,JS Pathogenic,0.80566,SE Pathogenic,6.73892,SOP Pathogenic
+1.75,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.77145,JS Pathogenic,0.7504,SE Pathogenic,4.07613,SOP Pathogenic
+2.6639,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.68466,JS Pathogenic,0.50981,SE Pathogenic,3.86761,SOP Pathogenic
+1.5658,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.79928,JS Pathogenic,0.77069,SE Pathogenic,4.8518,SOP Pathogenic
+0.2228,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.80748,JS Pathogenic,0.83495,SE Pathogenic,4.6636,SOP Pathogenic
+0.0843,Pathogenic Stability Change,0.76,Pathogenic Relative Surface Area,0.64995,JS Pathogenic,0.42772,SE Pathogenic,1.0547,SOP Pathogenic
+2.4415,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.84613,JS Pathogenic,0.81104,SE Pathogenic,6.99179,SOP Pathogenic
+0.0637,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.75827,JS Pathogenic,0.80679,SE Pathogenic,4.50443,SOP Pathogenic
+3.2482,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.77177,JS Pathogenic,0.7787,SE Pathogenic,3.08997,SOP Pathogenic
+0.7721,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.69314,JS Pathogenic,0.59256,SE Pathogenic,2.43528,SOP Pathogenic
+0.4609,Pathogenic Stability Change,0.32,Pathogenic Relative Surface Area,0.72674,JS Pathogenic,0.58667,SE Pathogenic,2.95225,SOP Pathogenic
+0.5352,Benign Stability Change,0.48,Benign Relative Surface Area,0.53175,JS Benign,0.18627,SE Benign,-0.76158,SOP Benign
+0.1067,Benign Stability Change,0.02,Benign Relative Surface Area,0.63092,JS Benign,0.32699,SE Benign,1.97113,SOP Benign
+2.3898,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.67749,JS Pathogenic,0.58694,SE Pathogenic,3.07254,SOP Pathogenic
+0.4093,Pathogenic Stability Change,0.59,Pathogenic Relative Surface Area,0.61611,JS Pathogenic,0.25836,SE Pathogenic,-0.14602,SOP Pathogenic
+1.4992,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.69374,JS Pathogenic,0.53338,SE Pathogenic,2.57457,SOP Pathogenic
+0.5834,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.7738,JS Pathogenic,0.78909,SE Pathogenic,4.32917,SOP Pathogenic
+0.2612,Pathogenic Stability Change,0.41,Pathogenic Relative Surface Area,0.63249,JS Pathogenic,0.35705,SE Pathogenic,2.04853,SOP Pathogenic
+0.2392,Pathogenic Stability Change,0.49,Pathogenic Relative Surface Area,0.6229,JS Pathogenic,0.39077,SE Pathogenic,0.85015,SOP Pathogenic
+2.247,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.53699,JS Pathogenic,0.41483,SE Pathogenic,2.8349,SOP Pathogenic
+0.8533,Benign Stability Change,0.35,Benign Relative Surface Area,0.62723,JS Benign,0.34978,SE Benign,-0.44983,SOP Benign
+1.2167,Pathogenic Stability Change,0.65,Pathogenic Relative Surface Area,0.59258,JS Pathogenic,0.34733,SE Pathogenic,-2.16236,SOP Pathogenic
+0.4485,Benign Stability Change,0.67,Benign Relative Surface Area,0.58127,JS Benign,0.2967,SE Benign,-1.55162,SOP Benign
+0.3832,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.64939,JS Pathogenic,0.42746,SE Pathogenic,1.31563,SOP Pathogenic
+0.0778,Benign Stability Change,0.58,Benign Relative Surface Area,0.28698,JS Benign,0.19129,SE Benign,0.75561,SOP Benign
+0.2585,Benign Stability Change,0.44,Benign Relative Surface Area,0.73284,JS Benign,0.5956,SE Benign,1.95625,SOP Benign
+0.7731,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.70547,JS Pathogenic,0.70547,SE Pathogenic,2.67865,SOP Pathogenic
+1.6939,Pathogenic Stability Change,0.01,Pathogenic Relative Surface Area,0.95585,JS Pathogenic,0.95585,SE Pathogenic,4.27392,SOP Pathogenic
+0.8349,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.83182,JS Pathogenic,0.83182,SE Pathogenic,5.53285,SOP Pathogenic
+1.0114,Pathogenic Stability Change,0.58,Pathogenic Relative Surface Area,0.81532,JS Pathogenic,0.81532,SE Pathogenic,3.84944,SOP Pathogenic
+0.4855,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.81489,JS Pathogenic,0.95034,SE Pathogenic,5.9354,SOP Pathogenic
+0.4922,Pathogenic Stability Change,0.3,Pathogenic Relative Surface Area,0.85241,JS Pathogenic,0.99997,SE Pathogenic,5.5,SOP Pathogenic
+0.5513,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.8251,JS Pathogenic,0.9007,SE Pathogenic,4.47287,SOP Pathogenic
+1.4574,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.86709,JS Pathogenic,0.95034,SE Pathogenic,7.02552,SOP Pathogenic
+1.6506,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.84899,JS Pathogenic,0.95034,SE Pathogenic,6.02552,SOP Pathogenic
+0.0016,Pathogenic Stability Change,0.52,Pathogenic Relative Surface Area,0.77136,JS Pathogenic,0.65253,SE Pathogenic,2.22642,SOP Pathogenic
+4.1131,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.8978,JS Pathogenic,0.99997,SE Pathogenic,7.91667,SOP Pathogenic
+0.5466,Pathogenic Stability Change,0.49,Pathogenic Relative Surface Area,0.8233,JS Pathogenic,0.91677,SE Pathogenic,4.80782,SOP Pathogenic
+0.8986,Pathogenic Stability Change,0.18,Pathogenic Relative Surface Area,0.86075,JS Pathogenic,0.9007,SE Pathogenic,6.3385,SOP Pathogenic
+3.5993,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.86866,JS Pathogenic,0.85107,SE Pathogenic,7.07494,SOP Pathogenic
+0.8541,Pathogenic Stability Change,0.14,Pathogenic Relative Surface Area,0.7939,JS Pathogenic,0.85107,SE Pathogenic,3.60724,SOP Pathogenic
+0.3346,Benign Stability Change,0.04,Benign Relative Surface Area,0.76749,JS Benign,0.70217,SE Benign,4.1531,SOP Benign
+0.2156,Pathogenic Stability Change,0.48,Pathogenic Relative Surface Area,0.83599,JS Pathogenic,0.9007,SE Pathogenic,4.5885,SOP Pathogenic
+0.5962,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.83915,JS Pathogenic,0.95034,SE Pathogenic,4.8708,SOP Pathogenic
+1.4286,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.79521,JS Pathogenic,0.95034,SE Pathogenic,4.40988,SOP Pathogenic
+0.8268,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.83915,JS Pathogenic,0.95034,SE Pathogenic,4.8708,SOP Pathogenic
+2.4635,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.82909,JS Pathogenic,0.95034,SE Pathogenic,4.6854,SOP Pathogenic
+2.0843,Pathogenic Stability Change,0.32,Pathogenic Relative Surface Area,0.84903,JS Pathogenic,0.95034,SE Pathogenic,5.69218,SOP Pathogenic
+0.3563,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.71998,JS Pathogenic,0.44775,SE Pathogenic,2.51659,SOP Pathogenic
+0.5597,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.79026,JS Pathogenic,0.83408,SE Pathogenic,5.29658,SOP Pathogenic
+0.5303,Benign Stability Change,0.05,Benign Relative Surface Area,0.65771,JS Benign,0.34773,SE Benign,1.80414,SOP Benign
+3.2751,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.79853,JS Pathogenic,0.89901,SE Pathogenic,3.98367,SOP Pathogenic
+0.4983,Benign Stability Change,0.58,Benign Relative Surface Area,0.48232,JS Benign,0.06961,SE Benign,0.39775,SOP Benign
+0.4622,Benign Stability Change,0.2,Benign Relative Surface Area,0.69511,JS Benign,0.56794,SE Benign,2.26543,SOP Benign
+0.7454,Pathogenic Stability Change,0.67,Pathogenic Relative Surface Area,0.7129,JS Pathogenic,0.47077,SE Pathogenic,2.497,SOP Pathogenic
+2.1437,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.85788,JS Pathogenic,0.99998,SE Pathogenic,6.25,SOP Pathogenic
+2.1222,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.84586,JS Pathogenic,0.99998,SE Pathogenic,5.33333,SOP Pathogenic
+1.0804,Benign Stability Change,0.06,Benign Relative Surface Area,0.74939,JS Benign,0.72454,SE Benign,3.59505,SOP Benign
+1.0717,Pathogenic Stability Change,0.43,Pathogenic Relative Surface Area,0.83818,JS Pathogenic,0.88258,SE Pathogenic,5.19496,SOP Pathogenic
+2.6568,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.82814,JS Pathogenic,0.79543,SE Pathogenic,4.95667,SOP Pathogenic
+2.191,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.85082,JS Pathogenic,0.99998,SE Pathogenic,5.16667,SOP Pathogenic
+0.5495,Pathogenic Stability Change,0.41,Pathogenic Relative Surface Area,0.81199,JS Pathogenic,0.88127,SE Pathogenic,4.79534,SOP Pathogenic
+0.9286,Benign Stability Change,0.51,Benign Relative Surface Area,0.77345,JS Benign,0.44046,SE Benign,2.04879,SOP Benign
+0.0256,Pathogenic Stability Change,0.49,Pathogenic Relative Surface Area,0.73124,JS Pathogenic,0.61704,SE Pathogenic,2.85679,SOP Pathogenic
+0.4846,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.74588,JS Pathogenic,0.57875,SE Pathogenic,2.62843,SOP Pathogenic
+0.9065,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.7729,JS Pathogenic,0.61704,SE Pathogenic,2.17687,SOP Pathogenic
+2.7119,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.86471,JS Pathogenic,0.80851,SE Pathogenic,6.97921,SOP Pathogenic
+0.9652,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.83787,JS Pathogenic,0.87747,SE Pathogenic,5.06504,SOP Pathogenic
+1.1519,Pathogenic Stability Change,0.23,Pathogenic Relative Surface Area,0.86024,JS Pathogenic,0.93645,SE Pathogenic,6.08829,SOP Pathogenic
+1.8097,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.8327,JS Pathogenic,0.84068,SE Pathogenic,4.77538,SOP Pathogenic
+0.3673,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.77835,JS Pathogenic,0.83436,SE Pathogenic,3.54181,SOP Pathogenic
+0.6002,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.85131,JS Pathogenic,0.94978,SE Pathogenic,5.40681,SOP Pathogenic
+0.3563,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.71998,JS Pathogenic,0.44775,SE Pathogenic,2.51659,SOP Pathogenic
+0.5597,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.79026,JS Pathogenic,0.83408,SE Pathogenic,5.29658,SOP Pathogenic
+0.5303,Benign Stability Change,0.05,Benign Relative Surface Area,0.65771,JS Benign,0.34773,SE Benign,1.80414,SOP Benign
+3.2751,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.79853,JS Pathogenic,0.89901,SE Pathogenic,3.98367,SOP Pathogenic
+0.4983,Benign Stability Change,0.58,Benign Relative Surface Area,0.48232,JS Benign,0.06961,SE Benign,0.39775,SOP Benign
+0.4622,Benign Stability Change,0.2,Benign Relative Surface Area,0.69511,JS Benign,0.56794,SE Benign,2.26543,SOP Benign
+0.7454,Pathogenic Stability Change,0.67,Pathogenic Relative Surface Area,0.7129,JS Pathogenic,0.47077,SE Pathogenic,2.497,SOP Pathogenic
+2.1437,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.85788,JS Pathogenic,0.99998,SE Pathogenic,6.25,SOP Pathogenic
+2.1222,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.84586,JS Pathogenic,0.99998,SE Pathogenic,5.33333,SOP Pathogenic
+1.0804,Benign Stability Change,0.06,Benign Relative Surface Area,0.74939,JS Benign,0.72454,SE Benign,3.59505,SOP Benign
+1.0717,Pathogenic Stability Change,0.43,Pathogenic Relative Surface Area,0.83818,JS Pathogenic,0.88258,SE Pathogenic,5.19496,SOP Pathogenic
+2.6568,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.82814,JS Pathogenic,0.79543,SE Pathogenic,4.95667,SOP Pathogenic
+1.066,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.79429,JS Pathogenic,0.83286,SE Pathogenic,3.48598,SOP Pathogenic
+0.2507,Benign Stability Change,0.23,Benign Relative Surface Area,0.61381,JS Benign,0.35124,SE Benign,0.92599,SOP Benign
+0.9373,Pathogenic Stability Change,0.56,Pathogenic Relative Surface Area,0.59662,JS Pathogenic,0.32399,SE Pathogenic,3.39984,SOP Pathogenic
+0.7619,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.79707,JS Pathogenic,0.75491,SE Pathogenic,4.271,SOP Pathogenic
+0.4647,Pathogenic Stability Change,0.49,Pathogenic Relative Surface Area,0.70176,JS Pathogenic,0.63448,SE Pathogenic,3.0672,SOP Pathogenic
+0.6584,Benign Stability Change,0.4,Benign Relative Surface Area,0.69406,JS Benign,0.34385,SE Benign,1.83469,SOP Benign
+0.2956,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.76221,JS Pathogenic,0.67378,SE Pathogenic,3.50879,SOP Pathogenic
+1.4076,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.77908,JS Pathogenic,0.78516,SE Pathogenic,3.48233,SOP Pathogenic
+0.3049,Benign Stability Change,0.41,Benign Relative Surface Area,0.70283,JS Benign,0.43941,SE Benign,-0.89631,SOP Benign
+1.3225,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.79707,JS Pathogenic,0.75491,SE Pathogenic,4.271,SOP Pathogenic
+0.9752,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.61461,JS Pathogenic,0.58159,SE Pathogenic,3.12669,SOP Pathogenic
+0.7952,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.80226,JS Pathogenic,0.80288,SE Pathogenic,4.28416,SOP Pathogenic
+0.5906,Pathogenic Stability Change,0.58,Pathogenic Relative Surface Area,0.78462,JS Pathogenic,0.61468,SE Pathogenic,3.11125,SOP Pathogenic
+1.9743,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.8178,JS Pathogenic,0.87089,SE Pathogenic,5.39291,SOP Pathogenic
+0.4945,Benign Stability Change,0.55,Benign Relative Surface Area,0.19922,JS Benign,0.14262,SE Benign,0,SOP Benign
+0.0096,Pathogenic Stability Change,0.39,Pathogenic Relative Surface Area,0.73024,JS Pathogenic,0.62619,SE Pathogenic,2.92914,SOP Pathogenic
+0.4829,Pathogenic Stability Change,0.22,Pathogenic Relative Surface Area,0.73542,JS Pathogenic,0.53073,SE Pathogenic,1.33907,SOP Pathogenic
+0.3178,Pathogenic Stability Change,0.67,Pathogenic Relative Surface Area,0.73808,JS Pathogenic,0.46671,SE Pathogenic,2.9611,SOP Pathogenic
+2.1831,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.72664,JS Pathogenic,0.57759,SE Pathogenic,2.76039,SOP Pathogenic
+0.1797,Pathogenic Stability Change,0.47,Pathogenic Relative Surface Area,0.74144,JS Pathogenic,0.56191,SE Pathogenic,2.9339,SOP Pathogenic
+0.0013,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.75563,JS Pathogenic,0.7212,SE Pathogenic,3.91652,SOP Pathogenic
+0.0623,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.74695,JS Pathogenic,0.56899,SE Pathogenic,2.38948,SOP Pathogenic
+0.5535,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.75738,JS Pathogenic,0.53128,SE Pathogenic,3.19527,SOP Pathogenic
+1.0937,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.78111,JS Pathogenic,0.59903,SE Pathogenic,3.67269,SOP Pathogenic
+2.4297,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.80226,JS Pathogenic,0.80288,SE Pathogenic,4.28416,SOP Pathogenic
+0.4806,Pathogenic Stability Change,0.33,Pathogenic Relative Surface Area,0.68611,JS Pathogenic,0.43228,SE Pathogenic,-0.41644,SOP Pathogenic
+0.5114,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.85007,JS Pathogenic,0.99998,SE Pathogenic,5.66667,SOP Pathogenic
+2.8619,Pathogenic Stability Change,0.11,Pathogenic Relative Surface Area,0.86069,JS Pathogenic,0.84608,SE Pathogenic,7.90691,SOP Pathogenic
+1.64,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.77705,JS Pathogenic,0.61349,SE Pathogenic,2.86562,SOP Pathogenic
+0.8892,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.77705,JS Pathogenic,0.61349,SE Pathogenic,2.86562,SOP Pathogenic
+0.3053,Pathogenic Stability Change,0.27,Pathogenic Relative Surface Area,0.74955,JS Pathogenic,0.55822,SE Pathogenic,5.21873,SOP Pathogenic
+1.5327,Pathogenic Stability Change,0.18,Pathogenic Relative Surface Area,0.87014,JS Pathogenic,0.96597,SE Pathogenic,6.16229,SOP Pathogenic
+0.8593,Pathogenic Stability Change,0.58,Pathogenic Relative Surface Area,0.78462,JS Pathogenic,0.61468,SE Pathogenic,3.11125,SOP Pathogenic
+1.4955,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.82267,JS Pathogenic,0.74753,SE Pathogenic,5.37572,SOP Pathogenic
+0.4227,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.8187,JS Pathogenic,0.8664,SE Pathogenic,5.71054,SOP Pathogenic
+1.5967,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.8425,JS Pathogenic,0.84608,SE Pathogenic,6.73858,SOP Pathogenic
+1.7765,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.65313,JS Pathogenic,0.37631,SE Pathogenic,1.3532,SOP Pathogenic
+0.5242,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.81205,JS Pathogenic,0.89805,SE Pathogenic,4.08381,SOP Pathogenic
+0.0092,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.8145,JS Pathogenic,0.93319,SE Pathogenic,5.79393,SOP Pathogenic
+0.0615,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.75738,JS Pathogenic,0.53128,SE Pathogenic,3.19527,SOP Pathogenic
+0.4315,Pathogenic Stability Change,0.27,Pathogenic Relative Surface Area,0.70107,JS Pathogenic,0.68442,SE Pathogenic,3.81826,SOP Pathogenic
+2.2382,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.82612,JS Pathogenic,0.84728,SE Pathogenic,6.35866,SOP Pathogenic
+0.1276,Pathogenic Stability Change,0.53,Pathogenic Relative Surface Area,0.75384,JS Pathogenic,0.55144,SE Pathogenic,3.26247,SOP Pathogenic
+0.5702,Pathogenic Stability Change,0.35,Pathogenic Relative Surface Area,0.75857,JS Pathogenic,0.59476,SE Pathogenic,2.79087,SOP Pathogenic
+0.8398,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.69649,JS Pathogenic,0.51589,SE Pathogenic,2.48347,SOP Pathogenic
+1.1923,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.78503,JS Pathogenic,0.61489,SE Pathogenic,4.38648,SOP Pathogenic
+0.7551,Pathogenic Stability Change,0.47,Pathogenic Relative Surface Area,0.74144,JS Pathogenic,0.56191,SE Pathogenic,2.9339,SOP Pathogenic
+0.7538,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.80513,JS Pathogenic,0.82751,SE Pathogenic,4.57603,SOP Pathogenic
+1.4685,Pathogenic Stability Change,0.23,Pathogenic Relative Surface Area,0.83139,JS Pathogenic,0.85008,SE Pathogenic,4.17932,SOP Pathogenic
+1.0534,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.7433,JS Pathogenic,0.55789,SE Pathogenic,1.32963,SOP Pathogenic
+1.6506,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.79869,JS Pathogenic,0.83005,SE Pathogenic,4.0074,SOP Pathogenic
+1.9316,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.84669,JS Pathogenic,0.81954,SE Pathogenic,7.39628,SOP Pathogenic
+0.1307,Benign Stability Change,0.1,Benign Relative Surface Area,0.70111,JS Benign,0.53102,SE Benign,1.53172,SOP Benign
+0.4851,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.77834,JS Pathogenic,0.67003,SE Pathogenic,2.42371,SOP Pathogenic
+0.8147,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.79658,JS Pathogenic,0.86068,SE Pathogenic,4.76833,SOP Pathogenic
+1.8148,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.7592,JS Pathogenic,0.76518,SE Pathogenic,3.67447,SOP Pathogenic
+0.0636,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.82304,JS Pathogenic,0.94932,SE Pathogenic,4.92766,SOP Pathogenic
+0.5274,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.8273,JS Pathogenic,0.90264,SE Pathogenic,4.63091,SOP Pathogenic
+0.2859,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.78917,JS Pathogenic,0.81583,SE Pathogenic,5.62447,SOP Pathogenic
+2.7326,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.84013,JS Pathogenic,0.88255,SE Pathogenic,7.23237,SOP Pathogenic
+0.5428,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.80555,JS Pathogenic,0.89867,SE Pathogenic,4.17606,SOP Pathogenic
+1.2957,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.84348,JS Pathogenic,0.76915,SE Pathogenic,4.12671,SOP Pathogenic
+0.9086,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.81464,JS Pathogenic,0.8519,SE Pathogenic,4.24031,SOP Pathogenic
+0.662,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.80655,JS Pathogenic,0.94932,SE Pathogenic,5.1305,SOP Pathogenic
+0.5252,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.85324,JS Pathogenic,0.99997,SE Pathogenic,5.33333,SOP Pathogenic
+1.0712,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.81464,JS Pathogenic,0.8519,SE Pathogenic,4.24031,SOP Pathogenic
+0.4609,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.85324,JS Pathogenic,0.99997,SE Pathogenic,5.33333,SOP Pathogenic
+1.4489,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.86531,JS Pathogenic,0.99997,SE Pathogenic,6.16667,SOP Pathogenic
+0.6287,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.85324,JS Pathogenic,0.99997,SE Pathogenic,5.33333,SOP Pathogenic
+0.9185,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.85197,JS Pathogenic,0.90653,SE Pathogenic,6.1619,SOP Pathogenic
+1.3088,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.88056,JS Pathogenic,0.94932,SE Pathogenic,7.1305,SOP Pathogenic
+1.2552,Pathogenic Stability Change,0.51,Pathogenic Relative Surface Area,0.83141,JS Pathogenic,0.89867,SE Pathogenic,4.66507,SOP Pathogenic
+3.0846,Pathogenic Stability Change,0.18,Pathogenic Relative Surface Area,0.85062,JS Pathogenic,0.90255,SE Pathogenic,5.39254,SOP Pathogenic
+0.2577,Pathogenic Stability Change,0.64,Pathogenic Relative Surface Area,0.61915,JS Pathogenic,0.28392,SE Pathogenic,1.20969,SOP Pathogenic
+0.4375,Pathogenic Stability Change,0.64,Pathogenic Relative Surface Area,0.61915,JS Pathogenic,0.28392,SE Pathogenic,1.20969,SOP Pathogenic
+1.6867,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.76828,JS Pathogenic,0.71453,SE Pathogenic,3.04893,SOP Pathogenic
+1.9412,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.80812,JS Pathogenic,0.76915,SE Pathogenic,4.04737,SOP Pathogenic
+2.7246,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.80812,JS Pathogenic,0.76915,SE Pathogenic,4.04737,SOP Pathogenic
+0.9308,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.79257,JS Pathogenic,0.94932,SE Pathogenic,4.03457,SOP Pathogenic
+0.0964,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.76499,JS Pathogenic,0.69606,SE Pathogenic,3.14929,SOP Pathogenic
+0.7201,Pathogenic Stability Change,0.27,Pathogenic Relative Surface Area,0.84367,JS Pathogenic,0.9532,SE Pathogenic,4.8218,SOP Pathogenic
+1.7523,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.83761,JS Pathogenic,0.89867,SE Pathogenic,4.78298,SOP Pathogenic
+3.0158,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.83761,JS Pathogenic,0.89867,SE Pathogenic,4.78298,SOP Pathogenic
+0.4326,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.82832,JS Pathogenic,0.89867,SE Pathogenic,5.21223,SOP Pathogenic
+0.8325,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.78836,JS Pathogenic,0.94932,SE Pathogenic,5.01099,SOP Pathogenic
+0.44,Benign Stability Change,0.45,Benign Relative Surface Area,0.71119,JS Benign,0.3188,SE Benign,-1.56595,SOP Benign
+2.739,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.88643,JS Pathogenic,0.94932,SE Pathogenic,8.04716,SOP Pathogenic
+0.0909,Benign Stability Change,0.53,Benign Relative Surface Area,0.57248,JS Benign,0.15881,SE Benign,1.89363,SOP Benign
+3.1034,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.89246,JS Pathogenic,0.99997,SE Pathogenic,8.16667,SOP Pathogenic
+0.1905,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.71573,JS Pathogenic,0.67326,SE Pathogenic,2.68588,SOP Pathogenic
+1.6548,Pathogenic Stability Change,0.33,Pathogenic Relative Surface Area,0.76996,JS Pathogenic,0.58015,SE Pathogenic,3.41834,SOP Pathogenic
+0.8715,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.70523,JS Pathogenic,0.4903,SE Pathogenic,2.094,SOP Pathogenic
+1.8157,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.65602,JS Pathogenic,0.40475,SE Pathogenic,-0.46772,SOP Pathogenic
+1.0736,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.62888,JS Pathogenic,0.38613,SE Pathogenic,-0.89523,SOP Pathogenic
+0.3029,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.72874,JS Pathogenic,0.52689,SE Pathogenic,2.08812,SOP Pathogenic
+2.2014,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.71915,JS Pathogenic,0.60144,SE Pathogenic,2.97597,SOP Pathogenic
+1.1298,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.70335,JS Pathogenic,0.60273,SE Pathogenic,1.8505,SOP Pathogenic
+1.6927,Pathogenic Stability Change,0.18,Pathogenic Relative Surface Area,0.69153,JS Pathogenic,0.46401,SE Pathogenic,1.07334,SOP Pathogenic
+3.1079,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.7605,JS Pathogenic,0.59754,SE Pathogenic,3.94399,SOP Pathogenic
+1.5098,Pathogenic Stability Change,0.11,Pathogenic Relative Surface Area,0.7041,JS Pathogenic,0.65609,SE Pathogenic,2.30866,SOP Pathogenic
+0.4362,Pathogenic Stability Change,0.11,Pathogenic Relative Surface Area,0.76299,JS Pathogenic,0.71893,SE Pathogenic,3.85733,SOP Pathogenic
+0.3353,Benign Stability Change,0.5,Benign Relative Surface Area,0.73335,JS Benign,0.45199,SE Benign,-0.92545,SOP Benign
+0.4889,Benign Stability Change,0.42,Benign Relative Surface Area,0.69653,JS Benign,0.20325,SE Benign,-0.5794,SOP Benign
+0.9346,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.81725,JS Pathogenic,0.80178,SE Pathogenic,4.41221,SOP Pathogenic
+0.7758,Pathogenic Stability Change,0.41,Pathogenic Relative Surface Area,0.82519,JS Pathogenic,0.81955,SE Pathogenic,5.25016,SOP Pathogenic
+2.0905,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.90036,JS Pathogenic,0.99997,SE Pathogenic,8,SOP Pathogenic
+2.4533,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.84149,JS Pathogenic,0.85582,SE Pathogenic,7.40447,SOP Pathogenic
+0.9868,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.77253,JS Pathogenic,0.76594,SE Pathogenic,3.88994,SOP Pathogenic
+0.9768,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.78707,JS Pathogenic,0.78362,SE Pathogenic,4.02643,SOP Pathogenic
+1.4284,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.78707,JS Pathogenic,0.78362,SE Pathogenic,4.02643,SOP Pathogenic
+1.0546,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.82464,JS Pathogenic,0.85872,SE Pathogenic,4.80896,SOP Pathogenic
+1.0012,Pathogenic Stability Change,0.11,Pathogenic Relative Surface Area,0.79526,JS Pathogenic,0.75756,SE Pathogenic,4.56958,SOP Pathogenic
+0.7477,Pathogenic Stability Change,0.47,Pathogenic Relative Surface Area,0.71983,JS Pathogenic,0.60349,SE Pathogenic,2.02685,SOP Pathogenic
+1.3057,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.78707,JS Pathogenic,0.78362,SE Pathogenic,4.02643,SOP Pathogenic
+0.3753,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.72124,JS Pathogenic,0.57443,SE Pathogenic,1.81562,SOP Pathogenic
+1.9811,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.79396,JS Pathogenic,0.76967,SE Pathogenic,5.07013,SOP Pathogenic
+0.246,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.72124,JS Pathogenic,0.57443,SE Pathogenic,1.81562,SOP Pathogenic
+0.1291,Benign Stability Change,0.65,Benign Relative Surface Area,0.5333,JS Benign,0.13438,SE Benign,1.0369,SOP Benign
+1.1419,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.69508,JS Pathogenic,0.62761,SE Pathogenic,3.1679,SOP Pathogenic
+2.4195,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.79117,JS Pathogenic,0.73851,SE Pathogenic,4.67621,SOP Pathogenic
+1.1242,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.78467,JS Pathogenic,0.89072,SE Pathogenic,5.58925,SOP Pathogenic
+0.007,Benign Stability Change,0.65,Benign Relative Surface Area,0.5333,JS Benign,0.13438,SE Benign,1.0369,SOP Benign
+0.0045,Pathogenic Stability Change,0.63,Pathogenic Relative Surface Area,0.66002,JS Pathogenic,0.25878,SE Pathogenic,1.6408,SOP Pathogenic
+0.7136,Pathogenic Stability Change,0.58,Pathogenic Relative Surface Area,0.71815,JS Pathogenic,0.66262,SE Pathogenic,3.94798,SOP Pathogenic
+0.7408,Benign Stability Change,0.49,Benign Relative Surface Area,0.74757,JS Benign,0.55661,SE Benign,2.39333,SOP Benign
+0.1619,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.76175,JS Pathogenic,0.72985,SE Pathogenic,2.83548,SOP Pathogenic
+0.2322,Pathogenic Stability Change,0.42,Pathogenic Relative Surface Area,0.70307,JS Pathogenic,0.33744,SE Pathogenic,2.12211,SOP Pathogenic
+1.3784,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.70722,JS Pathogenic,0.37949,SE Pathogenic,2.63805,SOP Pathogenic
+0.2604,Benign Stability Change,0.15,Benign Relative Surface Area,0.6658,JS Benign,0.23074,SE Benign,-0.51495,SOP Benign
+0.4296,Benign Stability Change,0.23,Benign Relative Surface Area,0.7389,JS Benign,0.54891,SE Benign,2.97079,SOP Benign
+0.0876,Pathogenic Stability Change,0.53,Pathogenic Relative Surface Area,0.83237,JS Pathogenic,0.9228,SE Pathogenic,5.14468,SOP Pathogenic
+0.8629,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.79812,JS Pathogenic,0.88421,SE Pathogenic,5.23859,SOP Pathogenic
+1.0454,Pathogenic Stability Change,0.14,Pathogenic Relative Surface Area,0.71004,JS Pathogenic,0.57066,SE Pathogenic,2.93353,SOP Pathogenic
+0.9204,Pathogenic Stability Change,0.33,Pathogenic Relative Surface Area,0.7819,JS Pathogenic,0.7287,SE Pathogenic,4.60068,SOP Pathogenic
+0.4252,Pathogenic Stability Change,0.68,Pathogenic Relative Surface Area,0.56302,JS Pathogenic,0.14754,SE Pathogenic,-0.12118,SOP Pathogenic
+0.2509,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.81199,JS Pathogenic,0.96139,SE Pathogenic,4.68105,SOP Pathogenic
+0.1025,Benign Stability Change,0.47,Benign Relative Surface Area,0.54254,JS Benign,0.07887,SE Benign,-0.49552,SOP Benign
+2.6,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.76446,JS Pathogenic,0.65596,SE Pathogenic,3.42611,SOP Pathogenic
+0.8644,Benign Stability Change,0.31,Benign Relative Surface Area,0.70807,JS Benign,0.28768,SE Benign,0.75113,SOP Benign
+0.8005,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.73249,JS Pathogenic,0.42011,SE Pathogenic,1.33406,SOP Pathogenic
+0.5804,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.81015,JS Pathogenic,0.8977,SE Pathogenic,4.21154,SOP Pathogenic
+2.2634,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.82365,JS Pathogenic,0.80935,SE Pathogenic,5.10441,SOP Pathogenic
+1.781,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.74972,JS Pathogenic,0.54727,SE Pathogenic,2.70808,SOP Pathogenic
+0.0394,Benign Stability Change,0.21,Benign Relative Surface Area,0.72342,JS Benign,0.61398,SE Benign,2.71457,SOP Benign
+0.8022,Pathogenic Stability Change,0.3,Pathogenic Relative Surface Area,0.84123,JS Pathogenic,0.86851,SE Pathogenic,5.83407,SOP Pathogenic
+1.4895,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.83179,JS Pathogenic,0.95095,SE Pathogenic,5.60991,SOP Pathogenic
+2.0727,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.77599,JS Pathogenic,0.90194,SE Pathogenic,4.0194,SOP Pathogenic
+2.9994,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.87586,JS Pathogenic,0.90335,SE Pathogenic,7.61034,SOP Pathogenic
+0.6936,Pathogenic Stability Change,0.22,Pathogenic Relative Surface Area,0.7784,JS Pathogenic,0.77105,SE Pathogenic,5.02207,SOP Pathogenic
+0.1387,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.72556,JS Pathogenic,0.50983,SE Pathogenic,2.13221,SOP Pathogenic
+0.9633,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.83493,JS Pathogenic,0.90194,SE Pathogenic,5.54957,SOP Pathogenic
+1.4259,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.69134,JS Pathogenic,0.36792,SE Pathogenic,3.76328,SOP Pathogenic
+1.2827,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.81879,JS Pathogenic,0.95095,SE Pathogenic,4.94325,SOP Pathogenic
+0.1598,Pathogenic Stability Change,0.65,Pathogenic Relative Surface Area,0.74833,JS Pathogenic,0.60786,SE Pathogenic,2.16238,SOP Pathogenic
+1.5019,Benign Stability Change,0.09,Benign Relative Surface Area,0.76793,JS Benign,0.65516,SE Benign,2.86961,SOP Benign
+0.8297,Benign Stability Change,0.44,Benign Relative Surface Area,0.6025,JS Benign,0.34729,SE Benign,2.1508,SOP Benign
+0.065,Benign Stability Change,0.61,Benign Relative Surface Area,0.77094,JS Benign,0.72851,SE Benign,3.40819,SOP Benign
+0.3384,Benign Stability Change,0.26,Benign Relative Surface Area,0.67365,JS Benign,0.51601,SE Benign,3.39082,SOP Benign
+0.3392,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.76961,JS Pathogenic,0.8533,SE Pathogenic,4.48445,SOP Pathogenic
+1.2862,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.86622,JS Pathogenic,0.94203,SE Pathogenic,6.55174,SOP Pathogenic
+1.7581,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.85382,JS Pathogenic,0.94691,SE Pathogenic,6.28959,SOP Pathogenic
+0.6808,Benign Stability Change,0.36,Benign Relative Surface Area,0.66625,JS Benign,0.40754,SE Benign,-0.14054,SOP Benign
+0.9761,Benign Stability Change,0.01,Benign Relative Surface Area,0.69533,JS Benign,0.48198,SE Benign,2.26023,SOP Benign
+0.9095,Benign Stability Change,0.22,Benign Relative Surface Area,0.78802,JS Benign,0.79308,SE Benign,3.78227,SOP Benign
+0.7961,Pathogenic Stability Change,0.49,Pathogenic Relative Surface Area,0.82412,JS Pathogenic,0.92315,SE Pathogenic,4.64576,SOP Pathogenic
+0.2462,Pathogenic Stability Change,0.51,Pathogenic Relative Surface Area,0.65579,JS Pathogenic,0.30709,SE Pathogenic,-0.79921,SOP Pathogenic
+0.8559,Pathogenic Stability Change,0.14,Pathogenic Relative Surface Area,0.76712,JS Pathogenic,0.77499,SE Pathogenic,5.05556,SOP Pathogenic
+0.9203,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.78476,JS Pathogenic,0.88769,SE Pathogenic,4.88853,SOP Pathogenic
+2.5978,Pathogenic Stability Change,0.29,Pathogenic Relative Surface Area,0.78085,JS Pathogenic,0.55703,SE Pathogenic,2.03657,SOP Pathogenic
+0.8295,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.55142,JS Pathogenic,0.32408,SE Pathogenic,3.20898,SOP Pathogenic
+2.1348,Benign Stability Change,0.03,Benign Relative Surface Area,0.64323,JS Benign,0.28121,SE Benign,2.18242,SOP Benign
+0.9119,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.73303,JS Pathogenic,0.57482,SE Pathogenic,0.94176,SOP Pathogenic
+0.6787,Benign Stability Change,0.01,Benign Relative Surface Area,0.80771,JS Benign,0.81776,SE Benign,3.92782,SOP Benign
+0.5115,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.73303,JS Pathogenic,0.57482,SE Pathogenic,0.94176,SOP Pathogenic
+1.1234,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.82077,JS Pathogenic,0.79866,SE Pathogenic,4.7679,SOP Pathogenic
+0.2024,Pathogenic Stability Change,0.59,Pathogenic Relative Surface Area,0.74404,JS Pathogenic,0.50774,SE Pathogenic,2.65561,SOP Pathogenic
+0.2196,Benign Stability Change,0.55,Benign Relative Surface Area,0.50351,JS Benign,0.18638,SE Benign,1.26471,SOP Benign
+3.5281,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.74005,JS Pathogenic,0.55889,SE Pathogenic,2.96476,SOP Pathogenic
+0.2466,Benign Stability Change,0.7,Benign Relative Surface Area,0.69755,JS Benign,0.27659,SE Benign,-0.66364,SOP Benign
+0.6547,Benign Stability Change,0.3,Benign Relative Surface Area,0.72314,JS Benign,0.5385,SE Benign,3.39306,SOP Benign
+0.2809,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.73026,JS Pathogenic,0.47744,SE Pathogenic,1.35973,SOP Pathogenic
+2.3533,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.81803,JS Pathogenic,0.60791,SE Pathogenic,4.09174,SOP Pathogenic
+0.2874,Benign Stability Change,0.07,Benign Relative Surface Area,0.6403,JS Benign,0.26455,SE Benign,-0.05625,SOP Benign
+0.5331,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.82537,JS Pathogenic,0.84632,SE Pathogenic,4.45464,SOP Pathogenic
+0.2249,Pathogenic Stability Change,0.28,Pathogenic Relative Surface Area,0.72041,JS Pathogenic,0.51356,SE Pathogenic,2.83681,SOP Pathogenic
+1.3523,Pathogenic Stability Change,0.28,Pathogenic Relative Surface Area,0.72041,JS Pathogenic,0.51356,SE Pathogenic,2.83681,SOP Pathogenic
+0.529,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.66049,JS Pathogenic,0.4048,SE Pathogenic,2.15927,SOP Pathogenic
+0.6328,Pathogenic Stability Change,0.21,Pathogenic Relative Surface Area,0.66274,JS Pathogenic,0.39405,SE Pathogenic,1.86746,SOP Pathogenic
+0.5945,Benign Stability Change,0.74,Benign Relative Surface Area,0.83556,JS Benign,0.80446,SE Benign,3.99454,SOP Benign
+0.3665,Benign Stability Change,0.51,Benign Relative Surface Area,0.50944,JS Benign,0.01267,SE Benign,-1.37911,SOP Benign
+2.2082,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.74203,JS Pathogenic,0.65135,SE Pathogenic,3.16778,SOP Pathogenic
+0.6155,Pathogenic Stability Change,0.14,Pathogenic Relative Surface Area,0.83439,JS Pathogenic,0.90095,SE Pathogenic,4.91606,SOP Pathogenic
+0.9756,Benign Stability Change,0.77,Benign Relative Surface Area,0.28245,JS Benign,0.13967,SE Benign,0,SOP Benign
+0.9892,Pathogenic Stability Change,0.33,Pathogenic Relative Surface Area,0.8347,JS Pathogenic,0.9004,SE Pathogenic,5.87622,SOP Pathogenic
+1.3157,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.85205,JS Pathogenic,0.86702,SE Pathogenic,4.31437,SOP Pathogenic
+1.1516,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.8271,JS Pathogenic,0.95254,SE Pathogenic,5.69566,SOP Pathogenic
+3.4085,Pathogenic Stability Change,0.11,Pathogenic Relative Surface Area,0.79441,JS Pathogenic,0.78386,SE Pathogenic,4.26047,SOP Pathogenic
+2.5139,Pathogenic Stability Change,0.11,Pathogenic Relative Surface Area,0.79441,JS Pathogenic,0.78386,SE Pathogenic,4.26047,SOP Pathogenic
+0.6226,Pathogenic Stability Change,0.14,Pathogenic Relative Surface Area,0.8534,JS Pathogenic,0.99997,SE Pathogenic,5.83333,SOP Pathogenic
+0.3277,Pathogenic Stability Change,0.23,Pathogenic Relative Surface Area,0.73082,JS Pathogenic,0.60168,SE Pathogenic,2.78253,SOP Pathogenic
+0.5661,Benign Stability Change,0.35,Benign Relative Surface Area,0.8085,JS Benign,0.80324,SE Benign,3.98888,SOP Benign
+0.5513,Pathogenic Stability Change,0.31,Pathogenic Relative Surface Area,0.75996,JS Pathogenic,0.46873,SE Pathogenic,3.34817,SOP Pathogenic
+0.298,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.7988,JS Pathogenic,0.9004,SE Pathogenic,5.25146,SOP Pathogenic
+1.9848,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.78511,JS Pathogenic,0.85061,SE Pathogenic,4.34233,SOP Pathogenic
+1.5267,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.78511,JS Pathogenic,0.85061,SE Pathogenic,4.34233,SOP Pathogenic
+0.6624,Benign Stability Change,0.02,Benign Relative Surface Area,0.81097,JS Benign,0.9004,SE Benign,4.39087,SOP Benign
+2.501,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.88225,JS Pathogenic,0.95254,SE Pathogenic,5.64133,SOP Pathogenic
+0.6195,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.8021,JS Pathogenic,0.85303,SE Pathogenic,4.3765,SOP Pathogenic
+0.7102,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.796,JS Pathogenic,0.95254,SE Pathogenic,5.36233,SOP Pathogenic
+0.4104,Pathogenic Stability Change,0.7,Pathogenic Relative Surface Area,0.7787,JS Pathogenic,0.53493,SE Pathogenic,3.82937,SOP Pathogenic
+0.5834,Pathogenic Stability Change,0.41,Pathogenic Relative Surface Area,0.81755,JS Pathogenic,0.81965,SE Pathogenic,4.4259,SOP Pathogenic
+1.3845,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.89949,JS Pathogenic,0.99997,SE Pathogenic,5.75,SOP Pathogenic
+1.003,Pathogenic Stability Change,0.32,Pathogenic Relative Surface Area,0.78799,JS Pathogenic,0.9004,SE Pathogenic,4.89385,SOP Pathogenic
+0.1327,Benign Stability Change,0.61,Benign Relative Surface Area,0.65305,JS Benign,0.16205,SE Benign,0.5214,SOP Benign
+0.0615,Pathogenic Stability Change,0.81,Pathogenic Relative Surface Area,0.5833,JS Pathogenic,0.25553,SE Pathogenic,3.17398,SOP Pathogenic
+2.8546,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.87186,JS Pathogenic,0.91681,SE Pathogenic,8.3,SOP Pathogenic
+1.1245,Pathogenic Stability Change,0.22,Pathogenic Relative Surface Area,0.80159,JS Pathogenic,0.76986,SE Pathogenic,3.93019,SOP Pathogenic
+2.2265,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.85929,JS Pathogenic,0.99997,SE Pathogenic,5.66667,SOP Pathogenic
+0.6882,Benign Stability Change,0.3,Benign Relative Surface Area,0.82956,JS Benign,0.85061,SE Benign,4.75486,SOP Benign
+0.3038,Benign Stability Change,0.52,Benign Relative Surface Area,0.76614,JS Benign,0.50211,SE Benign,2.48691,SOP Benign
+0.3104,Pathogenic Stability Change,0.61,Pathogenic Relative Surface Area,0.795,JS Pathogenic,0.77222,SE Pathogenic,3.96486,SOP Pathogenic
+0.9752,Pathogenic Stability Change,0.14,Pathogenic Relative Surface Area,0.84099,JS Pathogenic,0.99997,SE Pathogenic,5,SOP Pathogenic
+0.6576,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.80387,JS Pathogenic,0.81723,SE Pathogenic,3.98175,SOP Pathogenic
+0.1926,Benign Stability Change,0.5,Benign Relative Surface Area,0.71343,JS Benign,0.40142,SE Benign,-1.30406,SOP Benign
+0.9204,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.78685,JS Pathogenic,0.86938,SE Pathogenic,6.0348,SOP Pathogenic
+0.365,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.85434,JS Pathogenic,0.99997,SE Pathogenic,5.33333,SOP Pathogenic
+0.7165,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.8271,JS Pathogenic,0.95254,SE Pathogenic,5.69566,SOP Pathogenic
+0.0432,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.8271,JS Pathogenic,0.95254,SE Pathogenic,5.69566,SOP Pathogenic
+0.0382,Benign Stability Change,0.44,Benign Relative Surface Area,0.53178,JS Benign,0.18309,SE Benign,2.01019,SOP Benign
+0.4394,Benign Stability Change,0.06,Benign Relative Surface Area,0.81134,JS Benign,0.99997,SE Benign,5.58333,SOP Benign
+0.3386,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.87097,JS Pathogenic,0.99997,SE Pathogenic,5.66667,SOP Pathogenic
+1.0863,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.82791,JS Pathogenic,0.9526,SE Pathogenic,6.4,SOP Pathogenic
+0.6622,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.7957,JS Pathogenic,0.91681,SE Pathogenic,5.6,SOP Pathogenic
+3.3606,Pathogenic Stability Change,0.01,Pathogenic Relative Surface Area,0.84863,JS Pathogenic,0.80082,SE Pathogenic,5.98722,SOP Pathogenic
+1.094,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.75147,JS Pathogenic,0.60127,SE Pathogenic,4.13425,SOP Pathogenic
+0.3317,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.69847,JS Pathogenic,0.4966,SE Pathogenic,1.95043,SOP Pathogenic
+1.6543,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.83711,JS Pathogenic,0.94813,SE Pathogenic,5.92091,SOP Pathogenic
+2.6589,Pathogenic Stability Change,0.07,Pathogenic Relative Surface Area,0.831,JS Pathogenic,0.88015,SE Pathogenic,4.73047,SOP Pathogenic
+0.8167,Pathogenic Stability Change,0.56,Pathogenic Relative Surface Area,0.705,JS Pathogenic,0.5922,SE Pathogenic,1.96913,SOP Pathogenic
+0.2933,Pathogenic Stability Change,0.23,Pathogenic Relative Surface Area,0.7312,JS Pathogenic,0.60973,SE Pathogenic,2.45524,SOP Pathogenic
+0.2943,Pathogenic Stability Change,0.43,Pathogenic Relative Surface Area,0.74665,JS Pathogenic,0.74684,SE Pathogenic,3.26812,SOP Pathogenic
+1.5427,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.76038,JS Pathogenic,0.60598,SE Pathogenic,2.99516,SOP Pathogenic
+0.2929,Pathogenic Stability Change,0.35,Pathogenic Relative Surface Area,0.7622,JS Pathogenic,0.65323,SE Pathogenic,3.32875,SOP Pathogenic
+0.3965,Pathogenic Stability Change,0.23,Pathogenic Relative Surface Area,0.79722,JS Pathogenic,0.84786,SE Pathogenic,4.29277,SOP Pathogenic
+1.1167,Pathogenic Stability Change,0.33,Pathogenic Relative Surface Area,0.74261,JS Pathogenic,0.6892,SE Pathogenic,3.84766,SOP Pathogenic
+1.6774,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.67123,JS Pathogenic,0.43335,SE Pathogenic,1.13328,SOP Pathogenic
+4.5963,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.80117,JS Pathogenic,0.6671,SE Pathogenic,5.08415,SOP Pathogenic
+0.3468,Pathogenic Stability Change,0.03,Pathogenic Relative Surface Area,0.74409,JS Pathogenic,0.77848,SE Pathogenic,3.16958,SOP Pathogenic
+2.2804,Pathogenic Stability Change,0.37,Pathogenic Relative Surface Area,0.72272,JS Pathogenic,0.47843,SE Pathogenic,2.4098,SOP Pathogenic
+2.1263,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.69199,JS Pathogenic,0.29838,SE Pathogenic,2.06362,SOP Pathogenic
+0.8594,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.83021,JS Pathogenic,0.91345,SE Pathogenic,4.61116,SOP Pathogenic
+0.1403,Benign Stability Change,0.58,Benign Relative Surface Area,0.38532,JS Benign,0.17639,SE Benign,-0.17695,SOP Benign
+0.598,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.79609,JS Pathogenic,0.79609,SE Pathogenic,0.79609,SOP Pathogenic
+0.0222,Benign Stability Change,0.62,Benign Relative Surface Area,0.55941,JS Benign,0.29998,SE Benign,1.52141,SOP Benign
+0.4196,Benign Stability Change,0.49,Benign Relative Surface Area,0.80599,JS Benign,0.88893,SE Benign,4.73446,SOP Benign
+0.8183,Benign Stability Change,0.35,Benign Relative Surface Area,0.62415,JS Benign,0.34261,SE Benign,0.91137,SOP Benign
+1.0312,Pathogenic Stability Change,0.06,Pathogenic Relative Surface Area,0.7854,JS Pathogenic,0.79476,SE Pathogenic,3.53515,SOP Pathogenic
+0.9582,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.67802,JS Pathogenic,0.59243,SE Pathogenic,1.57467,SOP Pathogenic
+0.1729,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.72585,JS Pathogenic,0.56855,SE Pathogenic,1.91001,SOP Pathogenic
+2.6762,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.69916,JS Pathogenic,0.55233,SE Pathogenic,2.05698,SOP Pathogenic
+3.4352,Pathogenic Stability Change,0.12,Pathogenic Relative Surface Area,0.68357,JS Pathogenic,0.56562,SE Pathogenic,2.39818,SOP Pathogenic
+0.7747,Benign Stability Change,0.57,Benign Relative Surface Area,0.39253,JS Benign,0.22731,SE Benign,-1.2427,SOP Benign
+0.5056,Pathogenic Stability Change,0.55,Pathogenic Relative Surface Area,0.60808,JS Pathogenic,0.32507,SE Pathogenic,-0.53321,SOP Pathogenic
+0.6126,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.62573,JS Pathogenic,0.41917,SE Pathogenic,0.71754,SOP Pathogenic
+0.2187,Benign Stability Change,0.69,Benign Relative Surface Area,0.17755,JS Benign,0.14539,SE Benign,-0.23426,SOP Benign
+1.1452,Pathogenic Stability Change,0.4,Pathogenic Relative Surface Area,0.58253,JS Pathogenic,0.31031,SE Pathogenic,-0.06377,SOP Pathogenic
+0.9986,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.82972,JS Pathogenic,0.95564,SE Pathogenic,4.83674,SOP Pathogenic
+0.5036,Benign Stability Change,0.66,Benign Relative Surface Area,0.58907,JS Benign,0.2951,SE Benign,-0.9282,SOP Benign
+0.8176,Pathogenic Stability Change,0.38,Pathogenic Relative Surface Area,0.72698,JS Pathogenic,0.64683,SE Pathogenic,2.95017,SOP Pathogenic
+1.9831,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.83828,JS Pathogenic,0.79516,SE Pathogenic,6.21925,SOP Pathogenic
+0.0341,Benign Stability Change,0.56,Benign Relative Surface Area,0.69411,JS Benign,0.18814,SE Benign,1.50584,SOP Benign
+1.5176,Pathogenic Stability Change,0.25,Pathogenic Relative Surface Area,0.83402,JS Pathogenic,0.81669,SE Pathogenic,5.77752,SOP Pathogenic
+0.5871,Benign Stability Change,0.65,Benign Relative Surface Area,0.54438,JS Benign,0.28548,SE Benign,-0.41023,SOP Benign
+0.67,Pathogenic Stability Change,0.46,Pathogenic Relative Surface Area,0.69339,JS Pathogenic,0.48404,SE Pathogenic,2.35523,SOP Pathogenic
+2.5105,Pathogenic Stability Change,0.16,Pathogenic Relative Surface Area,0.81418,JS Pathogenic,0.84924,SE Pathogenic,4.95977,SOP Pathogenic
+0.7969,Benign Stability Change,0.21,Benign Relative Surface Area,0.65982,JS Benign,0.38211,SE Benign,1.00083,SOP Benign
+0.054,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.61987,JS Pathogenic,0.44497,SE Pathogenic,1.73298,SOP Pathogenic
+0.813,Pathogenic Stability Change,0.35,Pathogenic Relative Surface Area,0.6605,JS Pathogenic,0.49971,SE Pathogenic,3.01576,SOP Pathogenic
+0.7326,Pathogenic Stability Change,0.3,Pathogenic Relative Surface Area,0.85537,JS Pathogenic,0.95441,SE Pathogenic,4.87422,SOP Pathogenic
+0.4723,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.85537,JS Pathogenic,0.95441,SE Pathogenic,4.87422,SOP Pathogenic
+0.5839,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.57588,JS Pathogenic,0.23313,SE Pathogenic,0.7385,SOP Pathogenic
+0.4785,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.62458,JS Pathogenic,0.2885,SE Pathogenic,1.09078,SOP Pathogenic
+0.3179,Benign Stability Change,0.04,Benign Relative Surface Area,0.70744,JS Benign,0.60215,SE Benign,2.97661,SOP Benign
+0.2902,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.73775,JS Pathogenic,0.62331,SE Pathogenic,3.10806,SOP Pathogenic
+0.7077,Benign Stability Change,0.35,Benign Relative Surface Area,0.63838,JS Benign,0.53156,SE Benign,1.15535,SOP Benign
+0.1598,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.63222,JS Pathogenic,0.46714,SE Pathogenic,-1.19231,SOP Pathogenic
+1.3679,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.82266,JS Pathogenic,0.90271,SE Pathogenic,4.78048,SOP Pathogenic
+0.5636,Pathogenic Stability Change,0.27,Pathogenic Relative Surface Area,0.68368,JS Pathogenic,0.45161,SE Pathogenic,1.87865,SOP Pathogenic
+0.4072,Pathogenic Stability Change,0.22,Pathogenic Relative Surface Area,0.81417,JS Pathogenic,0.79852,SE Pathogenic,3.62643,SOP Pathogenic
+0.7315,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.78044,JS Pathogenic,0.85915,SE Pathogenic,4.17583,SOP Pathogenic
+2.9735,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.83239,JS Pathogenic,0.77154,SE Pathogenic,6.67634,SOP Pathogenic
+0.2869,Benign Stability Change,0.51,Benign Relative Surface Area,0.12657,JS Benign,0.10854,SE Benign,0,SOP Benign
+0.6675,Pathogenic Stability Change,0.13,Pathogenic Relative Surface Area,0.83072,JS Pathogenic,0.8432,SE Pathogenic,5.415,SOP Pathogenic
+0.9836,Benign Stability Change,0.51,Benign Relative Surface Area,0.12657,JS Benign,0.10854,SE Benign,0,SOP Benign
+0.6762,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.58091,JS Pathogenic,0.37334,SE Pathogenic,0.69941,SOP Pathogenic
+0.9303,Pathogenic Stability Change,0.28,Pathogenic Relative Surface Area,0.70317,JS Pathogenic,0.56947,SE Pathogenic,3.02392,SOP Pathogenic
+3.5514,Pathogenic Stability Change,0.04,Pathogenic Relative Surface Area,0.65835,JS Pathogenic,0.51808,SE Pathogenic,2.90781,SOP Pathogenic
+3.1741,Pathogenic Stability Change,0.15,Pathogenic Relative Surface Area,0.8276,JS Pathogenic,0.8588,SE Pathogenic,5.84838,SOP Pathogenic
+0.3441,Benign Stability Change,0.49,Benign Relative Surface Area,0.60654,JS Benign,0.42653,SE Benign,1.59252,SOP Benign
+3.4483,Pathogenic Stability Change,0.02,Pathogenic Relative Surface Area,0.66695,JS Pathogenic,0.54717,SE Pathogenic,2.6629,SOP Pathogenic
+0.6266,Pathogenic Stability Change,0.1,Pathogenic Relative Surface Area,0.85727,JS Pathogenic,0.97923,SE Pathogenic,5.6315,SOP Pathogenic
+1.5491,Pathogenic Stability Change,0.05,Pathogenic Relative Surface Area,0.7439,JS Pathogenic,0.6362,SE Pathogenic,1.88057,SOP Pathogenic
+1.1686,Benign Stability Change,0.01,Benign Relative Surface Area,0.76165,JS Benign,0.77705,SE Benign,3.38606,SOP Benign
+1.0618,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.65567,JS Pathogenic,0.50915,SE Pathogenic,1.42669,SOP Pathogenic
+0.6881,Pathogenic Stability Change,0.34,Pathogenic Relative Surface Area,0.82359,JS Pathogenic,0.8922,SE Pathogenic,4.44678,SOP Pathogenic
+0.812,Pathogenic Stability Change,0.36,Pathogenic Relative Surface Area,0.82159,JS Pathogenic,0.95198,SE Pathogenic,5.04342,SOP Pathogenic
+1.1139,Benign Stability Change,0.46,Benign Relative Surface Area,0.61947,JS Benign,0.41053,SE Benign,1.38132,SOP Benign
+0.3653,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.62737,JS Pathogenic,0.56373,SE Pathogenic,-0.64598,SOP Pathogenic
+1.0629,Pathogenic Stability Change,0.2,Pathogenic Relative Surface Area,0.83089,JS Pathogenic,0.8595,SE Pathogenic,4.98623,SOP Pathogenic
+0.0431,Benign Stability Change,0.47,Benign Relative Surface Area,0.68537,JS Benign,0.47545,SE Benign,2.50655,SOP Benign
+0.0886,Benign Stability Change,0.71,Benign Relative Surface Area,0.55174,JS Benign,0.21396,SE Benign,-1.00544,SOP Benign
+1.3758,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.8314,JS Pathogenic,0.94962,SE Pathogenic,4.33014,SOP Pathogenic
+0.5989,Benign Stability Change,0.37,Benign Relative Surface Area,0.60921,JS Benign,0.24941,SE Benign,-0.08071,SOP Benign
+0.7889,Pathogenic Stability Change,0.26,Pathogenic Relative Surface Area,0.71414,JS Pathogenic,0.653,SE Pathogenic,3.02306,SOP Pathogenic
+1.3474,Pathogenic Stability Change,0.32,Pathogenic Relative Surface Area,0.70096,JS Pathogenic,0.46532,SE Pathogenic,3.16788,SOP Pathogenic
+4.107,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.78871,JS Pathogenic,0.72853,SE Pathogenic,6.47114,SOP Pathogenic
+1.053,Pathogenic Stability Change,0.27,Pathogenic Relative Surface Area,0.79085,JS Pathogenic,0.75634,SE Pathogenic,3.44045,SOP Pathogenic
+2.8772,Pathogenic Stability Change,0.19,Pathogenic Relative Surface Area,0.78871,JS Pathogenic,0.72853,SE Pathogenic,6.47114,SOP Pathogenic
+0.0874,Benign Stability Change,0.51,Benign Relative Surface Area,0.81036,JS Benign,0.87745,SE Benign,4.89193,SOP Benign
+0.8619,Pathogenic Stability Change,0.08,Pathogenic Relative Surface Area,0.79672,JS Pathogenic,0.93535,SE Pathogenic,5.12233,SOP Pathogenic
+2.7664,Pathogenic Stability Change,0.09,Pathogenic Relative Surface Area,0.85748,JS Pathogenic,0.91994,SE Pathogenic,6.16097,SOP Pathogenic
+0.0651,Pathogenic Stability Change,0.24,Pathogenic Relative Surface Area,0.71678,JS Pathogenic,0.62948,SE Pathogenic,3.18592,SOP Pathogenic
+1.2301,Pathogenic Stability Change,0.17,Pathogenic Relative Surface Area,0.76628,JS Pathogenic,0.83489,SE Pathogenic,5.12165,SOP Pathogenic
+0.2846,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.68465,ExAC JS Score,0.54488,ExAC SE Score,2.31779,ExAC SOP Score
+0.3518,ExAC Stability Score,0.06,ExAC Relative Surface Area,0.74873,ExAC JS Score,0.75965,ExAC SE Score,3.27504,ExAC SOP Score
+0.6025,ExAC Stability Score,0.06,ExAC Relative Surface Area,0.55268,ExAC JS Score,0.34879,ExAC SE Score,-0.38935,ExAC SOP Score
+0.1078,ExAC Stability Score,0.06,ExAC Relative Surface Area,0.55268,ExAC JS Score,0.34879,ExAC SE Score,-0.38935,ExAC SOP Score
+0.5673,ExAC Stability Score,0.14,ExAC Relative Surface Area,0.77191,ExAC JS Score,0.88759,ExAC SE Score,3.48488,ExAC SOP Score
+0.808,ExAC Stability Score,0.02,ExAC Relative Surface Area,0.64337,ExAC JS Score,0.59093,ExAC SE Score,2.11552,ExAC SOP Score
+0.1535,ExAC Stability Score,0.02,ExAC Relative Surface Area,0.64337,ExAC JS Score,0.59093,ExAC SE Score,2.11552,ExAC SOP Score
+2.4772,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.6247,ExAC JS Score,0.41451,ExAC SE Score,1.23871,ExAC SOP Score
+1.2785,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.6247,ExAC JS Score,0.41451,ExAC SE Score,1.23871,ExAC SOP Score
+0.3277,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.6247,ExAC JS Score,0.41451,ExAC SE Score,1.23871,ExAC SOP Score
+0.0533,ExAC Stability Score,0.61,ExAC Relative Surface Area,0.60081,ExAC JS Score,0.33284,ExAC SE Score,0.63218,ExAC SOP Score
+0.0808,ExAC Stability Score,0.09,ExAC Relative Surface Area,0.71971,ExAC JS Score,0.71853,ExAC SE Score,3.12167,ExAC SOP Score
+0.3406,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.4543,ExAC JS Score,0.29683,ExAC SE Score,1.80388,ExAC SOP Score
+0.8295,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.57533,ExAC JS Score,0.32684,ExAC SE Score,-0.57438,ExAC SOP Score
+0.3375,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.57533,ExAC JS Score,0.32684,ExAC SE Score,-0.57438,ExAC SOP Score
+0.0219,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.57533,ExAC JS Score,0.32684,ExAC SE Score,-0.57438,ExAC SOP Score
+0.1533,ExAC Stability Score,0.14,ExAC Relative Surface Area,0.60205,ExAC JS Score,0.36284,ExAC SE Score,2.05718,ExAC SOP Score
+0.1154,ExAC Stability Score,0.3,ExAC Relative Surface Area,0.60783,ExAC JS Score,0.33893,ExAC SE Score,-0.71744,ExAC SOP Score
+1.1318,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.6587,ExAC JS Score,0.45025,ExAC SE Score,1.49197,ExAC SOP Score
+0.2924,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.6587,ExAC JS Score,0.45025,ExAC SE Score,1.49197,ExAC SOP Score
+1.1832,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.5783,ExAC JS Score,0.38427,ExAC SE Score,0.89032,ExAC SOP Score
+0.0379,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.5783,ExAC JS Score,0.38427,ExAC SE Score,0.89032,ExAC SOP Score
+0.1004,ExAC Stability Score,0.41,ExAC Relative Surface Area,0.54752,ExAC JS Score,0.29184,ExAC SE Score,0.91114,ExAC SOP Score
+0.5654,ExAC Stability Score,0.38,ExAC Relative Surface Area,0.6362,ExAC JS Score,0.41607,ExAC SE Score,1.07962,ExAC SOP Score
+0.067,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.57777,ExAC JS Score,0.28559,ExAC SE Score,1.54179,ExAC SOP Score
+0.1064,ExAC Stability Score,0.34,ExAC Relative Surface Area,0.46695,ExAC JS Score,0.11872,ExAC SE Score,0.34665,ExAC SOP Score
+0.046,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.61057,ExAC JS Score,0.414,ExAC SE Score,-0.39948,ExAC SOP Score
+0.0859,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.60284,ExAC JS Score,0.32004,ExAC SE Score,-1.05675,ExAC SOP Score
+0.1122,ExAC Stability Score,0.44,ExAC Relative Surface Area,0.50796,ExAC JS Score,0.26532,ExAC SE Score,-0.24196,ExAC SOP Score
+0.0218,ExAC Stability Score,0.44,ExAC Relative Surface Area,0.50796,ExAC JS Score,0.26532,ExAC SE Score,-0.24196,ExAC SOP Score
+0.9427,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.72974,ExAC JS Score,0.70399,ExAC SE Score,2.79181,ExAC SOP Score
+0.4319,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.60307,ExAC JS Score,0.48812,ExAC SE Score,-0.48788,ExAC SOP Score
+0.003,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.60307,ExAC JS Score,0.48812,ExAC SE Score,-0.48788,ExAC SOP Score
+1.6858,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.68655,ExAC JS Score,0.47613,ExAC SE Score,2.24057,ExAC SOP Score
+0.8959,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.7686,ExAC JS Score,0.81453,ExAC SE Score,3.52505,ExAC SOP Score
+0.3133,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.70739,ExAC JS Score,0.6767,ExAC SE Score,2.83782,ExAC SOP Score
+2.0005,ExAC Stability Score,0.07,ExAC Relative Surface Area,0.69319,ExAC JS Score,0.66917,ExAC SE Score,2.68202,ExAC SOP Score
+0.0939,ExAC Stability Score,0.31,ExAC Relative Surface Area,0.58264,ExAC JS Score,0.30314,ExAC SE Score,1.03703,ExAC SOP Score
+0.6058,ExAC Stability Score,0.26,ExAC Relative Surface Area,0.62133,ExAC JS Score,0.43309,ExAC SE Score,1.29264,ExAC SOP Score
+0.0629,ExAC Stability Score,0.4,ExAC Relative Surface Area,0.64041,ExAC JS Score,0.47992,ExAC SE Score,2.48869,ExAC SOP Score
+0.4154,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.61276,ExAC JS Score,0.41124,ExAC SE Score,2.18948,ExAC SOP Score
+0.0154,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.61276,ExAC JS Score,0.41124,ExAC SE Score,2.18948,ExAC SOP Score
+0.3087,ExAC Stability Score,0.23,ExAC Relative Surface Area,0.53941,ExAC JS Score,0.22517,ExAC SE Score,0.86218,ExAC SOP Score
+0.2119,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.59354,ExAC JS Score,0.31286,ExAC SE Score,-0.34049,ExAC SOP Score
+1.7861,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.77309,ExAC JS Score,0.70235,ExAC SE Score,5.59062,ExAC SOP Score
+0.2554,ExAC Stability Score,0.24,ExAC Relative Surface Area,0.52686,ExAC JS Score,0.21309,ExAC SE Score,1.51355,ExAC SOP Score
+1.2332,ExAC Stability Score,0.1,ExAC Relative Surface Area,0.65516,ExAC JS Score,0.34879,ExAC SE Score,-0.75821,ExAC SOP Score
+0.0697,ExAC Stability Score,0.33,ExAC Relative Surface Area,0.60541,ExAC JS Score,0.31659,ExAC SE Score,-0.79888,ExAC SOP Score
+0.8089,ExAC Stability Score,0.02,ExAC Relative Surface Area,0.7519,ExAC JS Score,0.63125,ExAC SE Score,4.9447,ExAC SOP Score
+2.3687,ExAC Stability Score,0.02,ExAC Relative Surface Area,0.78356,ExAC JS Score,0.72699,ExAC SE Score,5.49686,ExAC SOP Score
+1.3563,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.78711,ExAC JS Score,0.71126,ExAC SE Score,5.65534,ExAC SOP Score
+2.6263,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.80158,ExAC JS Score,0.74883,ExAC SE Score,5.91352,ExAC SOP Score
+0.2435,ExAC Stability Score,0.46,ExAC Relative Surface Area,0.43191,ExAC JS Score,0.24932,ExAC SE Score,1.13869,ExAC SOP Score
+0.1175,ExAC Stability Score,0.75,ExAC Relative Surface Area,0.50842,ExAC JS Score,0.25578,ExAC SE Score,1.11879,ExAC SOP Score
+0.4456,ExAC Stability Score,0.71,ExAC Relative Surface Area,0.55663,ExAC JS Score,0.34142,ExAC SE Score,1.01523,ExAC SOP Score
+0.0115,ExAC Stability Score,0.7,ExAC Relative Surface Area,0.54741,ExAC JS Score,0.22285,ExAC SE Score,-0.05408,ExAC SOP Score
+0.5616,ExAC Stability Score,0.52,ExAC Relative Surface Area,0.6276,ExAC JS Score,0.36653,ExAC SE Score,0.47634,ExAC SOP Score
+0.6018,ExAC Stability Score,0.71,ExAC Relative Surface Area,0.48318,ExAC JS Score,0.14947,ExAC SE Score,0.19489,ExAC SOP Score
+0.5102,ExAC Stability Score,0.42,ExAC Relative Surface Area,0.75699,ExAC JS Score,0.62042,ExAC SE Score,3.35113,ExAC SOP Score
+0.0385,ExAC Stability Score,0.66,ExAC Relative Surface Area,0.38434,ExAC JS Score,0.14159,ExAC SE Score,-0.18062,ExAC SOP Score
+0.6136,ExAC Stability Score,0.48,ExAC Relative Surface Area,0.51607,ExAC JS Score,0.26937,ExAC SE Score,2.21493,ExAC SOP Score
+0.5071,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.549,ExAC JS Score,0.23963,ExAC SE Score,1.13523,ExAC SOP Score
+0.1161,ExAC Stability Score,0.48,ExAC Relative Surface Area,0.46131,ExAC JS Score,0.2615,ExAC SE Score,1.03819,ExAC SOP Score
+0.3029,ExAC Stability Score,0.57,ExAC Relative Surface Area,0.65874,ExAC JS Score,0.45649,ExAC SE Score,1.72979,ExAC SOP Score
+0.1774,ExAC Stability Score,0.54,ExAC Relative Surface Area,0.66621,ExAC JS Score,0.39838,ExAC SE Score,1.77088,ExAC SOP Score
+0.674,ExAC Stability Score,0.38,ExAC Relative Surface Area,0.6363,ExAC JS Score,0.41139,ExAC SE Score,2.06843,ExAC SOP Score
+0.0303,ExAC Stability Score,0.38,ExAC Relative Surface Area,0.6363,ExAC JS Score,0.41139,ExAC SE Score,2.06843,ExAC SOP Score
+0.0968,ExAC Stability Score,0.26,ExAC Relative Surface Area,0.69745,ExAC JS Score,0.46232,ExAC SE Score,1.93287,ExAC SOP Score
+0.082,ExAC Stability Score,0.46,ExAC Relative Surface Area,0.59319,ExAC JS Score,0.42838,ExAC SE Score,1.63645,ExAC SOP Score
+0.4861,ExAC Stability Score,0.57,ExAC Relative Surface Area,0.60769,ExAC JS Score,0.32814,ExAC SE Score,1.04143,ExAC SOP Score
+0.6485,ExAC Stability Score,0.57,ExAC Relative Surface Area,0.60769,ExAC JS Score,0.32814,ExAC SE Score,1.04143,ExAC SOP Score
+0.3088,ExAC Stability Score,0.47,ExAC Relative Surface Area,0.67757,ExAC JS Score,0.40658,ExAC SE Score,1.70714,ExAC SOP Score
+0.46,ExAC Stability Score,0.38,ExAC Relative Surface Area,0.65135,ExAC JS Score,0.43612,ExAC SE Score,1.33955,ExAC SOP Score
+0.3551,ExAC Stability Score,0.31,ExAC Relative Surface Area,0.82526,ExAC JS Score,0.88287,ExAC SE Score,5.47776,ExAC SOP Score
+0.3847,ExAC Stability Score,0.62,ExAC Relative Surface Area,0.5559,ExAC JS Score,0.23073,ExAC SE Score,1.2956,ExAC SOP Score
+0.325,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.54786,ExAC JS Score,0.42513,ExAC SE Score,1.5212,ExAC SOP Score
+1.5138,ExAC Stability Score,0.34,ExAC Relative Surface Area,0.63699,ExAC JS Score,0.41866,ExAC SE Score,-0.0171,ExAC SOP Score
+0.1627,ExAC Stability Score,0.7,ExAC Relative Surface Area,0.58316,ExAC JS Score,0.24821,ExAC SE Score,0.99233,ExAC SOP Score
+0.4784,ExAC Stability Score,0.7,ExAC Relative Surface Area,0.58316,ExAC JS Score,0.24821,ExAC SE Score,0.99233,ExAC SOP Score
+0.4634,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.53448,ExAC JS Score,0.31258,ExAC SE Score,1.02204,ExAC SOP Score
+0.453,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.53448,ExAC JS Score,0.31258,ExAC SE Score,1.02204,ExAC SOP Score
+1.2872,ExAC Stability Score,0.51,ExAC Relative Surface Area,0.57146,ExAC JS Score,0.4141,ExAC SE Score,2.20248,ExAC SOP Score
+0.2585,ExAC Stability Score,0.46,ExAC Relative Surface Area,0.65967,ExAC JS Score,0.45886,ExAC SE Score,-1.07385,ExAC SOP Score
+0.6211,ExAC Stability Score,0.53,ExAC Relative Surface Area,0.62684,ExAC JS Score,0.34117,ExAC SE Score,-0.94001,ExAC SOP Score
+0.3111,ExAC Stability Score,0.45,ExAC Relative Surface Area,0.64609,ExAC JS Score,0.44108,ExAC SE Score,1.71775,ExAC SOP Score
+0.4183,ExAC Stability Score,0.53,ExAC Relative Surface Area,0.53136,ExAC JS Score,0.25158,ExAC SE Score,-0.05799,ExAC SOP Score
+0.3234,ExAC Stability Score,0.36,ExAC Relative Surface Area,0.69957,ExAC JS Score,0.57196,ExAC SE Score,3.14547,ExAC SOP Score
+0.3173,ExAC Stability Score,0.79,ExAC Relative Surface Area,0.48051,ExAC JS Score,0.18738,ExAC SE Score,-0.84773,ExAC SOP Score
+0.5097,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.67297,ExAC JS Score,0.47176,ExAC SE Score,2.18321,ExAC SOP Score
+0.2778,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.67297,ExAC JS Score,0.47176,ExAC SE Score,2.18321,ExAC SOP Score
+0.0929,ExAC Stability Score,0.67,ExAC Relative Surface Area,0.5854,ExAC JS Score,0.28282,ExAC SE Score,-0.6938,ExAC SOP Score
+1.7111,ExAC Stability Score,0.26,ExAC Relative Surface Area,0.73997,ExAC JS Score,0.61393,ExAC SE Score,3.78404,ExAC SOP Score
+0.4277,ExAC Stability Score,0.17,ExAC Relative Surface Area,0.72165,ExAC JS Score,0.68289,ExAC SE Score,4.28805,ExAC SOP Score
+0.2343,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.72468,ExAC JS Score,0.65813,ExAC SE Score,2.16521,ExAC SOP Score
+3.1896,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.72468,ExAC JS Score,0.65813,ExAC SE Score,2.16521,ExAC SOP Score
+0.4725,ExAC Stability Score,0.67,ExAC Relative Surface Area,0.44535,ExAC JS Score,0.25108,ExAC SE Score,1.17356,ExAC SOP Score
+0.6859,ExAC Stability Score,0.67,ExAC Relative Surface Area,0.44535,ExAC JS Score,0.25108,ExAC SE Score,1.17356,ExAC SOP Score
+1.4577,ExAC Stability Score,0.08,ExAC Relative Surface Area,0.67954,ExAC JS Score,0.49026,ExAC SE Score,1.41536,ExAC SOP Score
+2.942,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.69304,ExAC JS Score,0.5142,ExAC SE Score,1.3979,ExAC SOP Score
+2.6058,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.7499,ExAC JS Score,0.54146,ExAC SE Score,1.84469,ExAC SOP Score
+1.998,ExAC Stability Score,0.29,ExAC Relative Surface Area,0.77245,ExAC JS Score,0.66713,ExAC SE Score,3.82777,ExAC SOP Score
+0.0523,ExAC Stability Score,0.59,ExAC Relative Surface Area,0.52987,ExAC JS Score,0.18972,ExAC SE Score,-1.11184,ExAC SOP Score
+1.5757,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.79294,ExAC JS Score,0.79617,ExAC SE Score,4.06095,ExAC SOP Score
+0.0897,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.73039,ExAC JS Score,0.66201,ExAC SE Score,2.68099,ExAC SOP Score
+3.0896,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.75834,ExAC JS Score,0.65903,ExAC SE Score,3.8332,ExAC SOP Score
+0.4537,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.75216,ExAC JS Score,0.70885,ExAC SE Score,3.86397,ExAC SOP Score
+2.9444,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.75216,ExAC JS Score,0.70885,ExAC SE Score,3.86397,ExAC SOP Score
+0.7733,ExAC Stability Score,0.27,ExAC Relative Surface Area,0.73694,ExAC JS Score,0.78954,ExAC SE Score,4.43742,ExAC SOP Score
+0.1298,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.4214,ExAC JS Score,0.19073,ExAC SE Score,0.1425,ExAC SOP Score
+0.3668,ExAC Stability Score,0.69,ExAC Relative Surface Area,0.6911,ExAC JS Score,0.52791,ExAC SE Score,2.00779,ExAC SOP Score
+0.0658,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.63389,ExAC JS Score,0.51279,ExAC SE Score,2.32261,ExAC SOP Score
+0.0986,ExAC Stability Score,0.07,ExAC Relative Surface Area,0.70432,ExAC JS Score,0.69337,ExAC SE Score,2.89192,ExAC SOP Score
+0.5413,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.62157,ExAC JS Score,0.32919,ExAC SE Score,1.22217,ExAC SOP Score
+0.1198,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.62157,ExAC JS Score,0.32919,ExAC SE Score,1.22217,ExAC SOP Score
+0.1166,ExAC Stability Score,0.61,ExAC Relative Surface Area,0.66356,ExAC JS Score,0.54633,ExAC SE Score,2.71351,ExAC SOP Score
+1.0724,ExAC Stability Score,0.31,ExAC Relative Surface Area,0.66738,ExAC JS Score,0.45567,ExAC SE Score,4.12823,ExAC SOP Score
+0.4848,ExAC Stability Score,0.54,ExAC Relative Surface Area,0.44392,ExAC JS Score,0.13208,ExAC SE Score,-0.05451,ExAC SOP Score
+0.1991,ExAC Stability Score,0.07,ExAC Relative Surface Area,0.6169,ExAC JS Score,0.40339,ExAC SE Score,1.02067,ExAC SOP Score
+0.1455,ExAC Stability Score,0.81,ExAC Relative Surface Area,0.66111,ExAC JS Score,0.38447,ExAC SE Score,-0.61801,ExAC SOP Score
+0.2802,ExAC Stability Score,0.05,ExAC Relative Surface Area,0.69794,ExAC JS Score,0.68984,ExAC SE Score,3.26145,ExAC SOP Score
+0.3588,ExAC Stability Score,0.45,ExAC Relative Surface Area,0.52601,ExAC JS Score,0.48082,ExAC SE Score,1.73772,ExAC SOP Score
+0.8426,ExAC Stability Score,0.14,ExAC Relative Surface Area,0.61033,ExAC JS Score,0.33527,ExAC SE Score,-1.01946,ExAC SOP Score
+0.2002,ExAC Stability Score,0.61,ExAC Relative Surface Area,0.59783,ExAC JS Score,0.42158,ExAC SE Score,1.67602,ExAC SOP Score
+0.3538,ExAC Stability Score,0.43,ExAC Relative Surface Area,0.61818,ExAC JS Score,0.43779,ExAC SE Score,-0.49167,ExAC SOP Score
+0.5657,ExAC Stability Score,0.23,ExAC Relative Surface Area,0.6692,ExAC JS Score,0.52868,ExAC SE Score,-0.86841,ExAC SOP Score
+0.4169,ExAC Stability Score,0.23,ExAC Relative Surface Area,0.6692,ExAC JS Score,0.52868,ExAC SE Score,-0.86841,ExAC SOP Score
+1.3674,ExAC Stability Score,0.51,ExAC Relative Surface Area,0.65422,ExAC JS Score,0.45515,ExAC SE Score,1.8013,ExAC SOP Score
+0.5415,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.76763,ExAC JS Score,0.66317,ExAC SE Score,3.31557,ExAC SOP Score
+0.3922,ExAC Stability Score,0.74,ExAC Relative Surface Area,0.40347,ExAC JS Score,0.17352,ExAC SE Score,0.51377,ExAC SOP Score
+0.0351,ExAC Stability Score,0.5,ExAC Relative Surface Area,0.65718,ExAC JS Score,0.40383,ExAC SE Score,1.14104,ExAC SOP Score
+0.2082,ExAC Stability Score,0.5,ExAC Relative Surface Area,0.65718,ExAC JS Score,0.40383,ExAC SE Score,1.14104,ExAC SOP Score
+0.0889,ExAC Stability Score,0.66,ExAC Relative Surface Area,0.56211,ExAC JS Score,0.16601,ExAC SE Score,-0.74431,ExAC SOP Score
+0.0874,ExAC Stability Score,0.66,ExAC Relative Surface Area,0.56211,ExAC JS Score,0.16601,ExAC SE Score,-0.74431,ExAC SOP Score
+0.3272,ExAC Stability Score,0.38,ExAC Relative Surface Area,0.68805,ExAC JS Score,0.43589,ExAC SE Score,1.29007,ExAC SOP Score
+0.0648,ExAC Stability Score,0.43,ExAC Relative Surface Area,0.6417,ExAC JS Score,0.3058,ExAC SE Score,-0.74814,ExAC SOP Score
+0.5184,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.78428,ExAC JS Score,0.69107,ExAC SE Score,3.1113,ExAC SOP Score
+1.8333,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.63316,ExAC JS Score,0.47343,ExAC SE Score,2.50245,ExAC SOP Score
+1.4318,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.63938,ExAC JS Score,0.34918,ExAC SE Score,-1.14018,ExAC SOP Score
+0.5495,ExAC Stability Score,0.26,ExAC Relative Surface Area,0.74538,ExAC JS Score,0.67645,ExAC SE Score,3.62575,ExAC SOP Score
+0.5206,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.75327,ExAC JS Score,0.80752,ExAC SE Score,3.96359,ExAC SOP Score
+1.5382,ExAC Stability Score,0.16,ExAC Relative Surface Area,0.61742,ExAC JS Score,0.43762,ExAC SE Score,-1.27842,ExAC SOP Score
+1.2536,ExAC Stability Score,0.06,ExAC Relative Surface Area,0.70707,ExAC JS Score,0.55617,ExAC SE Score,2.04907,ExAC SOP Score
+0.3544,ExAC Stability Score,0.69,ExAC Relative Surface Area,0.6377,ExAC JS Score,0.39881,ExAC SE Score,-0.82676,ExAC SOP Score
+0.6956,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.66461,ExAC JS Score,0.36732,ExAC SE Score,1.15139,ExAC SOP Score
+0.4434,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.58722,ExAC JS Score,0.35464,ExAC SE Score,1.79285,ExAC SOP Score
+1.3769,ExAC Stability Score,0.03,ExAC Relative Surface Area,0.73124,ExAC JS Score,0.70716,ExAC SE Score,2.56588,ExAC SOP Score
+1.0599,ExAC Stability Score,0.03,ExAC Relative Surface Area,0.73124,ExAC JS Score,0.70716,ExAC SE Score,2.56588,ExAC SOP Score
+1.022,ExAC Stability Score,0.27,ExAC Relative Surface Area,0.65307,ExAC JS Score,0.41318,ExAC SE Score,1.76214,ExAC SOP Score
+1.6475,ExAC Stability Score,0.16,ExAC Relative Surface Area,0.72053,ExAC JS Score,0.63017,ExAC SE Score,3.1806,ExAC SOP Score
+1.1863,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.75328,ExAC JS Score,0.81276,ExAC SE Score,3.0862,ExAC SOP Score
+0.6278,ExAC Stability Score,0.17,ExAC Relative Surface Area,0.71364,ExAC JS Score,0.52897,ExAC SE Score,2.04392,ExAC SOP Score
+0.6695,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.7461,ExAC JS Score,0.68452,ExAC SE Score,1.58203,ExAC SOP Score
+0.5689,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.71499,ExAC JS Score,0.6563,ExAC SE Score,2.39469,ExAC SOP Score
+0.392,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.6863,ExAC JS Score,0.50887,ExAC SE Score,-0.03561,ExAC SOP Score
+1.4821,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.60631,ExAC JS Score,0.40073,ExAC SE Score,1.38797,ExAC SOP Score
+0.4529,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.60631,ExAC JS Score,0.40073,ExAC SE Score,1.38797,ExAC SOP Score
+0.3844,ExAC Stability Score,0.24,ExAC Relative Surface Area,0.68664,ExAC JS Score,0.59604,ExAC SE Score,2.87086,ExAC SOP Score
+0.8003,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.61193,ExAC JS Score,0.41354,ExAC SE Score,2.04014,ExAC SOP Score
+0.5523,ExAC Stability Score,0.51,ExAC Relative Surface Area,0.67924,ExAC JS Score,0.54064,ExAC SE Score,2.67784,ExAC SOP Score
+0.4368,ExAC Stability Score,0.51,ExAC Relative Surface Area,0.67924,ExAC JS Score,0.54064,ExAC SE Score,2.67784,ExAC SOP Score
+0.228,ExAC Stability Score,0.63,ExAC Relative Surface Area,0.5665,ExAC JS Score,0.28762,ExAC SE Score,-0.42328,ExAC SOP Score
+0.3742,ExAC Stability Score,0.58,ExAC Relative Surface Area,0.5467,ExAC JS Score,0.24393,ExAC SE Score,-1.20181,ExAC SOP Score
+0.2162,ExAC Stability Score,0.26,ExAC Relative Surface Area,0.51632,ExAC JS Score,0.20564,ExAC SE Score,1.0224,ExAC SOP Score
+0.2543,ExAC Stability Score,0.54,ExAC Relative Surface Area,0.61054,ExAC JS Score,0.28191,ExAC SE Score,-0.7994,ExAC SOP Score
+0.1365,ExAC Stability Score,0.32,ExAC Relative Surface Area,0.67159,ExAC JS Score,0.40188,ExAC SE Score,1.93791,ExAC SOP Score
+0.5144,ExAC Stability Score,0.52,ExAC Relative Surface Area,0.64896,ExAC JS Score,0.37952,ExAC SE Score,2.14678,ExAC SOP Score
+0.8793,ExAC Stability Score,0.44,ExAC Relative Surface Area,0.64032,ExAC JS Score,0.3829,ExAC SE Score,1.52357,ExAC SOP Score
+0.9739,ExAC Stability Score,0.03,ExAC Relative Surface Area,0.6764,ExAC JS Score,0.45153,ExAC SE Score,1.88858,ExAC SOP Score
+0.4947,ExAC Stability Score,0.29,ExAC Relative Surface Area,0.63637,ExAC JS Score,0.46252,ExAC SE Score,2.1688,ExAC SOP Score
+0.9562,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.72001,ExAC JS Score,0.71901,ExAC SE Score,2.70842,ExAC SOP Score
+1.3284,ExAC Stability Score,0.12,ExAC Relative Surface Area,0.71758,ExAC JS Score,0.75668,ExAC SE Score,2.77425,ExAC SOP Score
+0.7848,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.62448,ExAC JS Score,0.38293,ExAC SE Score,2.01044,ExAC SOP Score
+1.325,ExAC Stability Score,0.34,ExAC Relative Surface Area,0.69646,ExAC JS Score,0.60654,ExAC SE Score,2.69816,ExAC SOP Score
+0.1766,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.53918,ExAC JS Score,0.31981,ExAC SE Score,0.8312,ExAC SOP Score
+1.4082,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.53918,ExAC JS Score,0.31981,ExAC SE Score,0.8312,ExAC SOP Score
+0.9525,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.68395,ExAC JS Score,0.51306,ExAC SE Score,2.85772,ExAC SOP Score
+0.1691,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.57752,ExAC JS Score,0.37596,ExAC SE Score,1.97634,ExAC SOP Score
+0.6876,ExAC Stability Score,0.34,ExAC Relative Surface Area,0.63132,ExAC JS Score,0.41206,ExAC SE Score,-0.0194,ExAC SOP Score
+0.8033,ExAC Stability Score,0.3,ExAC Relative Surface Area,0.47724,ExAC JS Score,0.25021,ExAC SE Score,1.47779,ExAC SOP Score
+0.3449,ExAC Stability Score,0.26,ExAC Relative Surface Area,0.6808,ExAC JS Score,0.64022,ExAC SE Score,2.78384,ExAC SOP Score
+2.2686,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.70111,ExAC JS Score,0.70633,ExAC SE Score,2.54688,ExAC SOP Score
+0.7899,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.70111,ExAC JS Score,0.70633,ExAC SE Score,2.54688,ExAC SOP Score
+0.2858,ExAC Stability Score,0.16,ExAC Relative Surface Area,0.67384,ExAC JS Score,0.57226,ExAC SE Score,2.55238,ExAC SOP Score
+0.3104,ExAC Stability Score,0.28,ExAC Relative Surface Area,0.70187,ExAC JS Score,0.6411,ExAC SE Score,2.2538,ExAC SOP Score
+0.4573,ExAC Stability Score,0.28,ExAC Relative Surface Area,0.70187,ExAC JS Score,0.6411,ExAC SE Score,2.2538,ExAC SOP Score
+0.2218,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.69818,ExAC JS Score,0.61601,ExAC SE Score,2.08042,ExAC SOP Score
+0.8043,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.6804,ExAC JS Score,0.44887,ExAC SE Score,1.7027,ExAC SOP Score
+0.9199,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.6804,ExAC JS Score,0.44887,ExAC SE Score,1.7027,ExAC SOP Score
+0.7072,ExAC Stability Score,0.24,ExAC Relative Surface Area,0.68958,ExAC JS Score,0.53004,ExAC SE Score,1.60027,ExAC SOP Score
+0.0874,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.74373,ExAC JS Score,0.66154,ExAC SE Score,2.97088,ExAC SOP Score
+0.6621,ExAC Stability Score,0.06,ExAC Relative Surface Area,0.67287,ExAC JS Score,0.55827,ExAC SE Score,2.18295,ExAC SOP Score
+0.2458,ExAC Stability Score,0.3,ExAC Relative Surface Area,0.58425,ExAC JS Score,0.28528,ExAC SE Score,-0.92654,ExAC SOP Score
+0.4924,ExAC Stability Score,0.23,ExAC Relative Surface Area,0.5852,ExAC JS Score,0.32408,ExAC SE Score,0.94694,ExAC SOP Score
+0.0333,ExAC Stability Score,0.31,ExAC Relative Surface Area,0.65587,ExAC JS Score,0.42542,ExAC SE Score,1.75165,ExAC SOP Score
+1.6045,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.79269,ExAC JS Score,0.7244,ExAC SE Score,3.38186,ExAC SOP Score
+0.1396,ExAC Stability Score,0.58,ExAC Relative Surface Area,0.58003,ExAC JS Score,0.25605,ExAC SE Score,-0.99974,ExAC SOP Score
+0.6531,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.73179,ExAC JS Score,0.57872,ExAC SE Score,2.06281,ExAC SOP Score
+1.6456,ExAC Stability Score,0.05,ExAC Relative Surface Area,0.70729,ExAC JS Score,0.47797,ExAC SE Score,1.7599,ExAC SOP Score
+0.9803,ExAC Stability Score,0.05,ExAC Relative Surface Area,0.70729,ExAC JS Score,0.47797,ExAC SE Score,1.7599,ExAC SOP Score
+0.8996,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.67297,ExAC JS Score,0.43117,ExAC SE Score,2.1302,ExAC SOP Score
+0.8185,ExAC Stability Score,0.29,ExAC Relative Surface Area,0.66857,ExAC JS Score,0.29056,ExAC SE Score,-0.48828,ExAC SOP Score
+0.5642,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.55747,ExAC JS Score,0.27051,ExAC SE Score,1.19557,ExAC SOP Score
+0.0184,ExAC Stability Score,0.4,ExAC Relative Surface Area,0.62884,ExAC JS Score,0.33524,ExAC SE Score,-0.60415,ExAC SOP Score
+1.1763,ExAC Stability Score,0.13,ExAC Relative Surface Area,0.56234,ExAC JS Score,0.25173,ExAC SE Score,0.88413,ExAC SOP Score
+0.6058,ExAC Stability Score,0.12,ExAC Relative Surface Area,0.7181,ExAC JS Score,0.49649,ExAC SE Score,1.80469,ExAC SOP Score
+0.7624,ExAC Stability Score,0.1,ExAC Relative Surface Area,0.65009,ExAC JS Score,0.44433,ExAC SE Score,2.48994,ExAC SOP Score
+0.4976,ExAC Stability Score,0.47,ExAC Relative Surface Area,0.66487,ExAC JS Score,0.47075,ExAC SE Score,2.01109,ExAC SOP Score
+0.2503,ExAC Stability Score,0.43,ExAC Relative Surface Area,0.62886,ExAC JS Score,0.35303,ExAC SE Score,-1.35328,ExAC SOP Score
+0.569,ExAC Stability Score,0.43,ExAC Relative Surface Area,0.62886,ExAC JS Score,0.35303,ExAC SE Score,-1.35328,ExAC SOP Score
+0.47,ExAC Stability Score,0.43,ExAC Relative Surface Area,0.62886,ExAC JS Score,0.35303,ExAC SE Score,-1.35328,ExAC SOP Score
+1.3149,ExAC Stability Score,0.16,ExAC Relative Surface Area,0.81563,ExAC JS Score,0.89972,ExAC SE Score,4.54676,ExAC SOP Score
+1.3384,ExAC Stability Score,0.16,ExAC Relative Surface Area,0.81563,ExAC JS Score,0.89972,ExAC SE Score,4.54676,ExAC SOP Score
+0.0758,ExAC Stability Score,0.71,ExAC Relative Surface Area,0.45251,ExAC JS Score,0.17416,ExAC SE Score,-0.75587,ExAC SOP Score
+0.9771,ExAC Stability Score,0.24,ExAC Relative Surface Area,0.70198,ExAC JS Score,0.49613,ExAC SE Score,2.06481,ExAC SOP Score
+1.0601,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.67015,ExAC JS Score,0.39776,ExAC SE Score,1.69569,ExAC SOP Score
+0.0537,ExAC Stability Score,0.51,ExAC Relative Surface Area,0.66329,ExAC JS Score,0.414,ExAC SE Score,-0.58316,ExAC SOP Score
+0.0938,ExAC Stability Score,0.51,ExAC Relative Surface Area,0.66329,ExAC JS Score,0.414,ExAC SE Score,-0.58316,ExAC SOP Score
+0.2109,ExAC Stability Score,0.64,ExAC Relative Surface Area,0.57188,ExAC JS Score,0.23466,ExAC SE Score,-0.35975,ExAC SOP Score
+0.0678,ExAC Stability Score,0.35,ExAC Relative Surface Area,0.73038,ExAC JS Score,0.59511,ExAC SE Score,2.93702,ExAC SOP Score
+0.769,ExAC Stability Score,0.28,ExAC Relative Surface Area,0.71808,ExAC JS Score,0.49242,ExAC SE Score,3.04269,ExAC SOP Score
+0.3596,ExAC Stability Score,0.38,ExAC Relative Surface Area,0.50393,ExAC JS Score,0.26954,ExAC SE Score,0.50989,ExAC SOP Score
+0.5278,ExAC Stability Score,0.38,ExAC Relative Surface Area,0.50393,ExAC JS Score,0.26954,ExAC SE Score,0.50989,ExAC SOP Score
+0.46,ExAC Stability Score,0.24,ExAC Relative Surface Area,0.6978,ExAC JS Score,0.49923,ExAC SE Score,1.59847,ExAC SOP Score
+0.0009,ExAC Stability Score,0.53,ExAC Relative Surface Area,0.60941,ExAC JS Score,0.33458,ExAC SE Score,1.47098,ExAC SOP Score
+0.1003,ExAC Stability Score,0.67,ExAC Relative Surface Area,0.68238,ExAC JS Score,0.44635,ExAC SE Score,2.12282,ExAC SOP Score
+0.0412,ExAC Stability Score,0.65,ExAC Relative Surface Area,0.57324,ExAC JS Score,0.34214,ExAC SE Score,1.18392,ExAC SOP Score
+0.2133,ExAC Stability Score,0.69,ExAC Relative Surface Area,0.55005,ExAC JS Score,0.25853,ExAC SE Score,0.28257,ExAC SOP Score
+0.0055,ExAC Stability Score,0.53,ExAC Relative Surface Area,0.7141,ExAC JS Score,0.53582,ExAC SE Score,2.2073,ExAC SOP Score
+0.3088,ExAC Stability Score,0.52,ExAC Relative Surface Area,0.63137,ExAC JS Score,0.33022,ExAC SE Score,0.75474,ExAC SOP Score
+0.3869,ExAC Stability Score,0.52,ExAC Relative Surface Area,0.63137,ExAC JS Score,0.33022,ExAC SE Score,0.75474,ExAC SOP Score
+0.7362,ExAC Stability Score,0.28,ExAC Relative Surface Area,0.62471,ExAC JS Score,0.40239,ExAC SE Score,1.81609,ExAC SOP Score
+1.0796,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.75809,ExAC JS Score,0.69118,ExAC SE Score,4.43732,ExAC SOP Score
+0.6834,ExAC Stability Score,0.59,ExAC Relative Surface Area,0.54941,ExAC JS Score,0.26836,ExAC SE Score,0.90311,ExAC SOP Score
+1.4004,ExAC Stability Score,0.29,ExAC Relative Surface Area,0.70472,ExAC JS Score,0.44343,ExAC SE Score,1.3974,ExAC SOP Score
+0.758,ExAC Stability Score,0.45,ExAC Relative Surface Area,0.66706,ExAC JS Score,0.46225,ExAC SE Score,2.8495,ExAC SOP Score
+0.4398,ExAC Stability Score,0.7,ExAC Relative Surface Area,0.61167,ExAC JS Score,0.30734,ExAC SE Score,-0.42113,ExAC SOP Score
+0.0649,ExAC Stability Score,0.67,ExAC Relative Surface Area,0.61114,ExAC JS Score,0.38565,ExAC SE Score,0.99428,ExAC SOP Score
+0.5917,ExAC Stability Score,0.67,ExAC Relative Surface Area,0.61114,ExAC JS Score,0.38565,ExAC SE Score,0.99428,ExAC SOP Score
+0.684,ExAC Stability Score,0.61,ExAC Relative Surface Area,0.65434,ExAC JS Score,0.46012,ExAC SE Score,1.47872,ExAC SOP Score
+0.0964,ExAC Stability Score,0.61,ExAC Relative Surface Area,0.65434,ExAC JS Score,0.46012,ExAC SE Score,1.47872,ExAC SOP Score
+0.4784,ExAC Stability Score,0.69,ExAC Relative Surface Area,0.57207,ExAC JS Score,0.34994,ExAC SE Score,0.56048,ExAC SOP Score
+0.4309,ExAC Stability Score,0.59,ExAC Relative Surface Area,0.66619,ExAC JS Score,0.44871,ExAC SE Score,1.69898,ExAC SOP Score
+0.7821,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.78015,ExAC JS Score,0.68248,ExAC SE Score,2.74755,ExAC SOP Score
+1.0029,ExAC Stability Score,0.25,ExAC Relative Surface Area,0.6748,ExAC JS Score,0.52049,ExAC SE Score,2.36107,ExAC SOP Score
+0.3476,ExAC Stability Score,0.35,ExAC Relative Surface Area,0.78814,ExAC JS Score,0.77221,ExAC SE Score,4.78457,ExAC SOP Score
+0.6528,ExAC Stability Score,0.54,ExAC Relative Surface Area,0.65597,ExAC JS Score,0.52028,ExAC SE Score,2.21152,ExAC SOP Score
+1.0672,ExAC Stability Score,0.33,ExAC Relative Surface Area,0.69519,ExAC JS Score,0.62318,ExAC SE Score,4.16598,ExAC SOP Score
+1.9323,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.70631,ExAC JS Score,0.61651,ExAC SE Score,1.50782,ExAC SOP Score
+0.8746,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.63472,ExAC JS Score,0.3496,ExAC SE Score,-0.38215,ExAC SOP Score
+0.6383,ExAC Stability Score,0.53,ExAC Relative Surface Area,0.62757,ExAC JS Score,0.34959,ExAC SE Score,1.87482,ExAC SOP Score
+0.5835,ExAC Stability Score,0.59,ExAC Relative Surface Area,0.56703,ExAC JS Score,0.27963,ExAC SE Score,-0.58302,ExAC SOP Score
+0.2019,ExAC Stability Score,0.47,ExAC Relative Surface Area,0.6718,ExAC JS Score,0.40217,ExAC SE Score,1.25294,ExAC SOP Score
+0.0993,ExAC Stability Score,0.72,ExAC Relative Surface Area,0.65357,ExAC JS Score,0.41926,ExAC SE Score,-0.56329,ExAC SOP Score
+0.0096,ExAC Stability Score,0.14,ExAC Relative Surface Area,0.80411,ExAC JS Score,0.80142,ExAC SE Score,3.79043,ExAC SOP Score
+0.4139,ExAC Stability Score,0.55,ExAC Relative Surface Area,0.63516,ExAC JS Score,0.36368,ExAC SE Score,1.55741,ExAC SOP Score
+0.2957,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.68654,ExAC JS Score,0.50722,ExAC SE Score,-0.06381,ExAC SOP Score
+1.3372,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.76975,ExAC JS Score,0.64099,ExAC SE Score,2.28975,ExAC SOP Score
+0.0803,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.65314,ExAC JS Score,0.38155,ExAC SE Score,2.06551,ExAC SOP Score
+0.0286,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.61773,ExAC JS Score,0.39344,ExAC SE Score,1.10046,ExAC SOP Score
+0.4388,ExAC Stability Score,0.47,ExAC Relative Surface Area,0.65304,ExAC JS Score,0.39279,ExAC SE Score,1.7615,ExAC SOP Score
+0.8951,ExAC Stability Score,0.32,ExAC Relative Surface Area,0.67914,ExAC JS Score,0.55271,ExAC SE Score,2.05255,ExAC SOP Score
+1.8468,ExAC Stability Score,0.41,ExAC Relative Surface Area,0.61701,ExAC JS Score,0.30552,ExAC SE Score,1.39633,ExAC SOP Score
+0.6608,ExAC Stability Score,0.62,ExAC Relative Surface Area,0.66775,ExAC JS Score,0.39484,ExAC SE Score,1.93864,ExAC SOP Score
+0.6341,ExAC Stability Score,0.44,ExAC Relative Surface Area,0.52676,ExAC JS Score,0.2626,ExAC SE Score,0.44296,ExAC SOP Score
+0.4296,ExAC Stability Score,0.44,ExAC Relative Surface Area,0.52676,ExAC JS Score,0.2626,ExAC SE Score,0.44296,ExAC SOP Score
+0.8707,ExAC Stability Score,0.44,ExAC Relative Surface Area,0.52676,ExAC JS Score,0.2626,ExAC SE Score,0.44296,ExAC SOP Score
+2.829,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.66736,ExAC JS Score,0.6798,ExAC SE Score,2.97447,ExAC SOP Score
+1.9198,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.66736,ExAC JS Score,0.6798,ExAC SE Score,2.97447,ExAC SOP Score
+0.2963,ExAC Stability Score,0.66,ExAC Relative Surface Area,0.54312,ExAC JS Score,0.21519,ExAC SE Score,0.42788,ExAC SOP Score
+0.2615,ExAC Stability Score,0.54,ExAC Relative Surface Area,0.51761,ExAC JS Score,0.24812,ExAC SE Score,-0.02727,ExAC SOP Score
+0.1248,ExAC Stability Score,0.54,ExAC Relative Surface Area,0.51761,ExAC JS Score,0.24812,ExAC SE Score,-0.02727,ExAC SOP Score
+0.0007,ExAC Stability Score,0.6,ExAC Relative Surface Area,0.48764,ExAC JS Score,0.24729,ExAC SE Score,0.6635,ExAC SOP Score
+0.9294,ExAC Stability Score,0.6,ExAC Relative Surface Area,0.48764,ExAC JS Score,0.24729,ExAC SE Score,0.6635,ExAC SOP Score
+1.0907,ExAC Stability Score,0.57,ExAC Relative Surface Area,0.68444,ExAC JS Score,0.48253,ExAC SE Score,2.43554,ExAC SOP Score
+0.6535,ExAC Stability Score,0.49,ExAC Relative Surface Area,0.53495,ExAC JS Score,0.15466,ExAC SE Score,-0.54178,ExAC SOP Score
+0.4961,ExAC Stability Score,0.49,ExAC Relative Surface Area,0.53495,ExAC JS Score,0.15466,ExAC SE Score,-0.54178,ExAC SOP Score
+0.8995,ExAC Stability Score,0.49,ExAC Relative Surface Area,0.53495,ExAC JS Score,0.15466,ExAC SE Score,-0.54178,ExAC SOP Score
+0.4792,ExAC Stability Score,0.47,ExAC Relative Surface Area,0.63477,ExAC JS Score,0.37146,ExAC SE Score,0.95574,ExAC SOP Score
+1.3024,ExAC Stability Score,0.35,ExAC Relative Surface Area,0.67311,ExAC JS Score,0.44337,ExAC SE Score,1.77302,ExAC SOP Score
+1.3152,ExAC Stability Score,0.35,ExAC Relative Surface Area,0.67311,ExAC JS Score,0.44337,ExAC SE Score,1.77302,ExAC SOP Score
+0.4423,ExAC Stability Score,0.62,ExAC Relative Surface Area,0.60076,ExAC JS Score,0.27621,ExAC SE Score,2.07541,ExAC SOP Score
+0.3356,ExAC Stability Score,0.52,ExAC Relative Surface Area,0.74397,ExAC JS Score,0.66924,ExAC SE Score,2.43938,ExAC SOP Score
+0.7188,ExAC Stability Score,0.43,ExAC Relative Surface Area,0.81321,ExAC JS Score,0.81797,ExAC SE Score,3.58018,ExAC SOP Score
+1.0967,ExAC Stability Score,0.32,ExAC Relative Surface Area,0.53434,ExAC JS Score,0.20103,ExAC SE Score,-0.89422,ExAC SOP Score
+1.2699,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.62156,ExAC JS Score,0.35565,ExAC SE Score,-0.04206,ExAC SOP Score
+0.1493,ExAC Stability Score,0.62,ExAC Relative Surface Area,0.72394,ExAC JS Score,0.56555,ExAC SE Score,2.31008,ExAC SOP Score
+0.1213,ExAC Stability Score,0.62,ExAC Relative Surface Area,0.72394,ExAC JS Score,0.56555,ExAC SE Score,2.31008,ExAC SOP Score
+0.8369,ExAC Stability Score,0.47,ExAC Relative Surface Area,0.48004,ExAC JS Score,0.18647,ExAC SE Score,0.27088,ExAC SOP Score
+0.0908,ExAC Stability Score,0.47,ExAC Relative Surface Area,0.48004,ExAC JS Score,0.18647,ExAC SE Score,0.27088,ExAC SOP Score
+0.2781,ExAC Stability Score,0.48,ExAC Relative Surface Area,0.71891,ExAC JS Score,0.54362,ExAC SE Score,2.5088,ExAC SOP Score
+1.0412,ExAC Stability Score,0.65,ExAC Relative Surface Area,0.66993,ExAC JS Score,0.42612,ExAC SE Score,1.39683,ExAC SOP Score
+0.1154,ExAC Stability Score,0.65,ExAC Relative Surface Area,0.66993,ExAC JS Score,0.42612,ExAC SE Score,1.39683,ExAC SOP Score
+0.3072,ExAC Stability Score,0.72,ExAC Relative Surface Area,0.6439,ExAC JS Score,0.3545,ExAC SE Score,1.82192,ExAC SOP Score
+1.0797,ExAC Stability Score,0.72,ExAC Relative Surface Area,0.6439,ExAC JS Score,0.3545,ExAC SE Score,1.82192,ExAC SOP Score
+0.7495,ExAC Stability Score,0.31,ExAC Relative Surface Area,0.64079,ExAC JS Score,0.31299,ExAC SE Score,1.51186,ExAC SOP Score
+1.1887,ExAC Stability Score,0.34,ExAC Relative Surface Area,0.61849,ExAC JS Score,0.31449,ExAC SE Score,1.84001,ExAC SOP Score
+0.589,ExAC Stability Score,0.34,ExAC Relative Surface Area,0.61849,ExAC JS Score,0.31449,ExAC SE Score,1.84001,ExAC SOP Score
+0.4933,ExAC Stability Score,0.43,ExAC Relative Surface Area,0.69859,ExAC JS Score,0.5562,ExAC SE Score,3.44897,ExAC SOP Score
+0.2418,ExAC Stability Score,0.39,ExAC Relative Surface Area,0.70864,ExAC JS Score,0.47833,ExAC SE Score,3.35612,ExAC SOP Score
+0.2646,ExAC Stability Score,0.39,ExAC Relative Surface Area,0.70864,ExAC JS Score,0.47833,ExAC SE Score,3.35612,ExAC SOP Score
+0.0438,ExAC Stability Score,0.55,ExAC Relative Surface Area,0.66906,ExAC JS Score,0.43778,ExAC SE Score,2.37696,ExAC SOP Score
+0.4813,ExAC Stability Score,0.34,ExAC Relative Surface Area,0.6572,ExAC JS Score,0.51259,ExAC SE Score,1.87984,ExAC SOP Score
+0.3895,ExAC Stability Score,0.7,ExAC Relative Surface Area,0.75904,ExAC JS Score,0.71075,ExAC SE Score,2.45896,ExAC SOP Score
+0.8832,ExAC Stability Score,0.29,ExAC Relative Surface Area,0.73768,ExAC JS Score,0.70449,ExAC SE Score,2.51168,ExAC SOP Score
+0.6208,ExAC Stability Score,0.51,ExAC Relative Surface Area,0.53567,ExAC JS Score,0.26205,ExAC SE Score,0.83963,ExAC SOP Score
+0.18,ExAC Stability Score,0.58,ExAC Relative Surface Area,0.68454,ExAC JS Score,0.42393,ExAC SE Score,2.53223,ExAC SOP Score
+0.3032,ExAC Stability Score,0.65,ExAC Relative Surface Area,0.42957,ExAC JS Score,0.18294,ExAC SE Score,-0.79565,ExAC SOP Score
+0.2512,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.56611,ExAC JS Score,0.37494,ExAC SE Score,-0.27241,ExAC SOP Score
+0.7201,ExAC Stability Score,0.49,ExAC Relative Surface Area,0.45785,ExAC JS Score,0.13142,ExAC SE Score,0.31752,ExAC SOP Score
+0.0334,ExAC Stability Score,0.53,ExAC Relative Surface Area,0.4646,ExAC JS Score,0.2039,ExAC SE Score,0.51657,ExAC SOP Score
+0.094,ExAC Stability Score,0.15,ExAC Relative Surface Area,0.63907,ExAC JS Score,0.3782,ExAC SE Score,1.58215,ExAC SOP Score
+0.359,ExAC Stability Score,0.34,ExAC Relative Surface Area,0.53716,ExAC JS Score,0.36496,ExAC SE Score,2.59193,ExAC SOP Score
+0.0274,ExAC Stability Score,0.29,ExAC Relative Surface Area,0.46473,ExAC JS Score,0.31139,ExAC SE Score,1.59964,ExAC SOP Score
+1.0334,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.78868,ExAC JS Score,0.85854,ExAC SE Score,3.43246,ExAC SOP Score
+0.4027,ExAC Stability Score,0.39,ExAC Relative Surface Area,0.65737,ExAC JS Score,0.49991,ExAC SE Score,2.68643,ExAC SOP Score
+0.1739,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.65877,ExAC JS Score,0.51668,ExAC SE Score,2.87178,ExAC SOP Score
+0.2595,ExAC Stability Score,0.29,ExAC Relative Surface Area,0.65834,ExAC JS Score,0.56871,ExAC SE Score,1.44437,ExAC SOP Score
+0.7309,ExAC Stability Score,0.17,ExAC Relative Surface Area,0.68192,ExAC JS Score,0.53721,ExAC SE Score,2.41347,ExAC SOP Score
+0.5458,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.73231,ExAC JS Score,0.66985,ExAC SE Score,2.33923,ExAC SOP Score
+1.115,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.69843,ExAC JS Score,0.61764,ExAC SE Score,2.65161,ExAC SOP Score
+0.1848,ExAC Stability Score,0.1,ExAC Relative Surface Area,0.61196,ExAC JS Score,0.38671,ExAC SE Score,1.57805,ExAC SOP Score
+0.1164,ExAC Stability Score,0.5,ExAC Relative Surface Area,0.63718,ExAC JS Score,0.31361,ExAC SE Score,-1.22259,ExAC SOP Score
+0.2742,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.67582,ExAC JS Score,0.4608,ExAC SE Score,2.83799,ExAC SOP Score
+0.5242,ExAC Stability Score,0.28,ExAC Relative Surface Area,0.6877,ExAC JS Score,0.57993,ExAC SE Score,2.41296,ExAC SOP Score
+0.1143,ExAC Stability Score,0.62,ExAC Relative Surface Area,0.69301,ExAC JS Score,0.55394,ExAC SE Score,2.37601,ExAC SOP Score
+0.1555,ExAC Stability Score,0.12,ExAC Relative Surface Area,0.74485,ExAC JS Score,0.65709,ExAC SE Score,2.63772,ExAC SOP Score
+0.6977,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.59344,ExAC JS Score,0.31228,ExAC SE Score,1.2416,ExAC SOP Score
+0.4989,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.59344,ExAC JS Score,0.31228,ExAC SE Score,1.2416,ExAC SOP Score
+0.2627,ExAC Stability Score,0.45,ExAC Relative Surface Area,0.52327,ExAC JS Score,0.2071,ExAC SE Score,0.99922,ExAC SOP Score
+0.4084,ExAC Stability Score,0.45,ExAC Relative Surface Area,0.52327,ExAC JS Score,0.2071,ExAC SE Score,0.99922,ExAC SOP Score
+0.9327,ExAC Stability Score,0.1,ExAC Relative Surface Area,0.64999,ExAC JS Score,0.46625,ExAC SE Score,1.24621,ExAC SOP Score
+0.3327,ExAC Stability Score,0.1,ExAC Relative Surface Area,0.64999,ExAC JS Score,0.46625,ExAC SE Score,1.24621,ExAC SOP Score
+0.1169,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.64629,ExAC JS Score,0.43399,ExAC SE Score,1.86483,ExAC SOP Score
+1.1888,ExAC Stability Score,0.08,ExAC Relative Surface Area,0.77961,ExAC JS Score,0.81735,ExAC SE Score,3.33582,ExAC SOP Score
+0.7972,ExAC Stability Score,0.48,ExAC Relative Surface Area,0.48096,ExAC JS Score,0.24729,ExAC SE Score,0.59429,ExAC SOP Score
+0.5247,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.54345,ExAC JS Score,0.19475,ExAC SE Score,-0.51701,ExAC SOP Score
+1.3368,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.60368,ExAC JS Score,0.2775,ExAC SE Score,-0.53627,ExAC SOP Score
+0.1013,ExAC Stability Score,0.57,ExAC Relative Surface Area,0.60391,ExAC JS Score,0.25655,ExAC SE Score,-1.37075,ExAC SOP Score
+0.9438,ExAC Stability Score,0.61,ExAC Relative Surface Area,0.75401,ExAC JS Score,0.73646,ExAC SE Score,3.6095,ExAC SOP Score
+0.3635,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.72698,ExAC JS Score,0.58204,ExAC SE Score,1.5943,ExAC SOP Score
+0.1906,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.50174,ExAC JS Score,0.25878,ExAC SE Score,-0.79094,ExAC SOP Score
+0.5468,ExAC Stability Score,0.22,ExAC Relative Surface Area,0.65659,ExAC JS Score,0.47981,ExAC SE Score,2.16705,ExAC SOP Score
+0.0004,ExAC Stability Score,0.26,ExAC Relative Surface Area,0.64313,ExAC JS Score,0.31015,ExAC SE Score,1.23334,ExAC SOP Score
+0.9353,ExAC Stability Score,0.33,ExAC Relative Surface Area,0.4373,ExAC JS Score,0.24621,ExAC SE Score,0.82467,ExAC SOP Score
+0.5424,ExAC Stability Score,0.33,ExAC Relative Surface Area,0.4373,ExAC JS Score,0.24621,ExAC SE Score,0.82467,ExAC SOP Score
+0.8237,ExAC Stability Score,0.51,ExAC Relative Surface Area,0.76581,ExAC JS Score,0.71801,ExAC SE Score,3.37752,ExAC SOP Score
+0.2411,ExAC Stability Score,0.12,ExAC Relative Surface Area,0.70324,ExAC JS Score,0.50287,ExAC SE Score,1.68285,ExAC SOP Score
+0.2331,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.75214,ExAC JS Score,0.76977,ExAC SE Score,4.08945,ExAC SOP Score
+0.6559,ExAC Stability Score,0.11,ExAC Relative Surface Area,0.66951,ExAC JS Score,0.48655,ExAC SE Score,1.99696,ExAC SOP Score
+0.2352,ExAC Stability Score,0.25,ExAC Relative Surface Area,0.71385,ExAC JS Score,0.61479,ExAC SE Score,2.44952,ExAC SOP Score
+0.6813,ExAC Stability Score,0.3,ExAC Relative Surface Area,0.75513,ExAC JS Score,0.72176,ExAC SE Score,3.32935,ExAC SOP Score
+0.0526,ExAC Stability Score,0.05,ExAC Relative Surface Area,0.67338,ExAC JS Score,0.53619,ExAC SE Score,2.52625,ExAC SOP Score
+0.3905,ExAC Stability Score,0.4,ExAC Relative Surface Area,0.59362,ExAC JS Score,0.4164,ExAC SE Score,-0.95571,ExAC SOP Score
+0.4502,ExAC Stability Score,0.04,ExAC Relative Surface Area,0.72876,ExAC JS Score,0.63432,ExAC SE Score,2.96796,ExAC SOP Score
+0.7051,ExAC Stability Score,0.25,ExAC Relative Surface Area,0.72969,ExAC JS Score,0.73735,ExAC SE Score,3.06253,ExAC SOP Score
+0.0429,ExAC Stability Score,0.25,ExAC Relative Surface Area,0.72969,ExAC JS Score,0.73735,ExAC SE Score,3.06253,ExAC SOP Score
+0.6511,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.58535,ExAC JS Score,0.33689,ExAC SE Score,-0.00165,ExAC SOP Score
+0.3487,ExAC Stability Score,0.09,ExAC Relative Surface Area,0.73751,ExAC JS Score,0.75317,ExAC SE Score,2.77248,ExAC SOP Score
+1.1602,ExAC Stability Score,0.08,ExAC Relative Surface Area,0.73888,ExAC JS Score,0.73443,ExAC SE Score,4.15952,ExAC SOP Score
+1.6297,ExAC Stability Score,0.08,ExAC Relative Surface Area,0.73888,ExAC JS Score,0.73443,ExAC SE Score,4.15952,ExAC SOP Score
+0.1422,ExAC Stability Score,0.32,ExAC Relative Surface Area,0.50224,ExAC JS Score,0.31323,ExAC SE Score,0.15907,ExAC SOP Score
+0.6619,ExAC Stability Score,0.09,ExAC Relative Surface Area,0.66684,ExAC JS Score,0.52831,ExAC SE Score,1.65078,ExAC SOP Score
+0.435,ExAC Stability Score,0.32,ExAC Relative Surface Area,0.62051,ExAC JS Score,0.42174,ExAC SE Score,-0.60312,ExAC SOP Score
+0.1076,ExAC Stability Score,0.47,ExAC Relative Surface Area,0.40518,ExAC JS Score,0.21773,ExAC SE Score,1.10347,ExAC SOP Score
+0.6919,ExAC Stability Score,0.52,ExAC Relative Surface Area,0.41648,ExAC JS Score,0.18205,ExAC SE Score,-0.81851,ExAC SOP Score
+0.8144,ExAC Stability Score,0.05,ExAC Relative Surface Area,0.59816,ExAC JS Score,0.28919,ExAC SE Score,1.49438,ExAC SOP Score
+0.45,ExAC Stability Score,0.54,ExAC Relative Surface Area,0.52722,ExAC JS Score,0.26151,ExAC SE Score,1.34995,ExAC SOP Score
+0.1486,ExAC Stability Score,0.4,ExAC Relative Surface Area,0.66385,ExAC JS Score,0.42694,ExAC SE Score,-0.401,ExAC SOP Score
+0.2245,ExAC Stability Score,0.4,ExAC Relative Surface Area,0.66385,ExAC JS Score,0.42694,ExAC SE Score,-0.401,ExAC SOP Score
+1.2848,ExAC Stability Score,0.16,ExAC Relative Surface Area,0.44139,ExAC JS Score,0.16861,ExAC SE Score,-0.08851,ExAC SOP Score
+0.3835,ExAC Stability Score,0.16,ExAC Relative Surface Area,0.44139,ExAC JS Score,0.16861,ExAC SE Score,-0.08851,ExAC SOP Score
+0.1642,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.57783,ExAC JS Score,0.28198,ExAC SE Score,-0.44246,ExAC SOP Score
+0.1639,ExAC Stability Score,0.33,ExAC Relative Surface Area,0.64526,ExAC JS Score,0.46366,ExAC SE Score,-0.13002,ExAC SOP Score
+0.4212,ExAC Stability Score,0.27,ExAC Relative Surface Area,0.61022,ExAC JS Score,0.36493,ExAC SE Score,-0.15827,ExAC SOP Score
+0.3332,ExAC Stability Score,0.36,ExAC Relative Surface Area,0.74899,ExAC JS Score,0.71942,ExAC SE Score,3.96097,ExAC SOP Score
+0.5515,ExAC Stability Score,0.12,ExAC Relative Surface Area,0.64753,ExAC JS Score,0.44238,ExAC SE Score,1.51555,ExAC SOP Score
+0.7583,ExAC Stability Score,0.07,ExAC Relative Surface Area,0.66737,ExAC JS Score,0.45071,ExAC SE Score,-0.71536,ExAC SOP Score
+1.0658,ExAC Stability Score,0.19,ExAC Relative Surface Area,0.65274,ExAC JS Score,0.36244,ExAC SE Score,-1.15366,ExAC SOP Score
+0.1859,ExAC Stability Score,0.09,ExAC Relative Surface Area,0.60588,ExAC JS Score,0.38709,ExAC SE Score,4.057,ExAC SOP Score
+0.9808,ExAC Stability Score,0.24,ExAC Relative Surface Area,0.69209,ExAC JS Score,0.62614,ExAC SE Score,3.32974,ExAC SOP Score
+0.03,ExAC Stability Score,0.24,ExAC Relative Surface Area,0.69209,ExAC JS Score,0.62614,ExAC SE Score,3.32974,ExAC SOP Score
+0.3785,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.72662,ExAC JS Score,0.70037,ExAC SE Score,1.68379,ExAC SOP Score
+0.6472,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.72662,ExAC JS Score,0.70037,ExAC SE Score,1.68379,ExAC SOP Score
+0.0795,ExAC Stability Score,0.23,ExAC Relative Surface Area,0.67778,ExAC JS Score,0.57311,ExAC SE Score,1.99775,ExAC SOP Score
+1.9028,ExAC Stability Score,0.05,ExAC Relative Surface Area,0.72373,ExAC JS Score,0.64222,ExAC SE Score,2.97595,ExAC SOP Score
+0.5456,ExAC Stability Score,0.07,ExAC Relative Surface Area,0.6231,ExAC JS Score,0.44378,ExAC SE Score,2.03323,ExAC SOP Score
+0.4109,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.67183,ExAC JS Score,0.52578,ExAC SE Score,1.75912,ExAC SOP Score
+1.0539,ExAC Stability Score,0.05,ExAC Relative Surface Area,0.75358,ExAC JS Score,0.72986,ExAC SE Score,3.78237,ExAC SOP Score
+0.2197,ExAC Stability Score,0.54,ExAC Relative Surface Area,0.65472,ExAC JS Score,0.43333,ExAC SE Score,-0.89257,ExAC SOP Score
+0.0916,ExAC Stability Score,0.27,ExAC Relative Surface Area,0.70226,ExAC JS Score,0.66251,ExAC SE Score,2.74036,ExAC SOP Score
+0.0692,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.5264,ExAC JS Score,0.17054,ExAC SE Score,-0.40831,ExAC SOP Score
+0.2186,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.5264,ExAC JS Score,0.17054,ExAC SE Score,-0.40831,ExAC SOP Score
+0.0336,ExAC Stability Score,0.37,ExAC Relative Surface Area,0.5264,ExAC JS Score,0.17054,ExAC SE Score,-0.40831,ExAC SOP Score
+0.0794,ExAC Stability Score,0.26,ExAC Relative Surface Area,0.63785,ExAC JS Score,0.4274,ExAC SE Score,1.57126,ExAC SOP Score
+0.0339,ExAC Stability Score,0.25,ExAC Relative Surface Area,0.68915,ExAC JS Score,0.41165,ExAC SE Score,-0.81342,ExAC SOP Score
+1.0968,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.58269,ExAC JS Score,0.34436,ExAC SE Score,1.53351,ExAC SOP Score
+0.2006,ExAC Stability Score,0.21,ExAC Relative Surface Area,0.63461,ExAC JS Score,0.39532,ExAC SE Score,-1.01707,ExAC SOP Score
+1.2852,ExAC Stability Score,0.31,ExAC Relative Surface Area,0.668,ExAC JS Score,0.34876,ExAC SE Score,-0.31297,ExAC SOP Score
+2.7459,ExAC Stability Score,0.24,ExAC Relative Surface Area,0.63873,ExAC JS Score,0.3997,ExAC SE Score,2.64321,ExAC SOP Score
+2.2033,ExAC Stability Score,0.18,ExAC Relative Surface Area,0.75534,ExAC JS Score,0.63859,ExAC SE Score,3.69057,ExAC SOP Score
+0.7469,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.58646,ExAC JS Score,0.23165,ExAC SE Score,-0.72709,ExAC SOP Score
+0.2159,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.58646,ExAC JS Score,0.23165,ExAC SE Score,-0.72709,ExAC SOP Score
+0.4817,ExAC Stability Score,0.56,ExAC Relative Surface Area,0.51767,ExAC JS Score,0.19393,ExAC SE Score,-0.39986,ExAC SOP Score
+1.5857,ExAC Stability Score,0.25,ExAC Relative Surface Area,0.61422,ExAC JS Score,0.31177,ExAC SE Score,-0.3193,ExAC SOP Score
+1.354,ExAC Stability Score,0.32,ExAC Relative Surface Area,0.68101,ExAC JS Score,0.42075,ExAC SE Score,1.84771,ExAC SOP Score
+0.6759,ExAC Stability Score,0.41,ExAC Relative Surface Area,0.61713,ExAC JS Score,0.34218,ExAC SE Score,-0.2664,ExAC SOP Score
+0.7628,ExAC Stability Score,0.33,ExAC Relative Surface Area,0.6975,ExAC JS Score,0.58036,ExAC SE Score,2.50891,ExAC SOP Score
+0.6921,ExAC Stability Score,0.06,ExAC Relative Surface Area,0.77743,ExAC JS Score,0.61812,ExAC SE Score,3.52057,ExAC SOP Score
+2.1395,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.67509,ExAC JS Score,0.3972,ExAC SE Score,1.68466,ExAC SOP Score
+1.1422,ExAC Stability Score,0.2,ExAC Relative Surface Area,0.67509,ExAC JS Score,0.3972,ExAC SE Score,1.68466,ExAC SOP Score
+2.3716,ExAC Stability Score,0.23,ExAC Relative Surface Area,0.7012,ExAC JS Score,0.4186,ExAC SE Score,1.13197,ExAC SOP Score
