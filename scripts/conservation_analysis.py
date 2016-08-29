@@ -23,16 +23,6 @@ pathogenic_mutations = "F1278L, F1278S, N1277S, R1274Q, R1274W, E1273G, R1272H, 
 pathogenic_mutations = map(str, pathogenic_mutations.split(", "))
 benign_mutations = ""
 #benign_mutations = map(str, benign_mutations.split(", "))
-polarAA = ["N", "Q", "S", "T", "K", "R", "H", "D", "E"]
-nonPolarAA = ["A", "V", "L", "I", "P", "Y", "F", "M", "W", "C"]
-hBondingAA = ["C", "W", "N", "Q", "S", "T", "Y", "K", "R", "H", "D", "E"]
-sulfurContainingAA = ["C", "M"]
-acidicAA = ["D", "E"]
-basicAA = ["K", "R"]
-ionizableAA = ["D", "E", "H", "C", "Y", "K", "R"]
-aromaticAA = ["F", "W", "Y"]
-aliphaticAA = ["G", "A", "V", "L", "I", "P"]
-aa_symbols = {"Gly": "G", "Ala": "A", "Leu": "L", "Met": "M", "Phe": "F", "Trp": "W", "Lys": "K", "Gln": "Q", "Glu": "E", "Ser": "S", "Pro": "P", "Val": "V",  "Ile": "I", "Cys": "C", "NPC1": "Y", "His": "H", "Arg": "R", "Asn": "N", "Asp": "D", "Thr": "T", "del": "d" }
 fullyConservedMutations = 0
 fullyConserved = 0
 fullyConservedMouse = 0
@@ -79,43 +69,6 @@ def clean_sequences(humanSequence, mouseSequence, zebrafishSequence, drosophilaS
 humanSequence, mouseSequence, zebrafishSequence, drosophilaSequence, celegansSequence, yeastSequence = clean_sequences(humanSequence, mouseSequence, zebrafishSequence, drosophilaSequence, celegansSequence, yeastSequence, empty_positions)
 
 print(str(len(humanSequence))) + " lenght human sequence"
-
-#def process_mutations(path, pathogenic_mutations, benign_mutations, gene, aa_symbols):
-  #read_file = open(path, 'rb')
-  #reader = csv.reader(read_file, delimiter='\t')
-  #fieldnames = reader.next()
-  #for row in reader:
-      #if not row:
-          #continue
-          #geneSymbol = row[6]
-          #print geneSymbol
-          #significance = row[7]
-          #id = row[10]
-          #index = id.index(":p.")+3
-          #protein_change_raw = id[index:]
-          #protein_change = ""
-          #if geneSymbol == gene:
-              #if protein_change_raw[len(protein_change_raw-1)] != "=":
-                  #if protein_change_raw[len(protein_change_raw-1) == "*"]:
-                      #cAA = protein_change_raw[-1:]
-                      #oAA = protein_change_raw[:3]
-                      #protein_change.append(aa_symbols[oAA])
-                      #protein_change.append(protein_change_raw[3:-1])
-                      #protein_change.append(aa_symbols[cAA])
-                  #cAA = protein_change_raw[-3:]
-                  #oAA = protein_change_raw[:3]
-                  #if oAA and cAA in aa_symbols:
-                      #protein_change.append(aa_symbols[oAA])
-                      #protein_change.append(protein_change_raw[3:-3])
-                      #protein_change.append(aa_symbols[cAA])
-                  #if significance == "Likely benign" or significance == "Benign":
-                      #benign_mutations.append(protein_change)
-                  #if significance == "Likely pathogenic" or significance == "Pathogenic":
-                      #pathogenic_mutations.append(protein_change)
-  #return pathogenic_mutations, benign_mutations
-  #read_file.close()
-
-#pathogenic_mutations, benign_mutations = process_mutations("/home/jamie/plabData/yeast_replaceable_genes/clinvar.tsv", pathogenic_mutations, benign_mutations, "ABCB7", aa_symbols)
 
 def process_jsdivergence(jsdivergencePath, jsDivergenceScores, empty_positions):
   read_file = open(jsdivergencePath, 'rU')
